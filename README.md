@@ -11,7 +11,7 @@
 ## 标签体系
 [HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[浏览器兼容](#浏览器兼容)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)
 
-#### HTML5
+## HTML5
 - Audio 和 Video
 - Web Storage
 - 离线存储
@@ -27,7 +27,7 @@
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
 
-#### CSS3
+## CSS3
 - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
 - [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [CSS 三大特性](http://jartto.wang/2017/02/08/css-features/)
@@ -42,7 +42,7 @@
 - CSS 发展
 
 
-#### 移动端
+## 移动端
 - Native App
   - React Native
 - Hybird App
@@ -54,39 +54,39 @@
 - [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
 - [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
 
-#### PWA
+## PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/)
 - [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5)
 - [PWA（Progressive Web App）初探总结](https://blog.csdn.net/qq_19238139/article/details/77531191)
 - [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
 
 
-#### WebAssembly
+## WebAssembly
 - [WebAssembly，Web的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685)
 - [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者？](http://blog.csdn.net/wulixiaoxiao1/article/details/60581397)
 - [WebAssembly 系列（四）WebAssembly 工作原理](https://segmentfault.com/a/1190000008686643)
 - [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
 
 
-#### 小程序
+## 小程序
 - [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/)
 - [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/)
 - [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 
-#### Canvas
+## Canvas
 - Canvas
 
-#### WebGL
+## WebGL
 - WebGl
   - Shader 语法
   - 向量，齐次坐标，向量空间，仿射空间
   - 矩阵变换
 
-#### SVG
+## SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/)
 - [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/)
 
-#### 动画
+## 动画
 - CSS3 动画
   - [Animate CSS](https://daneden.github.io/animate.css/?)
   - [All Animation CSS3](http://all-animation.github.io/)
@@ -95,7 +95,7 @@
   - requestAnimationFrame
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 
-#### JS
+## JS
 - 原型与原型链
 - 作用域与作用域链
 - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -115,7 +115,7 @@
 - [JS 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
 - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code)
 
-#### 模块化编程
+## 模块化编程
 - [CMD](https://github.com/seajs/seajs/issues/242)
   - [SeaJS](http://yslove.net/seajs/)
 - [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
@@ -123,7 +123,7 @@
 - [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
-#### 源码学习
+## 源码学习
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719)
 - [Webpack 源码](https://github.com/youngwind/blog/issues/99)
 - [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
@@ -138,14 +138,14 @@
 - [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension)
 - ...
 
-#### 算法
+## 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 
-#### 数据结构
+## 数据结构
 - ...
 
-#### 主流框架
+## 主流框架
 - Angular
   - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/)
   - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/)
@@ -175,7 +175,7 @@
 - [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744)
 - Express
 
-#### Nodejs
+## Nodejs
 - [Nodejs](http://nodejs.cn/api/errors.html)
   - Express
   - Koa
@@ -193,7 +193,7 @@
 - 数据库
 - [nexus 搭建npm私服](https://www.jianshu.com/p/9085f47726a2)
 
-#### Python
+## Python
 - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 - [Python 官方文档](https://www.python.org/)
 - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
@@ -219,7 +219,7 @@
   - MxNet
 - ...
 
-#### 设计模式
+## 设计模式
 - 单例模式
 - 简单工厂模式
 - 观察者模式
@@ -238,7 +238,7 @@
 - 状态模式
 - [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
 
-#### 网络协议
+## 网络协议
 - TCP
 - UDP
 - [HTTP 协议入门](http://jartto.wang/2016/08/04/Rudimentary-http-protocol/)
@@ -246,7 +246,7 @@
 - HTTPS
 - 计算机网络的 7 层协议
 
-#### 函数式编程
+## 函数式编程
 - [什么是函数式编程思维？](https://www.zhihu.com/question/28292740)
 - [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
 - 参数个数 Arity
@@ -268,7 +268,7 @@
 - ...
 
 
-#### 优化
+## 优化
 - 方式
   - 精简、打包、优化
   - 减少 HTTP 请求
@@ -280,13 +280,13 @@
   - YSlow
   - Performance
 
-#### DOM
+## DOM
 - [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
 
-#### 浏览器兼容
+## 浏览器兼容
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
-#### 缓存
+## 缓存
 - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - HTML 和 HTTP 头文件设置
   - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
