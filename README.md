@@ -357,7 +357,7 @@
 
 ### 三十七、部署
 - Docker
-  - [私服推荐 nexus](http://dockone.io/article/2168)
+  - [私服推荐 nexus](http://dockone.io/article/2168)
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402)
 - [Jenkins](https://jenkins.io)
 
