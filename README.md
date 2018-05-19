@@ -5,8 +5,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
 - 更新时间：2018-05-19
-- 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。
-
+- 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。欢迎加入，欢迎补充～
 
 ### 一、不要小瞧 HTML5
 - Audio 和 Video
