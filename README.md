@@ -84,7 +84,7 @@
   - requestAnimationFrame
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 
-### 九、JS 从哪里下手
+### 九、关于 JS
 - 原型与原型链
 - 作用域与作用域链
 - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -112,7 +112,7 @@
 - [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
-### 十一、强迫自己学习源码
+### 十一、源码学习
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719)
 - [Webpack 源码](https://github.com/youngwind/blog/issues/99)
 - [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
@@ -124,16 +124,8 @@
 - [自己动手做一个 Vue](https://github.com/fastCreator/MVVM)
 - [vue-come-true](https://github.com/coderzzp/vue-come-true)
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
-- ...
-
-源码对我来说也算是一个痛，一直没有耐下性子来看源码，所以这里也算是一个友善的建议吧。
-- 要有读源码的意识，知道为什么要读。
-- 不要在意源码的细枝末节，先顺着主干去捋一遍。
-- 如果实在看不懂的话，可以找一些源码分析的文章。
-- 请不要忽略源码中的代码测试部分，这里你可以看到函数的输入输出，以便理解。
-
-还是一些建议：
 - [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension)
+- ...
 
 ### 十二、算法和数据结构对前端同等重要
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
@@ -258,9 +250,9 @@
 - 断言 Predicate
 - 约定 Contracts
 - 范畴 Category
+- [ JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
 - ...
 
-当然，还有很多，需要学习的小伙伴们可以深度[ JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)这篇文章。
 
 ### 十九、优化
 - 方式
