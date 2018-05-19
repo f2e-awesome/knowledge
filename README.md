@@ -109,7 +109,7 @@
 - [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
-### 十一、源码学习
+### 十一、强迫自己学习源码
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719)
 - [Webpack 源码](https://github.com/youngwind/blog/issues/99)
 - [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
@@ -121,6 +121,15 @@
 - [自己动手做一个 Vue](https://github.com/fastCreator/MVVM)
 - [vue-come-true](https://github.com/coderzzp/vue-come-true)
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/)
+- ...
+
+源码对我来说也算是一个痛，一直没有耐下性子来看源码，所以这里也算是一个友善的建议吧。
+- 要有读源码的意识，知道为什么要读。
+- 不要在意源码的细枝末节，先顺着主干去捋一遍。
+- 如果实在看不懂的话，可以找一些源码分析的文章。
+- 请不要忽略源码中的代码测试部分，这里你可以看到函数的输入输出，以便理解。
+
+还是一些建议：
 - [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension)
 
 ### 十二、算法和数据结构对前端同等重要
@@ -167,7 +176,7 @@
 - 内存相关
 - 消息队列
 - 数据库
-
+- [nexus 搭建npm私服](https://www.jianshu.com/p/9085f47726a2)
 ### 十五、Python
 - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 - [Python 官方文档](https://www.python.org/)
@@ -345,7 +354,8 @@
 ### 三十六、测试
 - [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
 
-### 三十七、自动化集成
+### 三十七、部署
 - Docker
+  - [私服推荐nexus](http://dockone.io/article/2168) 大型企业级推荐[harbor](https://blog.csdn.net/mideagroup/article/details/52053402)
 - [Jenkins](https://jenkins.io)
 
