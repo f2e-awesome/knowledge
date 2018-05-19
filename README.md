@@ -9,18 +9,18 @@
 
 ### 一、不要小瞧 HTML5
 - Audio 和 Video
-- Web storage
+- Web Storage
 - 离线存储
 - WebSocket
 - 地理定位
+- [H5 全屏滑动组件](http://kele527.github.io/iSlider/)
 - [Communication](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - [Web Worker](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - [requestAnimationFrame](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - [摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
 - [全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
-
-更多详情可以参考我之前的一篇文章：[HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
+- [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
 
 ### 二、CSS3
 - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
@@ -77,8 +77,11 @@
 
 ### 八、动画
 - CSS3 动画
+  - [Animate CSS](https://daneden.github.io/animate.css/?)
+  - [All Animation CSS3](http://all-animation.github.io/)
 - CSS3 动画原理
 - JS 动画
+  - requestAnimationFrame
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 
 ### 九、JS 从哪里下手
