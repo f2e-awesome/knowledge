@@ -69,6 +69,9 @@
 ### 七、Canvas、SVG、WebGL
 - Canvas
 - WebGl
+  - Shader 语法
+  - 向量，齐次坐标，向量空间，仿射空间
+  - 矩阵变换
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/)
 - [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/)
 
@@ -178,8 +181,26 @@
 - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 - [Python 官方文档](https://www.python.org/)
 - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
-- Tornado
-- Jinja2
+- 分布式
+  - Celery
+- Web 框架
+  - Tornado
+  - Jinja2
+  - Flask
+  - Django
+- 移动端
+  - Kivy 
+- 数据分析
+  - Pandas
+- 可视化
+  - Matplotlib
+  - Seaborn
+  - Plotly
+  - Bokeh
+- 机器学习
+  - Tensorflow
+  - PyTorch
+  - MxNet
 - ...
 
 ### 十六、设计模式
@@ -202,12 +223,13 @@
 
 这里只列出大概，详细请参考：[常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
 
-### 十七、关于 HTTP
+### 十七、网络协议
 - TCP
 - UDP
 - [HTTP 协议入门](http://jartto.wang/2016/08/04/Rudimentary-http-protocol/)
 - [HTTP2](http://jartto.wang/2018/03/30/grasp-http2-0/)
 - HTTPS
+- 计算机网络的 7 层协议
 
 ### 十八、函数式编程
 - [什么是函数式编程思维？](https://www.zhihu.com/question/28292740)
