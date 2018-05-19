@@ -346,12 +346,15 @@
 - [初探 Electron - 实践篇1](http://jartto.wang/2018/01/14/first-exploration-electron-3/)
 - [初探 Electron - 实践篇2](http://jartto.wang/2018/01/21/first-exploration-electron-4/)
 
-### 三十五、测试
-- [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
-
-### 三十六、抓包工具
+### 三十五、抓包工具
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Charles](https://www.charlesproxy.com)
 - [Postman](https://www.getpostman.com)
 
+### 三十六、测试
+- [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
+
+### 三十七、部署
+- Docker
+- [Jenkins](https://jenkins.io)
 
