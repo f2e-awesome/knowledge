@@ -8,7 +8,10 @@
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 - 此外，感谢[hello2dj](https://github.com/hello2dj)、[jeyvie](https://github.com/jeyvie)、[luguizhou](https://github.com/luguizhou)等童鞋的努力付出。
 
-### HTML5
+### 标签体系
+[HMTL5](#test)
+
+### HTML5(id="test")
 - Audio 和 Video
 - Web Storage
 - 离线存储
@@ -51,26 +54,26 @@
 - [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
 - [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
 
-### 四、PWA（渐进式 Web 增强）
+### PWA（渐进式 Web 增强）
 - [官网](https://developers.google.com/web/progressive-web-apps/)
 - [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5)
 - [PWA（Progressive Web App）初探总结](https://blog.csdn.net/qq_19238139/article/details/77531191)
 - [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
 
 
-### 五、WebAssembly
+### WebAssembly
 - [WebAssembly，Web的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685)
 - [来谈谈WebAssembly是个啥？为何说它会影响每一个Web开发者？](http://blog.csdn.net/wulixiaoxiao1/article/details/60581397)
 - [WebAssembly 系列（四）WebAssembly 工作原理](https://segmentfault.com/a/1190000008686643)
 - [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
 
 
-### 六、小程序
+### 小程序
 - [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/)
 - [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/)
 - [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 
-### 七、Canvas、SVG、WebGL
+### Canvas、SVG、WebGL
 - Canvas
 - WebGl
   - Shader 语法
@@ -79,7 +82,7 @@
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/)
 - [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/)
 
-### 八、动画
+### 动画
 - CSS3 动画
   - [Animate CSS](https://daneden.github.io/animate.css/?)
   - [All Animation CSS3](http://all-animation.github.io/)
@@ -88,7 +91,7 @@
   - requestAnimationFrame
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 
-### 九、关于 JS
+### JS
 - 原型与原型链
 - 作用域与作用域链
 - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
@@ -108,7 +111,7 @@
 - [JS 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
 - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code)
 
-### 十、模块化编程
+### 模块化编程
 - [CMD](https://github.com/seajs/seajs/issues/242)
   - [SeaJS](http://yslove.net/seajs/)
 - [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD)
@@ -116,7 +119,7 @@
 - [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
-### 十一、源码学习
+### 源码学习
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719)
 - [Webpack 源码](https://github.com/youngwind/blog/issues/99)
 - [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379)
@@ -131,11 +134,14 @@
 - [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension)
 - ...
 
-### 十二、算法和数据结构对前端同等重要
+### 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 
-### 十三、框架学习必不可少
+### 数据结构
+- ...
+
+### 前端主流框架
 - Angular
   - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/)
   - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/)
@@ -165,7 +171,7 @@
 - [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744)
 - Express
 
-### 十四、努力向全栈奋斗
+### Nodejs
 - [Nodejs](http://nodejs.cn/api/errors.html)
   - Express
   - Koa
@@ -182,7 +188,8 @@
 - 消息队列
 - 数据库
 - [nexus 搭建npm私服](https://www.jianshu.com/p/9085f47726a2)
-### 十五、Python
+
+### Python
 - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 - [Python 官方文档](https://www.python.org/)
 - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
@@ -208,7 +215,7 @@
   - MxNet
 - ...
 
-### 十六、设计模式
+### 设计模式
 - 单例模式
 - 简单工厂模式
 - 观察者模式
@@ -225,10 +232,9 @@
 - 职责链模式
 - 享元模式
 - 状态模式
+- [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
 
-这里只列出大概，详细请参考：[常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
-
-### 十七、网络协议
+### 网络协议
 - TCP
 - UDP
 - [HTTP 协议入门](http://jartto.wang/2016/08/04/Rudimentary-http-protocol/)
@@ -236,7 +242,7 @@
 - HTTPS
 - 计算机网络的 7 层协议
 
-### 十八、函数式编程
+### 函数式编程
 - [什么是函数式编程思维？](https://www.zhihu.com/question/28292740)
 - [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
 - 参数个数 Arity
@@ -254,7 +260,7 @@
 - 断言 Predicate
 - 约定 Contracts
 - 范畴 Category
-- [ JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
+- [JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
 - ...
 
 
@@ -270,13 +276,13 @@
   - YSlow
   - Performance
 
-### 二十、DOM
+### DOM
 - [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
 
-### 二十一、兼容
+### 浏览器兼容
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
-### 二十二、缓存
+### 关于缓存
 - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - HTML 和 HTTP 头文件设置
   - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
@@ -286,12 +292,12 @@
 - Nginx 缓存
 - [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)。
 
-### 二十三、跨域
+### 跨域
 - [JSONP](https://www.zhihu.com/question/19966531)
 - [CORS](http://jartto.wang/2016/06/27/solutions-to-CORS/)
 - [Nginx](http://www.nginx.cn/4592.html)
 
-### 二十四、事件模型
+### 事件模型
 - 观察者模式
 - DOM0 级模型
 - IE 事件模型
@@ -299,73 +305,73 @@
 - JQuery Event 模型
 - [JS事件模型](https://segmentfault.com/a/1190000006934031)
 
-### 二十五、Web 安全
+### Web 安全
 - [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/)
 - [Web 安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d)
 - [XSS 的原理分析与解剖](http://netsecurity.51cto.com/art/201408/448305_all.htm)
 - [对于 XSS 和 CSRF 你究竟了解多少](http://netsecurity.51cto.com/art/201407/446775.htm)
 - [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
 
-### 二十六、项目构建
+### 打包构建
 - Grunt
 - Gulp
 - Webpack
   - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 
-### 二十七、版本管理 Git
+### 版本管理 Git
 - [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/)
 - [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
 - [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
 - [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/)
 
-### 二十八、代码规范
+### 代码规范
 - [ESLint](https://eslint.org)
 - [JSHint](http://www.jslint.com)
 
-### 二十九、应该知道 Nginx
+### Nginx
 - [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/)
 
-### 三十、DNS
+### DNS
 - [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html)
 - [浏览器输入网址后台是如何运作的](http://www.chinaz.com/web/2013/0228/293980.shtml)
 
-### 三十一、CDN
+### CDN
 - [什么是CDN？](https://www.zhihu.com/question/37353035)
 
-### 三十二、V8 引擎
+### V8 引擎
 - [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967)
 - [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549)
 - [Google V8](https://github.com/v8/v8)
 
-### 三十三、Linux
+### Linux
 - [Linux](http://jartto.wang/2016/06/24/linux-common-operation/)
 - [掌握 Linux 命令 Grep ](http://jartto.wang/2016/10/12/grasp-linux-grep/)
 - [Linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 - [Mac 下查看端口占用情况](http://jartto.wang/2016/09/28/check-the-system-port-of-mac/)
 
-### 三十四、跨平台桌面端 Electron
+### 跨平台桌面端 Electron
 - [初探 Electron - 理论篇](http://jartto.wang/2018/01/03/first-exploration-electron/)
 - [初探 Electron - 升华篇](http://jartto.wang/2018/01/04/first-exploration-electron-2/)
 - [初探 Electron - 实践篇1](http://jartto.wang/2018/01/14/first-exploration-electron-3/)
 - [初探 Electron - 实践篇2](http://jartto.wang/2018/01/21/first-exploration-electron-4/)
 
-### 三十五、抓包工具
+### 抓包工具
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Charles](https://www.charlesproxy.com)
 - [Postman](https://www.getpostman.com)
 
-### 三十六、测试
+### 测试
 - [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
 
-### 三十七、部署
+### 部署
 - Docker
   - [私服推荐 Nexus](http://dockone.io/article/2168)
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402)
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Jenkins](https://jenkins.io)
 
-### 三十八、浏览器
+### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [what-happens-when](https://github.com/alex/what-happens-when)(输入URL后浏览器发生了什么)
 
