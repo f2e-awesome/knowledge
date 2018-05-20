@@ -17,6 +17,7 @@
 - [Communication](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - [Web Worker](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - [requestAnimationFrame](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
+- requestIdleCallback
 - [摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
 - [全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
@@ -30,9 +31,11 @@
   - box-sizing
 - BFC
 - Flex
+- Grid layout
 - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/)
 - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 - [CSS Modules使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
+- CSS 发展
 
 
 ### 三、你真的懂移动端吗
@@ -360,4 +363,9 @@
   - [私服推荐 nexus](http://dockone.io/article/2168)
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402)
 - [Jenkins](https://jenkins.io)
+
+### 三十八、浏览器
+- [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
+- [what-happens-when](https://github.com/alex/what-happens-when)(输入URL后浏览器发生了什么)
+
 
