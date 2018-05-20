@@ -9,7 +9,7 @@
 - 此外，感谢[hello2dj](https://github.com/hello2dj)、[jeyvie](https://github.com/jeyvie)、[luguizhou](https://github.com/luguizhou)等童鞋的努力付出。
 
 ### 标签体系
-[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA（渐进式 Web 增强）)、[WebAssembly](#WebAssembly)、[小程序](#小程序)
+[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)
 
 ### HTML5
 - Audio 和 Video
@@ -54,7 +54,7 @@
 - [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
 - [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
 
-### PWA（渐进式 Web 增强）
+### PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/)
 - [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5)
 - [PWA（Progressive Web App）初探总结](https://blog.csdn.net/qq_19238139/article/details/77531191)
@@ -264,7 +264,7 @@
 - ...
 
 
-### 十九、优化
+### 优化
 - 方式
   - 精简、打包、优化
   - 减少 HTTP 请求
