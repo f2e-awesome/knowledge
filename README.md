@@ -360,8 +360,9 @@
 
 ### 三十七、部署
 - Docker
-  - [私服推荐 nexus](http://dockone.io/article/2168)
+  - [私服推荐 Nexus](http://dockone.io/article/2168)
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402)
+  - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 - [Jenkins](https://jenkins.io)
 
 ### 三十八、浏览器
