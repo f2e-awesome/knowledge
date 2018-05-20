@@ -4,27 +4,27 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-05-19
+- 更新时间：2018-05-20
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 - 此外，感谢[hello2dj](https://github.com/hello2dj)、[jeyvie](https://github.com/jeyvie)、[luguizhou](https://github.com/luguizhou)等童鞋的努力付出。
 
-### 一、不要小瞧 HTML5
+### HTML5
 - Audio 和 Video
 - Web Storage
 - 离线存储
 - WebSocket
 - 地理定位
-- [H5 全屏滑动组件](http://kele527.github.io/iSlider/)
-- [Communication](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
-- [Web Worker](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
-- [requestAnimationFrame](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
+- [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
+- Communication
+- Web Worker
+- requestAnimationFrame
 - requestIdleCallback
-- [摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
-- [全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
+- [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
+- [HTML5 全屏 API](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
 - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
 
-### 二、CSS3
+### CSS3
 - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
 - [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
 - [CSS 三大特性](http://jartto.wang/2017/02/08/css-features/)
@@ -39,7 +39,7 @@
 - CSS 发展
 
 
-### 三、你真的懂移动端吗
+### 移动端
 - Native App
   - React Native
 - Hybird App
@@ -278,14 +278,13 @@
 
 ### 二十二、缓存
 - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
-- HTML 和 HTTP 头文件 设置
+- HTML 和 HTTP 头文件设置
   - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
   - Expires
   - Last-Modified  /  If-Modified-Since
   - Etag  /  If-None-Match
 - Nginx 缓存
-
-当然，缓存的方式还有很多，上面主要列出一些常用的，推荐阅读：[彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)。
+- [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)。
 
 ### 二十三、跨域
 - [JSONP](https://www.zhihu.com/question/19966531)
