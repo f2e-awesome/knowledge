@@ -9,7 +9,7 @@
 - 此外，感谢[hello2dj](https://github.com/hello2dj)、[jeyvie](https://github.com/jeyvie)、[luguizhou](https://github.com/luguizhou)等童鞋的努力付出。
 
 ### 标签体系
-[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)
+[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[前端主流框架](#前端主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[浏览器兼容](#浏览器兼容)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)
 
 ### HTML5
 - Audio 和 Video
@@ -73,12 +73,16 @@
 - [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/)
 - [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 
-### Canvas、SVG、WebGL
+### Canvas
 - Canvas
+
+### WebGL
 - WebGl
   - Shader 语法
   - 向量，齐次坐标，向量空间，仿射空间
   - 矩阵变换
+
+### SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/)
 - [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/)
 
@@ -282,7 +286,7 @@
 ### 浏览器兼容
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
-### 关于缓存
+### 缓存
 - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - HTML 和 HTTP 头文件设置
   - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
@@ -305,7 +309,7 @@
 - JQuery Event 模型
 - [JS事件模型](https://segmentfault.com/a/1190000006934031)
 
-### Web 安全
+### 安全
 - [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/)
 - [Web 安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d)
 - [XSS 的原理分析与解剖](http://netsecurity.51cto.com/art/201408/448305_all.htm)
@@ -319,7 +323,7 @@
   - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 
-### 版本管理 Git
+### Git
 - [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/)
 - [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
 - [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
@@ -339,7 +343,7 @@
 ### CDN
 - [什么是CDN？](https://www.zhihu.com/question/37353035)
 
-### V8 引擎
+### V8引擎
 - [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967)
 - [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549)
 - [Google V8](https://github.com/v8/v8)
@@ -350,7 +354,7 @@
 - [Linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 - [Mac 下查看端口占用情况](http://jartto.wang/2016/09/28/check-the-system-port-of-mac/)
 
-### 跨平台桌面端 Electron
+### Electron
 - [初探 Electron - 理论篇](http://jartto.wang/2018/01/03/first-exploration-electron/)
 - [初探 Electron - 升华篇](http://jartto.wang/2018/01/04/first-exploration-electron-2/)
 - [初探 Electron - 实践篇1](http://jartto.wang/2018/01/14/first-exploration-electron-3/)
