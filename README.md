@@ -4,12 +4,12 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-05-20
+- 更新时间：2018-05-2
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 - 此外，感谢[hello2dj](https://github.com/hello2dj)、[jeyvie](https://github.com/jeyvie)、[luguizhou](https://github.com/luguizhou)等童鞋的努力付出。
 
 ## 标签体系
-[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[浏览器兼容](#浏览器兼容)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)
+[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)
 
 ## HTML5
 - Audio 和 Video
@@ -283,9 +283,6 @@
 ## DOM
 - [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
 
-## 浏览器兼容
-- [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
-
 ## 缓存
 - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 - HTML 和 HTTP 头文件设置
@@ -378,5 +375,18 @@
 ### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 - [what-happens-when](https://github.com/alex/what-happens-when)(输入URL后浏览器发生了什么)
+- [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
+### 数据可视化
+- 图表
+  - [echarts](http://echarts.baidu.com/option.html#xAxis)
+  - [highcharts](https://www.highcharts.com/products/highcharts/)
+  - [g2](https://antv.alipay.com/g2/demo/index.html)
+- 地图
+  - [Google Map](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=zh-cn)
+  - [Mapbox](https://www.mapbox.com/)
+  - [高德](http://lbs.amap.com/)
+  - [百度](http://api.map.baidu.com/)
+  - [腾讯](http://lbs.qq.com/)
+  - [蜂鸟室内地图](https://www.fengmap.com/)
 
