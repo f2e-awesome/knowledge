@@ -219,6 +219,8 @@
     *   [Stream](https://github.com/substack/stream-handbook)
     *   [Buffer](https://nodejs.org/api/buffer.html)
     *   [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html)
+    *   [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
+    *   [node debug](https://github.com/nswbmw/node-in-debugging)
     *   内存相关
 
         *   [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/)
