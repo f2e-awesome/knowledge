@@ -124,6 +124,11 @@
 *   [JS 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
 *   [30S JS](https://github.com/Chalarangelo/30-seconds-of-code)
 
+## [graphql](https://graphql.cn/)
+
+*   [apollo](https://www.apollographql.com/)
+*   [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
+
 ## 模块化编程
 
 *   [CMD](https://github.com/seajs/seajs/issues/242)
