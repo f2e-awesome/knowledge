@@ -10,7 +10,7 @@
 
 ## 标签体系
 
-[HMTL5](#HTML5)、[CSS3](#CSS3)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)
+[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)
 
 ## HTML5
 
@@ -29,7 +29,7 @@
 *   [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 *   [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
 
-## CSS3
+## CSS
 
 *   [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
 *   [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
@@ -43,6 +43,26 @@
 *   [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
 *   [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
 *   CSS 发展
+*   PostCSS
+*   CSS4
+*   IconFont
+
+## 产品设计
+- 软件
+  - PS
+  - AI
+- 原型工具
+  - Axure
+  - Sketch
+
+## 前端类库
+- jQuery
+- zepto
+- underscore
+- lodash
+- EasyUI
+- Bootstrap
+- [Meterial Design](https://material.io)
 
 ## 移动端
 
@@ -55,6 +75,15 @@
     *   Cordova
     *   Phonegap
 *   Web App
+*   预编译
+    *   SASS
+    *   LESS
+    *   Stylus
+*   响应式布局
+    *   rem
+*   webview
+    *   页面通信
+    *   原理
 *   [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
 *   [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
 
@@ -85,7 +114,7 @@
 ## WebGL
 
 *   WebGl
-    *   Shader 语法
+	*   Shader 语法
     *   向量，齐次坐标，向量空间，仿射空间
     *   矩阵变换
 
@@ -96,9 +125,11 @@
 
 ## 动画
 
-*   CSS3 动画
+*   CSS3 动画   
     *   [Animate CSS](https://daneden.github.io/animate.css/?)
     *   [All Animation CSS3](http://all-animation.github.io/)
+    *   Transform
+    *   Translate
 *   CSS3 动画原理
 *   JS 动画
     *   requestAnimationFrame
@@ -118,7 +149,10 @@
 *   [js 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
 *   [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
 *   [ES6](http://es6.ruanyifeng.com)
+    *   Generator
     *   Promise
+    *   Module
+    *   Class
     *   [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
 *   [TypeScript](https://www.tslang.cn)
 *   [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/)
@@ -214,6 +248,8 @@
         *   [loopback](https://loopback.io/)
         *   [sails](https://sailsjs.com/)
     *   [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/)
+    *   Forever
+    *   nohup
 
     *   Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
     *   [Stream](https://github.com/substack/stream-handbook)
@@ -235,7 +271,14 @@
 
 *   数据库
 
-##### Python
+## 包管理
+- npm
+- cnpm
+- yarn
+- homebrew
+- bower
+
+## Python
 
 *   [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 *   [Python 官方文档](https://www.python.org/)
@@ -363,6 +406,11 @@
 *   [XSS 的原理分析与解剖](http://netsecurity.51cto.com/art/201408/448305_all.htm)
 *   [对于 XSS 和 CSRF 你究竟了解多少](http://netsecurity.51cto.com/art/201407/446775.htm)
 *   [CSRF 攻击的应对之道](https://www.ibm.com/developerworks/cn/web/1102_niugang_csrf/)
+*   SQL 注入
+*   HTTPS
+*   内网渗透
+*   DDos 攻击
+*   点击劫持
 
 ### 打包构建
 
@@ -370,6 +418,7 @@
 *   Gulp
 *   Webpack
     *   [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
+*   Browserify
 *   [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 
 ### Git
@@ -404,11 +453,22 @@
 *   [Google V8](https://github.com/v8/v8)
 
 ### Linux
-
+*   ls/cd/rm/cat/chmod/chown/useradd/df/du/ps/top/head/tail
 *   [Linux](http://jartto.wang/2016/06/24/linux-common-operation/)
 *   [掌握 Linux 命令 Grep ](http://jartto.wang/2016/10/12/grasp-linux-grep/)
 *   [Linux 实用命令](http://jartto.wang/2016/11/02/linux-common-command/)
 *   [Mac 下查看端口占用情况](http://jartto.wang/2016/09/28/check-the-system-port-of-mac/)
+*   网络操作
+    - curl
+    - netstat
+    - lsof
+    - ifconfig
+    - ssh
+    - tcpdump
+    - iptables
+- grep
+- sed
+- awk
 
 ### Electron
 
@@ -422,10 +482,16 @@
 *   [Fiddler](https://www.telerik.com/fiddler)
 *   [Charles](https://www.charlesproxy.com)
 *   [Postman](https://www.getpostman.com)
+*   HttpWatch
 
 ### 测试
-
-*   [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
+- 单元测试
+  - Jasmine
+  - mocha
+  - chai
+  - Karma
+- 软件测试
+  - [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/)
 
 ### 部署
 
