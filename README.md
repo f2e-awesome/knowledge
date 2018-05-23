@@ -5,12 +5,12 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-*   更新时间：2018-05-22
+*   更新时间：2018-05-23
 *   说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 
 ## 标签体系
 
-[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)
+[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)
 
 ## HTML5
 
@@ -411,6 +411,7 @@
 *   内网渗透
 *   DDos 攻击
 *   点击劫持
+*   Session 劫持
 
 ### 打包构建
 
@@ -520,6 +521,7 @@
     *   [百度](http://api.map.baidu.com/)
     *   [腾讯](http://lbs.qq.com/)
     *   [蜂鸟室内地图](https://www.fengmap.com/)
-### 优秀文章
+
+### 技术杂谈
 *   [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
     > 张云龙，全民直播CTO，也是个前端工程师
