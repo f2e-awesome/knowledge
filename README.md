@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-*   更新时间：2018-05-23
+*   更新时间：2018-05-27
 *   说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 
 ## 标签体系
@@ -113,10 +113,8 @@
 
 ## WebGL
 
-*   WebGl
-	*   Shader 语法
-    *   向量，齐次坐标，向量空间，仿射空间
-    *   矩阵变换
+*   [webgl技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
+*   [webgl的实际使用](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 
 ## SVG
 
@@ -413,14 +411,7 @@
 *   点击劫持
 *   Session 劫持
 
-### 打包构建
-
-*   Grunt
-*   Gulp
-*   Webpack
-    *   [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
-*   Browserify
-*   [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
+#
 
 ### Git
 
@@ -522,7 +513,16 @@
     *   [腾讯](http://lbs.qq.com/)
     *   [蜂鸟室内地图](https://www.fengmap.com/)
 
-### 前端工程化实践
+### 前端工程化
+* [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东
+* [百度fis](http://fis.baidu.com/fis3/docs/beginning/intro.html)
+
+*   [Grunt](http://www.gruntjs.net/)
+*   [Gulp](https://www.gulpjs.com.cn/)
+*   Webpack
+    *   [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
+*   [Browserify](http://browserify.org/)
+*   [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 
 ### 技术杂谈
 *   [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
