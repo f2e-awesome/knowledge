@@ -189,10 +189,9 @@
 *   ...
 
 ## 算法
-
-*   [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
-*   [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
-*   对称加密
+- [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
+- [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
+- 对称加密
   * DES
   * 3DES
   * TDEA
@@ -203,13 +202,13 @@
   * IDEA
   * SKIPJACK
   * AES
-*   非对称加密
+- 非对称加密
   *   RSA
   *   ECC（移动设备用）
   *   Diffie-Hellman
   *   El Gamal
   *   DSA（数字签名用）
-* Hash 加密
+- Hash 加密
   * MD2
   * MD4
   * MD5
