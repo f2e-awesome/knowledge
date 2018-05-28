@@ -93,6 +93,7 @@
 *   [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5)
 *   [PWA（Progressive Web App）初探总结](https://blog.csdn.net/qq_19238139/article/details/77531191)
 *   [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
+*   [React 同构应用 PWA 升级指南](https://github.com/happylindz/blog/issues/14?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 ## WebAssembly
 
@@ -191,9 +192,40 @@
 
 *   [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
 *   [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
+  *   对称加密
+    *   DES
+    *   3DES
+    *   TDEA
+    *   Blowfish
+    *   RC2
+    *   RC4
+    *   RC5
+    *   IDEA
+    *   SKIPJACK
+    *   AES
+  *   非对称加密
+    *   RSA
+    *   ECC（移动设备用）
+    *   Diffie-Hellman
+    *   El Gamal
+    *   DSA（数字签名用）
+  * Hash 加密
+    * MD2
+    * MD4
+    * MD5
+    * HAVAL
+    * SHA
 
 ## 数据结构
 
+*   数组
+*   栈
+*   队列
+*   链表
+*   树
+*   图
+*   堆
+*   散列表
 *   ...
 
 ## 主流框架
