@@ -191,6 +191,7 @@
 ## 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
+- [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75
 - 对称加密
   * DES
   * 3DES
