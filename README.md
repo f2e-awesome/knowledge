@@ -10,7 +10,7 @@
 
 ## 标签体系
 
-[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)
+[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[加密](#加密)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)
 
 ## HTML5
 
@@ -190,9 +190,12 @@
 
 ## 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
-- [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w)链接: https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75
 - [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ)链接: https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ 密码: mmap
+
+
+## 加密
+- [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 - 对称加密
   * DES
   * 3DES
