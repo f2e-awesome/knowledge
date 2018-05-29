@@ -5,12 +5,12 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-05-28
+- 更新时间：2018-05-29
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 
 ## 标签体系
 
-[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[加密](#加密)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)
+[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)、[物联网](#物联网)
 
 ## HTML5
 
@@ -36,7 +36,7 @@
 *   [CSS 三大特性](http://jartto.wang/2017/02/08/css-features/)
 *   盒模型
     *   box-sizing
-*   BFC
+*   [BFC](https://zhuanlan.zhihu.com/p/25321647)
 *   Flex
 *   Grid layout
 *   [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/)
@@ -51,17 +51,19 @@
 - 软件
   - PS
   - AI
+  - [精品MAC应用分享](http://xclient.info/?t=b4b436fb1b66a3542c9e25e85d474bd51998960d)
 - 原型工具
   - Axure
-  - Sketch
+  - [Sketch](http://www.sketchcn.com/sketch-chinese-user-manual.html)
 
 ## 前端类库
-- jQuery
-- zepto
-- underscore
-- lodash
-- EasyUI
-- Bootstrap
+- [jQuery](http://api.jquery.com/)
+- [zepto](http://www.zeptojs.cn/)
+- [underscore](http://www.css88.com/doc/underscore/)
+- [lodash](https://www.lodashjs.com/)
+   >是一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [EasyUI](http://www.jeasyui.net/)
+- [Bootstrap](http://www.bootcss.com/)
 - [Meterial Design](https://material.io)
 
 ## 移动端
@@ -190,12 +192,9 @@
 
 ## 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
-- [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w)链接: https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75
-- [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ)链接: https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ 密码: mmap
-
-
-## 加密
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
+- [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75
+- [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ) 密码: mmap
 - 对称加密
   * DES
   * 3DES
@@ -243,11 +242,11 @@
     *   [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/)
     *   [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/)
     *   [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/)
-*   Vue
-    *   Mint-UI
-    *   Element.UI
-    *   VUE2
-    *   VUEX
+*   [Vue](https://cn.vuejs.org/)
+    *   [Mint-UI](http://mint-ui.github.io/#!/zh-cn)
+    *   [Element.UI](http://element.eleme.io/#/zh-CN/guide/design)
+    *   [VUE2](https://cn.vuejs.org/v2/guide/)
+    *   [VUEX](https://vuex.vuejs.org/)
     *   Axios
     *   Vue-Router
     *   Vue-Loader
@@ -279,7 +278,9 @@
         *   [hapijs](https://hapijs.com/)
         *   [restify](http://restify.com/)
         *   [fastify](https://www.fastify.io/)
-
+        *   [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
+        *   [nextjs](https://zeit.co/blog/next)
+        
     *   高度集成 web 框架
         *   [egg](http://eggjs.org/)
         *   [nest](https://nestjs.com/)
@@ -342,6 +343,7 @@
     *   Tensorflow
     *   PyTorch
     *   MxNet
+*   [爬虫](https://github.com/facert/awesome-spider)
 *   ...
 
 ## 设计模式
@@ -396,23 +398,21 @@
 *   ...
 
 ## 优化
+- 方式
+  - 精简、打包、优化
+  - 减少 HTTP 请求
+  - 缓存
+  - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
+  - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
+  - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
+- 工具
+  - YSlow
+  - Performance
 
-*   方式
-    *   精简、打包、优化
-    *   减少 HTTP 请求
-    *   缓存
-    *   [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
-    *   [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
-    *   [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
-*   工具
-    *   YSlow
-    *   Performance
+### DOM
+- [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
 
-## DOM
-
-*   [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
-
-## 缓存
+### 缓存
 
 *   [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
 *   HTML 和 HTTP 头文件设置
@@ -424,19 +424,17 @@
 *   [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html)。
 
 ### 跨域
-
-*   [JSONP](https://www.zhihu.com/question/19966531)
-*   [CORS](http://jartto.wang/2016/06/27/solutions-to-CORS/)
-*   [Nginx](http://www.nginx.cn/4592.html)
+- [JSONP](https://www.zhihu.com/question/19966531)
+- [CORS](http://jartto.wang/2016/06/27/solutions-to-CORS/)
+- [Nginx](http://www.nginx.cn/4592.html)
 
 ### 事件模型
-
-*   观察者模式
-*   DOM0 级模型
-*   IE 事件模型
-*   DOM2 级模型
-*   JQuery Event 模型
-*   [JS 事件模型](https://segmentfault.com/a/1190000006934031)
+- 观察者模式
+- DOM0 级模型
+- IE 事件模型
+- DOM2 级模型
+- JQuery Event 模型
+- [JS 事件模型](https://segmentfault.com/a/1190000006934031)
 
 ### 安全
 
@@ -453,35 +451,29 @@
 *   Session 劫持
 
 ### Git
-
-*   [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/)
-*   [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
-*   [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
-*   [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/)
+- [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/)
+- [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/)
+- [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/)
+- [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/)
 
 ### 代码规范
-
-*   [ESLint](https://eslint.org)
-*   [JSHint](http://www.jslint.com)
+- [ESLint](https://eslint.org)
+- [JSHint](http://www.jslint.com)
 
 ### Nginx
-
-*   [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/)
+- [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/)
 
 ### DNS
-
-*   [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html)
-*   [浏览器输入网址后台是如何运作的](http://www.chinaz.com/web/2013/0228/293980.shtml)
+- [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html)
+- [浏览器输入网址后台是如何运作的](http://www.chinaz.com/web/2013/0228/293980.shtml)
 
 ### CDN
-
-*   [什么是 CDN？](https://www.zhihu.com/question/37353035)
+- [什么是 CDN？](https://www.zhihu.com/question/37353035)
 
 ### V8 引擎
-
-*   [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967)
-*   [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549)
-*   [Google V8](https://github.com/v8/v8)
+- [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967)
+- [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549)
+- [Google V8](https://github.com/v8/v8)
 
 ### Linux
 *   ls/cd/rm/cat/chmod/chown/useradd/df/du/ps/top/head/tail
@@ -566,3 +558,11 @@
 ### 技术杂谈
 *   [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
     > 张云龙，全民直播CTO，也是个前端工程师
+*   [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466)
+    >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
+    
+### 物联网
+*   [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin)
+      [ruff入门应用开发](https://www.imooc.com/learn/958)
+
+    
