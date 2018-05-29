@@ -242,11 +242,11 @@
     *   [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/)
     *   [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/)
     *   [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/)
-*   Vue
-    *   Mint-UI
-    *   Element.UI
-    *   VUE2
-    *   VUEX
+*   [Vue](https://cn.vuejs.org/)
+    *   [Mint-UI](http://mint-ui.github.io/#!/zh-cn)
+    *   [Element.UI](http://element.eleme.io/#/zh-CN/guide/design)
+    *   [VUE2](https://cn.vuejs.org/v2/guide/)
+    *   [VUEX](https://vuex.vuejs.org/)
     *   Axios
     *   Vue-Router
     *   Vue-Loader
@@ -277,6 +277,7 @@
         *   [Koa](https://koajs.com/)
         *   [hapijs](https://hapijs.com/)
         *   [restify](http://restify.com/)
+        *   [fastify](https://www.fastify.io/)
         *   [fastify](https://www.fastify.io/)
 
     *   高度集成 web 框架
