@@ -278,8 +278,9 @@
         *   [hapijs](https://hapijs.com/)
         *   [restify](http://restify.com/)
         *   [fastify](https://www.fastify.io/)
-        *   [fastify](https://www.fastify.io/)
-
+        *   [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
+        *   [nextjs](https://zeit.co/blog/next)
+        
     *   高度集成 web 框架
         *   [egg](http://eggjs.org/)
         *   [nest](https://nestjs.com/)
