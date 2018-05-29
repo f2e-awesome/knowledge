@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GitStats - knowledge</title>
+<meta charset='utf-8'>
+<link href='../assets/bootstrap/css/bootstrap.min.css' rel='stylesheet' type='text/css'>
+<style>
+body { padding-top: 60px; }
+</style>
+<link href='../assets/bootstrap/css/bootstrap-responsive.min.css' rel='stylesheet' type='text/css'>
+<script src='../assets/jquery.min.js' type='text/javascript'></script>
+<script src='../assets/bootstrap/js/bootstrap.min.js' type='text/javascript'></script>
+<script src='../assets/highstock.js' type='text/javascript'></script>
+<script src='../assets/exporting.js' type='text/javascript'></script>
+<script src='../assets/export-csv.js' type='text/javascript'></script>
+</head>
+<body>
+<div class='navbar navbar-fixed-top'>
+<div class='navbar-inner'>
+<div class='container'>
+<a class='btn btn-navbar' data-target='.nav-collapse' data-toggle='collapse'>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+<span class='icon-bar'></span>
+</a>
+<a class='brand' href='../index.html'>GitStats - knowledge</a>
+<div class='nav-collapse collapse'>
+<ul class='nav'>
+<li class=''>
+<a href='../general.html'>General</a>
+</li>
+<li class=''>
+<a href='../activity/by_date.html'>Activity</a>
+</li>
+<li class='active'>
+<a href='best_authors.html'>Authors</a>
+</li>
+<li class=''>
+<a href='../files/by_date.html'>Files</a>
+</li>
+<li class=''>
+<a href='../lines/by_date.html'>Lines</a>
+</li>
+<li class=''>
+<a href='../comments/by_date.html'>Comments</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='tabbable tabs-left'>
+<ul class='nav nav-tabs'>
+<li class='active'>
+<a href='best_authors.html'>Best authors</a>
+</li>
+<li class=''>
+<a href='commits_sum_by_author_by_date.html'>Commits sum by author by date</a>
+</li>
+<li class=''>
+<a href='changed_lines_by_author_by_date.html'>Changed lines by author by date</a>
+</li>
+<li class=''>
+<a href='insertions_by_author_by_date.html'>Lines added by author by date</a>
+</li>
+<li class=''>
+<a href='deletions_by_author_by_date.html'>Lines deleted by author by date</a>
+</li>
+</ul>
+<div class='tab-content'>
+<div class='tab-pane active'>
+<div class='page-header'>
+<h1 class='pagination-centered'>Best authors</h1>
+</div>
+<table class='table table-bordered table-condensed table-hover'>
+<tr>
+<th>#</th>
+<th>Author</th>
+<th>Commits</th>
+<th>Lines added</th>
+<th>Lines deleted</th>
+<th>First commit</th>
+<th>Last commit</th>
+<th></th>
+</tr>
+<tr>
+<th>1</th>
+<th>Jartto &lt;jartto@qq.com&gt;</th>
+<td>39</td>
+<td>721</td>
+<td>265</td>
+<td>May 14, 2018 17:36</td>
+<td>May 28, 2018 20:10</td>
+<td>
+<a class='btn' href='jartto/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='jartto/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+<tr>
+<th>2</th>
+<th>dengjie &lt;JieDeng@sf-express.com&gt;</th>
+<td>7</td>
+<td>387</td>
+<td>317</td>
+<td>May 22, 2018 09:37</td>
+<td>May 27, 2018 15:24</td>
+<td>
+<a class='btn' href='dengjie/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='dengjie/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+<tr>
+<th>3</th>
+<th>luguizhou &lt;422386546@qq.com&gt;</th>
+<td>3</td>
+<td>17</td>
+<td>5</td>
+<td>May 19, 2018 14:28</td>
+<td>May 28, 2018 19:59</td>
+<td>
+<a class='btn' href='luguizhou/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='luguizhou/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+<tr>
+<th>4</th>
+<th>Jartto &lt;jartto@wangjiataodeMacBook-Pro.local&gt;</th>
+<td>2</td>
+<td>32</td>
+<td>7</td>
+<td>May 19, 2018 11:03</td>
+<td>May 19, 2018 11:13</td>
+<td>
+<a class='btn' href='jartto/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='jartto/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+<tr>
+<th>5</th>
+<th>wmu &lt;wmuisnan@gmail.com&gt;</th>
+<td>1</td>
+<td>8</td>
+<td>0</td>
+<td>May 20, 2018 11:55</td>
+<td>May 20, 2018 11:55</td>
+<td>
+<a class='btn' href='wmu/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='wmu/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+<tr>
+<th>6</th>
+<th>chenfengyanyu &lt;jartto@qq.com&gt;</th>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td></td>
+<td></td>
+<td>
+<a class='btn' href='chenfengyanyu/activity/by_date.html'>Activity</a>
+</td>
+<td>
+<a class='btn' href='chenfengyanyu/author_details/commits_by_date.html'>Details</a>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+
+</div>
+</body>
+</html>
