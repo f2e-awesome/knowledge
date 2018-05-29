@@ -566,8 +566,11 @@
 ### 技术杂谈
 *   [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
     > 张云龙，全民直播CTO，也是个前端工程师
+*   [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466)
+    >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
     
 ### 物联网
 *   [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin)
       [ruff入门应用开发](https://www.imooc.com/learn/958)
+
     
