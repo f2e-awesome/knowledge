@@ -51,9 +51,10 @@
 - 软件
   - PS
   - AI
+  - [精品MAC应用分享](http://xclient.info/?t=b4b436fb1b66a3542c9e25e85d474bd51998960d)
 - 原型工具
   - Axure
-  - Sketch
+  - [Sketch](http://www.sketchcn.com/sketch-chinese-user-manual.html)
 
 ## 前端类库
 - jQuery
