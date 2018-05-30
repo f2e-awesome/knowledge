@@ -61,7 +61,6 @@
 - [zepto](http://www.zeptojs.cn/)
 - [underscore](http://www.css88.com/doc/underscore/)
 - [lodash](https://www.lodashjs.com/)
-   >是一个一致性、模块化、高性能的 JavaScript 实用工具库
 - [EasyUI](http://www.jeasyui.net/)
 - [Bootstrap](http://www.bootcss.com/)
 - [Meterial Design](https://material.io)
