@@ -531,38 +531,40 @@
 *   [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/)
 
 ### 数据可视化
-
-*   图表
-    *   [echarts](http://echarts.baidu.com/option.html#xAxis)
-    *   [highcharts](https://www.highcharts.com/products/highcharts/)
-    *   [g2](https://antv.alipay.com/g2/demo/index.html)
-*   地图
-    *   [Google Map](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=zh-cn)
-    *   [Mapbox](https://www.mapbox.com/)
-    *   [高德](http://lbs.amap.com/)
-    *   [百度](http://api.map.baidu.com/)
-    *   [腾讯](http://lbs.qq.com/)
-    *   [蜂鸟室内地图](https://www.fengmap.com/)
+- 图表
+  - [echarts](http://echarts.baidu.com/option.html#xAxis)
+  - [highcharts](https://www.highcharts.com/products/highcharts/)
+  - [g2](https://antv.alipay.com/g2/demo/index.html)
+- 地图
+  - [Google Map](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=zh-cn)
+  - [Mapbox](https://www.mapbox.com/)
+  - [高德](http://lbs.amap.com/)
+  - [百度](http://api.map.baidu.com/)
+  - [腾讯](http://lbs.qq.com/)
+  - [蜂鸟室内地图](https://www.fengmap.com/)
 
 ### 前端工程化
-* [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东
-* [百度fis](http://fis.baidu.com/fis3/docs/beginning/intro.html)
+- [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东
+- [百度 fis](http://fis.baidu.com/fis3/docs/beginning/intro.html)
 
-*   [Grunt](http://www.gruntjs.net/)
-*   [Gulp](https://www.gulpjs.com.cn/)
-*   Webpack
-    *   [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
-*   [Browserify](http://browserify.org/)
-*   [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
+- [Grunt](http://www.gruntjs.net/)
+- [Gulp](https://www.gulpjs.com.cn/)
+- Webpack
+    - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
+    - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0)
+- [Browserify](http://browserify.org/)
+- [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
+
+### 物联网
+- [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin)
+- [ruff入门应用开发](https://www.imooc.com/learn/958)
 
 ### 技术杂谈
-*   [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
+- [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) 
     > 张云龙，全民直播CTO，也是个前端工程师
-*   [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466)
+- [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466)
     >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
     
-### 物联网
-*   [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin)
-      [ruff入门应用开发](https://www.imooc.com/learn/958)
+
 
     
