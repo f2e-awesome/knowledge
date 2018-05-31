@@ -12,7 +12,7 @@
 
 [HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)、[物联网](#物联网)
 
-## HTML5
+### HTML5
 
 *   Audio 和 Video
 *   Web Storage
@@ -29,7 +29,7 @@
 *   [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
 *   [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)。
 
-## CSS
+### CSS
 
 *   [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
 *   [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
@@ -47,7 +47,7 @@
 *   CSS4
 *   IconFont
 
-## 产品设计
+### 产品设计
 - 软件
   - PS
   - AI
@@ -56,7 +56,7 @@
   - Axure
   - [Sketch](http://www.sketchcn.com/sketch-chinese-user-manual.html)
 
-## 前端类库
+### 前端类库
 - [jQuery](http://api.jquery.com/)
 - [zepto](http://www.zeptojs.cn/)
 - [underscore](http://www.css88.com/doc/underscore/)
@@ -65,7 +65,7 @@
 - [Bootstrap](http://www.bootcss.com/)
 - [Meterial Design](https://material.io)
 
-## 移动端
+### 移动端
 
 *   Native App
     *   [React Native](https://facebook.github.io/react-native/)
@@ -88,7 +88,7 @@
 *   [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/)
 *   [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/)
 
-## PWA
+### PWA
 
 *   [官网](https://developers.google.com/web/progressive-web-apps/)
 *   [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5)
@@ -96,34 +96,34 @@
 *   [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
 *   [React 同构应用 PWA 升级指南](https://github.com/happylindz/blog/issues/14?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
-## WebAssembly
+### WebAssembly
 
 *   [WebAssembly，Web 的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685)
 *   [来谈谈 WebAssembly 是个啥？为何说它会影响每一个 Web 开发者？](http://blog.csdn.net/wulixiaoxiao1/article/details/60581397)
 *   [WebAssembly 系列（四）WebAssembly 工作原理](https://segmentfault.com/a/1190000008686643)
 *   [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286)
 
-## 小程序
+### 小程序
 
 *   [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/)
 *   [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/)
 *   [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/)
 
-## Canvas
+### Canvas
 
 *   Canvas
 
-## WebGL
+### WebGL
 
 *   [webgl技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/)
 *   [webgl的实际使用](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/)
 
-## SVG
+### SVG
 
 *   [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/)
 *   [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/)
 
-## 动画
+### 动画
 
 *   CSS3 动画   
     *   [Animate CSS](https://daneden.github.io/animate.css/?)
@@ -135,7 +135,7 @@
     *   requestAnimationFrame
 *   [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 
-## JS
+### JS
 
 *   原型与原型链
 *   作用域与作用域链
@@ -159,12 +159,12 @@
 *   [JS 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
 *   [30S JS](https://github.com/Chalarangelo/30-seconds-of-code)
 
-## [graphql](https://graphql.cn/)
+### [graphql](https://graphql.cn/)
 
 *   [apollo](https://www.apollographql.com/)
 *   [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
 
-## 模块化编程
+### 模块化编程
 
 *   [CMD](https://github.com/seajs/seajs/issues/242)
     *   [SeaJS](http://yslove.net/seajs/)
@@ -173,7 +173,7 @@
 *   [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html)
 *   [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507)
 
-## 源码学习
+### 源码学习
 
 *   [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719)
 *   [Webpack 源码](https://github.com/youngwind/blog/issues/99)
@@ -189,7 +189,7 @@
 *   [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension)
 *   ...
 
-## 算法
+### 算法
 - [掌握排序算法](http://jartto.wang/2016/07/15/grasp-sorting-algorithm/)
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/)
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75
@@ -218,7 +218,7 @@
   * HAVAL
   * SHA
 
-## 数据结构
+### 数据结构
 - 数组
 - 栈
 - 队列
@@ -235,8 +235,7 @@
   - 
 - ...
 
-## 主流框架
-
+### 主流框架
 *   Angular
     *   [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/)
     *   [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/)
@@ -266,58 +265,48 @@
 *   [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744)
 *   Express
 
-## web 服务器端
-
-*   [Nodejs](https://nodejs.org/en/)
-
-    *   基础 web 框架
-
-        *   [Express](http://www.expressjs.com.cn/)
-        *   [Koa](https://koajs.com/)
-        *   [hapijs](https://hapijs.com/)
-        *   [restify](http://restify.com/)
-        *   [fastify](https://www.fastify.io/)
-        *   [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
-        *   [nextjs](https://zeit.co/blog/next)
+### web 服务器端
+- [Nodejs](https://nodejs.org/en/)
+  - 基础 web 框架
+  - [Express](http://www.expressjs.com.cn/)
+  - [Koa](https://koajs.com/)
+  - [hapijs](https://hapijs.com/)
+  - [restify](http://restify.com/)
+  - [fastify](https://www.fastify.io/)
+  - [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
+  - [nextjs](https://zeit.co/blog/next)
         
-    *   高度集成 web 框架
-        *   [egg](http://eggjs.org/)
-        *   [nest](https://nestjs.com/)
-        *   [thinkjs](https://thinkjs.org/)
-        *   [loopback](https://loopback.io/)
-        *   [sails](https://sailsjs.com/)
-    *   [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/)
-    *   Forever
-    *   nohup
+- 高度集成 web 框架
+  - [egg](http://eggjs.org/)
+  - [nest](https://nestjs.com/)
+  - [thinkjs](https://thinkjs.org/)
+  - [loopback](https://loopback.io/)
+  - [sails](https://sailsjs.com/)
+  - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/)
+  - Forever
+  - nohup
+  - Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+  - [Stream](https://github.com/substack/stream-handbook)
+  - [Buffer](https://nodejs.org/api/buffer.html)
+  - [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html)
+  - [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
+  - [node debug](https://github.com/nswbmw/node-in-debugging)
+  - 内存相关
+  - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/)
+- [deno](https://github.com/ry/deno)
+- [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2)
+- Nginx
+- 消息队列
+- 数据库
 
-    *   Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
-    *   [Stream](https://github.com/substack/stream-handbook)
-    *   [Buffer](https://nodejs.org/api/buffer.html)
-    *   [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html)
-    *   [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/)
-    *   [node debug](https://github.com/nswbmw/node-in-debugging)
-    *   内存相关
-
-        *   [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/)
-
-*   npm
-
-    *   [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2)
-
-*   Nginx
-
-*   消息队列
-
-*   数据库
-
-## 包管理
+### 包管理
 - npm
 - cnpm
 - yarn
 - homebrew
 - bower
 
-## Python
+### Python
 
 *   [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
 *   [Python 官方文档](https://www.python.org/)
@@ -345,7 +334,7 @@
 *   [爬虫](https://github.com/facert/awesome-spider)
 *   ...
 
-## 设计模式
+### 设计模式
 
 *   单例模式
 *   简单工厂模式
@@ -365,7 +354,7 @@
 *   状态模式
 *   [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
 
-## 网络协议
+### 网络协议
 
 *   TCP
 *   UDP
@@ -374,7 +363,7 @@
 *   HTTPS
 *   计算机网络的 7 层协议
 
-## 函数式编程
+### 函数式编程
 
 *   [什么是函数式编程思维？](https://www.zhihu.com/question/28292740)
 *   [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/)
@@ -396,7 +385,7 @@
 *   [JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
 *   ...
 
-## 优化
+### 优化
 - 方式
   - 精简、打包、优化
   - 减少 HTTP 请求
@@ -546,7 +535,7 @@
 ### 前端工程化
 - [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东
 - [百度 fis](http://fis.baidu.com/fis3/docs/beginning/intro.html)
-- [scrat](http://scrat-team.github.io/#!/quick-start)
+- [Scrat](http://scrat-team.github.io/#!/quick-start)
 - [Grunt](http://www.gruntjs.net/)
 - [Gulp](https://www.gulpjs.com.cn/)
 - Webpack
