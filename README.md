@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-05-30
+- 更新时间：2018-05-31
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 
 ## 标签体系
@@ -546,12 +546,12 @@
 ### 前端工程化
 - [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东
 - [百度 fis](http://fis.baidu.com/fis3/docs/beginning/intro.html)
-
+- [scrat](http://scrat-team.github.io/#!/quick-start)
 - [Grunt](http://www.gruntjs.net/)
 - [Gulp](https://www.gulpjs.com.cn/)
 - Webpack
-    - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
-    - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0)
+  - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d)
+  - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0)
 - [Browserify](http://browserify.org/)
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/)
 
