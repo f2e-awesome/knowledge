@@ -61,7 +61,6 @@
 - [zepto](http://www.zeptojs.cn/)
 - [underscore](http://www.css88.com/doc/underscore/)
 - [lodash](https://www.lodashjs.com/)
-   >是一个一致性、模块化、高性能的 JavaScript 实用工具库
 - [EasyUI](http://www.jeasyui.net/)
 - [Bootstrap](http://www.bootcss.com/)
 - [Meterial Design](https://material.io)
@@ -408,6 +407,7 @@
 - 工具
   - YSlow
   - Performance
+- [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
 
 ### DOM
 - [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp)
@@ -568,3 +568,5 @@
 
 
     
+
+
