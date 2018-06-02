@@ -1,12 +1,7 @@
-# F2E-Awesome
-
-[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
-[![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
-[![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
+# F2E-Awesome [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)[![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers)[![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)[![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
 - 更新时间：2018-06-02
-- 内容以星号标记难度等级，☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
+- 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 
 ## 标签体系
 
