@@ -6,7 +6,6 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
 - 更新时间：2018-06-02
-- 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 - 内容以星号标记难度等级，☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 
 ## 标签体系
