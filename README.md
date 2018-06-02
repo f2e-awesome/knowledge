@@ -15,6 +15,7 @@
 
 ### HTML5
 - 初级 ☆
+  - 语义化
   - Audio 和 Video
   - Web Storage
 - 中级 ☆☆
@@ -31,7 +32,7 @@
   - requestAnimationFrame
   - requestIdleCallback
 - 扩展
-  - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆
+  - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
 
 ### CSS
 - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/) ☆
