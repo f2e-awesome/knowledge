@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-06-01
+- 更新时间：2018-06-02
 - 说明：文档着重构建一个完整的「前端技术架构图谱」，方便 `F2E` 学习与进阶。你可以理解为「前端百科全书」、「前端面试宝典」或者其他。
 - 内容以星号标记难度等级，☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 
@@ -14,20 +14,24 @@
 [HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)、[物联网](#物联网)
 
 ### HTML5
-- Audio 和 Video ☆
-- Web Storage ☆
-- 离线存储 ☆
-- WebSocket ☆☆
-- 地理定位 ☆
-- [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/) ☆
-- Communication ☆☆
-- Web Worker ☆☆
-- requestAnimationFrame ☆☆
-- requestIdleCallback ☆☆
-- [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/) ☆
-- [HTML5 全屏 API](http://jartto.wang/2017/06/25/h5-fullscreen-api/) ☆
-- [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/) ☆
-- [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆
+- 初级 ☆
+  - Audio 和 Video
+  - Web Storage
+- 中级 ☆☆
+  - 离线存储
+  - 地理定位
+  - WebSocket
+  - [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
+  - [HTML5 全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
+  - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
+  - [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
+- 高级 ☆☆☆
+  - Communication
+  - Web Worker
+  - requestAnimationFrame
+  - requestIdleCallback
+- 补充
+  - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆
 
 ### CSS
 - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/) ☆
@@ -130,27 +134,34 @@
 - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/) ☆
 
 ### JS
-
-*   原型与原型链 ☆
-*   作用域与作用域链 ☆
-*   [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89) ☆
-*   [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/) ☆
-*   垃圾回收 ☆☆
-*   堆和栈 ☆☆
-*   继承 ☆☆
-*   [我所理解的 call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/) ☆
-*   [掌握 JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/) ☆☆
-*   [js 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/) ☆
-*   [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/) ☆☆
-*   [ES6](http://es6.ruanyifeng.com)
-    *   Generator ☆☆
-    *   Promise ☆☆
-    *   Module ☆
-    *   Class ☆☆
-    *   [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/) ☆
-*   [TypeScript](https://www.tslang.cn) ☆☆☆
-*   [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
-*   [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+- 原型与原型链 ☆
+- 作用域与作用域链 ☆
+- [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89) ☆
+- [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/) ☆
+- 垃圾回收 ☆☆
+- 堆和栈 ☆☆
+- 继承 ☆☆
+- [我所理解的 call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/) ☆
+- [掌握 JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/) ☆☆
+- [js 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/) ☆
+- [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/) ☆☆
+- [ES6](http://es6.ruanyifeng.com)
+  - Generator ☆☆
+  - Promise ☆☆
+  - Module ☆
+  - Class ☆☆
+  - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/) ☆
+- [TypeScript](https://www.tslang.cn) ☆☆☆
+- [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
+- [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+- JavaScript 如何工作 ☆☆☆
+  - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
+  - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
+  - [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md)
+  - [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md)
+  - [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md)
+  - [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md)
+  - [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md)
 
 ### [graphql](https://graphql.cn/)
 - [apollo](https://www.apollographql.com/)
