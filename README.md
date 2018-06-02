@@ -30,7 +30,7 @@
   - Web Worker
   - requestAnimationFrame
   - requestIdleCallback
-- 补充
+- 扩展
   - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆
 
 ### CSS
