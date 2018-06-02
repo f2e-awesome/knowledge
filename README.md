@@ -46,11 +46,49 @@
   - Flex
   - Grid layout
   - PostCSS
+  - CSS3 动画   
+    - [Animate CSS](https://daneden.github.io/animate.css/?)
+    - [All Animation CSS3](http://all-animation.github.io/)
+    - Transform
+    - Translate
+  - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
 - 高级 ☆☆☆
+  - CSS4
+  - CSS3 动画原理
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
-  - CSS4
+
+
+### JS
+- 原型与原型链 ☆
+- 作用域与作用域链 ☆
+- [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89) ☆
+- [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/) ☆
+- 垃圾回收 ☆☆
+- 堆和栈 ☆☆
+- 继承 ☆☆
+- [我所理解的 call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/) ☆
+- [掌握 JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/) ☆☆
+- [js 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/) ☆
+- [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/) ☆☆
+- [ES6](http://es6.ruanyifeng.com)
+  - Generator ☆☆
+  - Promise ☆☆
+  - Module ☆
+  - Class ☆☆
+  - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/) ☆
+- [TypeScript](https://www.tslang.cn) ☆☆☆
+- [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
+- [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+- JavaScript 如何工作 ☆☆☆
+  - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
+  - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
+  - [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md)
+  - [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md)
+  - [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md)
+  - [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md)
+  - [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md)
 
 ### 产品设计
 - 软件
@@ -122,48 +160,6 @@
 ### SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/) ☆☆
 - [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/) ☆☆
-
-### 动画
-
-- CSS3 动画   
-  - [Animate CSS](https://daneden.github.io/animate.css/?) ☆
-  - [All Animation CSS3](http://all-animation.github.io/) ☆
-  - Transform ☆
-  - Translate ☆
-- CSS3 动画原理 ☆☆☆
-- JS 动画 ☆
-  - requestAnimationFrame ☆☆
-- [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/) ☆
-
-### JS
-- 原型与原型链 ☆
-- 作用域与作用域链 ☆
-- [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89) ☆
-- [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/) ☆
-- 垃圾回收 ☆☆
-- 堆和栈 ☆☆
-- 继承 ☆☆
-- [我所理解的 call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/) ☆
-- [掌握 JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/) ☆☆
-- [js 之强大的正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/) ☆
-- [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/) ☆☆
-- [ES6](http://es6.ruanyifeng.com)
-  - Generator ☆☆
-  - Promise ☆☆
-  - Module ☆
-  - Class ☆☆
-  - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/) ☆
-- [TypeScript](https://www.tslang.cn) ☆☆☆
-- [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
-- [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
-- JavaScript 如何工作 ☆☆☆
-  - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
-  - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
-  - [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md)
-  - [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md)
-  - [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md)
-  - [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md)
-  - [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md)
 
 ### [graphql](https://graphql.cn/)
 - [apollo](https://www.apollographql.com/)
