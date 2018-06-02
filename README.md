@@ -35,21 +35,24 @@
   - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
 
 ### CSS
-- [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/) ☆
-- [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/) ☆
-- [CSS 三大特性](http://jartto.wang/2017/02/08/css-features/) ☆
-- 盒模型 ☆
-  - box-sizing ☆
-- [BFC](https://zhuanlan.zhihu.com/p/25321647) ☆
-- Flex ☆
-- Grid layout ☆
-- [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) ☆☆☆
-- [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/) ☆☆☆
-- [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926) ☆
-- CSS 发展 ☆☆☆
-- PostCSS ☆☆
-- CSS4 ☆☆
-- IconFont ☆
+- 初级 ☆
+  - [CSS 实用概要](http://jartto.wang/2018/03/06/outline-of-css/)
+  - [CSS 实用 Tips](http://jartto.wang/2017/11/12/f2e-tips/)
+  - [CSS 三大特性](http://jartto.wang/2017/02/08/css-features/)
+  - 盒模型
+  - box-sizing
+  - IconFont
+- 中级 ☆☆
+  - [BFC](https://zhuanlan.zhihu.com/p/25321647)
+  - Flex
+  - Grid layout
+  - PostCSS
+  - 
+- 高级 ☆☆☆
+  - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
+  - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
+  - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
+  - CSS4
 
 ### 产品设计
 - 软件
