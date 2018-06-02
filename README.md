@@ -46,7 +46,6 @@
   - Flex
   - Grid layout
   - PostCSS
-  - 
 - 高级 ☆☆☆
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
