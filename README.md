@@ -292,6 +292,8 @@
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
 - 消息队列 ☆☆☆
+- [nodejs 和 结合dubbo服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761)
+- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs)
 
 ### 数据库
 - MySQL ☆☆☆
