@@ -1,6 +1,6 @@
 # F2E-Awesome [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) [![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers) [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork) [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-06-02
+- 更新时间：2018-06-04
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[技术杂谈](#技术杂谈)、[物联网](#物联网)
 
@@ -233,32 +233,33 @@
 - ...
 
 ### 主流框架
-*   Angular
-    *   [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
-    *   [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/) ☆☆
-    *   [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/) ☆☆
-*   [Vue](https://cn.vuejs.org/)
-    *   [Mint-UI](http://mint-ui.github.io/#!/zh-cn) ☆
-    *   [Element.UI](http://element.eleme.io/#/zh-CN/guide/design) ☆
-    *   [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
-    *   [VUEX](https://vuex.vuejs.org/) ☆☆
-    *   Axios ☆
-    *   Vue-Router ☆☆
-    *   Vue-Loader ☆☆
-*   React
-    *   create-react-app ☆☆
-    *   [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
-    *   [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
-    *   Redux ☆☆
-    *   Diff 算法 ☆☆☆
-    *   虚拟 Dom ☆☆
-    *   Redux-Saga ☆☆☆
-    *   TakeLatest ☆☆☆
-    *   Dva ☆☆
-    *   [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
-    *   React-Router@4 ☆☆
-    *   [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
-    *   [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
+- Angular
+  - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
+  - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/) ☆☆
+  - [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/) ☆☆
+- [Vue](https://cn.vuejs.org/)
+  - [Mint-UI](http://mint-ui.github.io/#!/zh-cn) ☆
+  - [Element.UI](http://element.eleme.io/#/zh-CN/guide/design) ☆
+  - [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
+  - [VUEX](https://vuex.vuejs.org/) ☆☆
+  - Axios ☆
+  - Vue-Router
+    - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
+  - Vue-Loader ☆☆
+- React
+  - create-react-app ☆☆
+  - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
+  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
+  - Redux ☆☆
+  - Diff 算法 ☆☆☆
+  - 虚拟 Dom ☆☆
+  - Redux-Saga ☆☆☆
+  - TakeLatest ☆☆☆
+  - Dva ☆☆
+  - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
+  - React-Router@4 ☆☆
+  - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
+  - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
 
 ### web 服务器端
 - [Nodejs](https://nodejs.org/en/)
@@ -534,6 +535,10 @@
   - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0) ☆☆☆
 - [Browserify](http://browserify.org/) ☆☆
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/) ☆☆
+- Babel
+  - [babel-runtime使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
+  - [babel-polyfill使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
+
 
 ### 物联网
 - [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin) ☆☆☆
@@ -544,6 +549,8 @@
   > 张云龙，全民直播CTO，也是个前端工程师
 - [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466) ☆☆☆
   >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
+- [客户端高可用建设体系](https://juejin.im/post/5b10afc06fb9a01e39624d3d?utm_source=gold_browser_extension)
+  >2000万日订单背后：美团外卖客户端高可用建设体系
     
 
 
