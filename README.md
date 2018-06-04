@@ -444,6 +444,7 @@
 ### 代码规范
 - [ESLint](https://eslint.org) ☆
 - [JSHint](http://www.jslint.com) ☆
+- [styleLint](https://stylelint.io/) ☆
 
 ### Nginx
 - [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/) ☆☆☆
