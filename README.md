@@ -491,14 +491,14 @@
 - [Fiddler](https://www.telerik.com/fiddler) ☆☆
 - [Charles](https://www.charlesproxy.com) ☆☆
 - [Postman](https://www.getpostman.com) ☆☆
-- HttpWatch ☆☆
+- [HttpWatch](http://www.oneapm.com/lp/bihttpwatch) ☆☆
 
 ### 测试
 - 单元测试
-  - Jasmine ☆☆☆
-  - mocha ☆☆☆
-  - chai ☆☆☆
-  - Karma ☆☆☆
+  - [Jasmine](https://jasmine.github.io/) ☆☆☆
+  - [mocha](https://segmentfault.com/a/1190000011362879) ☆☆☆
+  - [chai](http://www.chaijs.com/api/assert/) ☆☆☆
+  - [Karma](http://karma-runner.github.io/2.0/index.html) ☆☆☆
 - 软件测试
   - [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/) ☆☆
 
@@ -546,6 +546,7 @@
 ### 物联网
 - [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin) ☆☆☆
 - [ruff入门应用开发](https://www.imooc.com/learn/958) ☆☆☆
+- [要想成为一名物联网工程师，需要学习哪些知识？](https://www.zhihu.com/question/31381245)☆
 
 ### 技术杂谈
 - [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) ☆☆☆ 
