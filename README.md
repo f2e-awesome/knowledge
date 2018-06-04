@@ -290,7 +290,7 @@
     - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
 - [deno](https://github.com/ry/deno) ☆☆
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
-- Nginx ☆☆☆
+- [Nginx](https://github.com/nginx/nginx) ☆☆☆
 - 消息队列 ☆☆☆
 
 ### 数据库
