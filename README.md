@@ -146,7 +146,8 @@
 - [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/) ☆☆
 
 ### Canvas
-- Canvas ☆☆
+- Canvas
+  - [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
 
 ### WebGL
 - [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
@@ -504,6 +505,7 @@
 
 ### 部署
 - Docker
+  - [Docker 构建统一的前端开发环境](https://juejin.im/post/5b127087e51d450686184183?utm_source=gold_browser_extension)
   - [私服推荐 Nexus](http://dockone.io/article/2168) ☆☆☆
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402) ☆☆☆
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
@@ -515,17 +517,17 @@
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
 
 ### 数据可视化
-- 图表
-  - [echarts](http://echarts.baidu.com/option.html#xAxis) ☆☆
-  - [highcharts](https://www.highcharts.com/products/highcharts/) ☆☆
-  - [g2](https://antv.alipay.com/g2/demo/index.html) ☆☆
-- 地图
-  - [Google Map](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=zh-cn) ☆☆
-  - [Mapbox](https://www.mapbox.com/) ☆☆
-  - [高德](http://lbs.amap.com/) ☆☆
-  - [百度](http://api.map.baidu.com/) ☆☆
-  - [腾讯](http://lbs.qq.com/) ☆☆
-  - [蜂鸟室内地图](https://www.fengmap.com/) ☆☆
+- 图表 ☆☆
+  - [echarts](http://echarts.baidu.com/option.html#xAxis) 
+  - [highcharts](https://www.highcharts.com/products/highcharts/)
+  - [g2](https://antv.alipay.com/g2/demo/index.html)
+- 地图 ☆☆
+  - [Google Map](https://developers.google.com/maps/documentation/javascript/examples/user-editable-shapes?hl=zh-cn) 
+  - [Mapbox](https://www.mapbox.com/) 
+  - [高德](http://lbs.amap.com/) 
+  - [百度](http://api.map.baidu.com/) 
+  - [腾讯](http://lbs.qq.com/) 
+  - [蜂鸟室内地图](https://www.fengmap.com/) 
 
 ### 前端工程化
 - [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东 ☆☆☆
@@ -539,8 +541,8 @@
 - [Browserify](http://browserify.org/) ☆☆
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/) ☆☆
 - Babel
-  - [babel-runtime使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
-  - [babel-polyfill使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
+  - [babel-runtime 使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
+  - [babel-polyfill 使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
 
 
 ### 物联网
