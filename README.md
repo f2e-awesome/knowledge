@@ -54,7 +54,8 @@
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
-
+- 扩展
+  - [30s CSS](https://atomiks.github.io/30-seconds-of-css/)
 
 ### JS
 - 初级 ☆
@@ -309,32 +310,34 @@
 - bower ☆
 
 ### Python
-
-*   [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/) ☆☆
-*   [Python 官方文档](https://www.python.org/) ☆☆
-*   [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/) ☆☆☆
-*   分布式
-    *   Celery ☆☆☆
-*   Web 框架
-    *   Tornado ☆☆☆
-    *   Jinja2 ☆☆☆
-    *   Flask ☆☆☆
-    *   Django ☆☆☆
-*   移动端
-    *   Kivy ☆☆☆
-*   数据分析
-    *   Pandas ☆☆☆
-*   可视化
-    *   Matplotlib ☆☆☆
-    *   Seaborn ☆☆☆
-    *   Plotly ☆☆☆
-    *   Bokeh ☆☆☆
-*   机器学习
-    *   Tensorflow ☆☆☆
-    *   PyTorch ☆☆☆
-    *   MxNet ☆☆☆
-*   [爬虫](https://github.com/facert/awesome-spider) ☆☆☆
-*   ...
+- 初级 ☆
+  - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
+  - [Python 官方文档](https://www.python.org/)
+- 中级 ☆☆
+  - [30s Python](http://python.kriadmin.me/) 
+  - [爬虫](https://github.com/facert/awesome-spider)
+  - Web 框架
+    - Tornado 
+    - Jinja2 
+    - Flask 
+    - Django 
+- 高级 ☆☆☆
+  - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
+  - 分布式
+      - Celery
+  - 移动端
+      - Kivy
+  - 数据分析
+      - Pandas
+  - 可视化
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - Bokeh
+  - 机器学习
+    - Tensorflow
+    - PyTorch
+    - MxNet
 
 ### 设计模式
 - 单例模式 ☆
