@@ -55,7 +55,7 @@
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
 - 扩展
-  - [30s CSS](https://atomiks.github.io/30-seconds-of-css/)
+  - [30s CSS](https://atomiks.github.io/30-seconds-of-css/) ☆
 
 ### JS
 - 初级 ☆
