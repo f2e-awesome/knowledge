@@ -67,6 +67,9 @@
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
   - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
+  - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
+  - [es6标准入门](http://www.waibo.wang/bible/es6/)
+  - [es6介绍](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
@@ -80,6 +83,8 @@
     - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
 - 高级 ☆☆☆
   - [TypeScript](https://www.tslang.cn)
+  - [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS)
+  - [exploring ES6](http://exploringjs.com/es6/)
   - JavaScript 如何工作
     - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
     - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
