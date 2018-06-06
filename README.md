@@ -66,6 +66,7 @@
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
+  - [理解ES6](https://github.com/jeyvie/understanding-ES6)
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
