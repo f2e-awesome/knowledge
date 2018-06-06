@@ -66,7 +66,7 @@
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
-  - [理解ES6](https://github.com/jeyvie/understanding-ES6)
+  - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
@@ -74,10 +74,10 @@
   - 继承
   - [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
   - [ES6](http://es6.ruanyifeng.com)
-    - Generator
-    - Promise
-    - Module
-    - Class
+    - [Generator](https://github.com/jeyvie/understanding-ES6/blob/master/docs/8.1_iterator_generator_base.md)
+    - [Promise](https://github.com/jeyvie/understanding-ES6/blob/master/docs/11.Promise.md)
+    - [Module](https://github.com/jeyvie/understanding-ES6/blob/master/docs/13.module.md)
+    - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
 - 高级 ☆☆☆
   - [TypeScript](https://www.tslang.cn)
   - JavaScript 如何工作
