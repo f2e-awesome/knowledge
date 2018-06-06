@@ -68,8 +68,8 @@
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
   - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
   - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
-  - [es6标准入门](http://www.waibo.wang/bible/es6/)
-  - [es6介绍](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
+  - [ES6 标准入门](http://www.waibo.wang/bible/es6/)
+  - [ECMAScript 6 - 阮一峰](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
@@ -83,7 +83,13 @@
     - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
 - 高级 ☆☆☆
   - [TypeScript](https://www.tslang.cn)
-  - [you-dont-know-js](https://github.com/getify/You-Dont-Know-JS)
+  - You-Dont-Know-JS
+    - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+    - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+    - [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+    - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+    - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+    - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
   - [exploring ES6](http://exploringjs.com/es6/)
   - JavaScript 如何工作
     - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
