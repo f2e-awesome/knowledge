@@ -162,8 +162,7 @@
 - [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/) ☆☆
 
 ### Canvas
-- Canvas
-  - [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
+- [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
 
 ### WebGL
 - [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
@@ -172,7 +171,7 @@
 
 ### SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/) ☆☆
-- [SVG 类库 snap.svg.js，像操作 DOM 一样操作 SVG 资源](http://snapsvg.io/) ☆☆
+- [SVG 类库 snap.svg.js](http://snapsvg.io/) ☆☆
 
 ### [graphql](https://graphql.cn/)
 - [apollo](https://www.apollographql.com/)
