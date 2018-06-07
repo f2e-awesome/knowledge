@@ -4,7 +4,7 @@
 
 - 更新时间：2018-06-07
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)
+- 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
 
 
 ### HTML5
@@ -584,8 +584,13 @@
   >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
 - [客户端高可用建设体系](https://juejin.im/post/5b10afc06fb9a01e39624d3d?utm_source=gold_browser_extension)
   >2000万日订单背后：美团外卖客户端高可用建设体系
-- [缓存架构设计](https://mp.weixin.qq.com/s/YxGeisz0L9Ja2dwsiZz01w)
+- [缓存架构设计](https://mp.weixin.qq.com/s/YxGeisz0L9Ja2dwsiZz01w) ☆☆☆
   >微博应对日访问量百亿级的缓存架构设
+- [前端重构方案](https://mp.weixin.qq.com/s/H9Dvm_5F8hdBrZynlNdlfw) ☆☆
+  >规范、技术选型、性能优化、构建工具、开发效率
+
+### 面试
+- [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
     
 
 
