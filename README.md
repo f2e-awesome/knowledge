@@ -1,6 +1,6 @@
 # F2E-Awesome [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) [![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers) [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork) [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
 
-- 更新时间：2018-06-06
+- 更新时间：2018-06-07
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#HTML5)、[CSS](#CSS)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[动画](#SVG)、[JS](#JS)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#Nodejs)、[Python](#Python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#DOM)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#Git)、[代码规范](#代码规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[V8 引擎](#V8引擎)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)
 
@@ -103,6 +103,116 @@
   - [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
   - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
 
+### 主流框架
+- Angular
+  - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
+  - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/) ☆☆
+  - [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/) ☆☆
+- [Vue](https://cn.vuejs.org/)
+  - [Mint-UI](http://mint-ui.github.io/#!/zh-cn) ☆
+  - [Element.UI](http://element.eleme.io/#/zh-CN/guide/design) ☆
+  - [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
+  - [VUEX](https://vuex.vuejs.org/) ☆☆
+  - Axios ☆
+  - Vue-Router
+    - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
+  - Vue-Loader ☆☆
+- React
+  - create-react-app ☆☆
+  - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
+  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
+  - Redux ☆☆
+  - Diff 算法 ☆☆☆
+  - 虚拟 Dom ☆☆
+  - Redux-Saga ☆☆☆
+  - TakeLatest ☆☆☆
+  - Dva ☆☆
+  - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
+  - React-Router@4 ☆☆
+  - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
+  - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
+
+### 优化
+- 初级 ☆
+  - 合并
+  - 压缩
+  - 混淆
+  - Css sprits
+  - 减少 HTTP 请求
+  - Gzip
+  - Keep-Alive
+  - DNS
+- 中级 ☆☆
+  - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
+  - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
+  - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
+  - [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
+  - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
+- 高级 ☆☆☆
+  - [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
+  - 缓存
+    - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
+    - HTML 和 HTTP 头文件设置
+      - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
+      - Expires
+      - Last-Modified / If-Modified-Since
+      - Etag / If-None-Match
+    - Nginx 缓存
+    - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
+- 工具
+  - [YSlow](http://yslow.org)
+  - Performance
+  - [Google PageSpeed](https://developers.google.com/speed/pagespeed/)
+
+### web 服务器端
+- [Nodejs](https://nodejs.org/en/)
+  - 基础 web 框架
+    - [Express](http://www.expressjs.com.cn/) ☆☆
+    - [Koa](https://koajs.com/) ☆☆
+    - [hapijs](https://hapijs.com/) ☆☆
+    - [restify](http://restify.com/)
+    - [fastify](https://www.fastify.io/)
+    - [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
+    - [nextjs](https://zeit.co/blog/next) ☆☆  
+  - 高度集成 web 框架
+    - [egg](http://eggjs.org/) ☆☆☆
+    - [nest](https://nestjs.com/) 
+    - [thinkjs](https://thinkjs.org/)
+    - [loopback](https://loopback.io/)
+    - [sails](https://sailsjs.com/) ☆☆
+    - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
+    - Forever ☆☆
+    - nohup ☆☆
+    - Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+    - [Stream](https://github.com/substack/stream-handbook) ☆☆
+    - [Buffer](https://nodejs.org/api/buffer.html) ☆☆
+    - [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html) ☆☆
+    - [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/) ☆☆☆
+    - [node debug](https://github.com/nswbmw/node-in-debugging) ☆☆
+    - 内存相关 ☆☆☆
+    - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
+- [deno](https://github.com/ry/deno) ☆☆
+- [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
+- [Nginx](https://github.com/nginx/nginx) ☆☆☆
+- 消息队列 ☆☆☆
+- [nodejs 和 结合dubbo服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761)
+- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs)
+
+### 源码学习
+- [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719) ☆☆☆
+- [Webpack 源码](https://github.com/youngwind/blog/issues/99) ☆☆☆
+- [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379) ☆☆☆
+- [React 源码解析](https://juejin.im/post/5a84682ef265da4e83266cc4#comment) ☆☆☆
+- [解密 JQuery](http://www.cnblogs.com/aaronjs/p/3444874.html) ☆☆☆
+- [Promise 的实现及解析](https://juejin.im/post/5ab466a35188257b1c7523d2) ☆☆☆
+- [浅析 Redux-Saga 实现原理](https://juejin.im/post/59e083c8f265da43111f3a1f) ☆☆☆
+- [Antd 源码解读](https://juejin.im/post/5a5b6d3c51882573473db9af) ☆☆☆
+- [自己动手做一个 Vue](https://github.com/fastCreator/MVVM) ☆☆☆
+- [vue-come-true](https://github.com/coderzzp/vue-come-true) ☆☆☆
+- [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/) ☆☆☆
+- [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension) ☆
+- [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744) ☆☆☆
+
 ### 产品设计
 - 软件
   - PS ☆
@@ -186,23 +296,6 @@
 *   [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html) ☆
 *   [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
 
-### 源码学习
-
-*   [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719) ☆☆☆
-*   [Webpack 源码](https://github.com/youngwind/blog/issues/99) ☆☆☆
-*   [React 源码剖析系列 － 不可思议的 react diff](https://zhuanlan.zhihu.com/p/20346379) ☆☆☆
-*   [React 源码解析](https://juejin.im/post/5a84682ef265da4e83266cc4#comment) ☆☆☆
-*   [解密 JQuery](http://www.cnblogs.com/aaronjs/p/3444874.html) ☆☆☆
-*   [Promise 的实现及解析](https://juejin.im/post/5ab466a35188257b1c7523d2) ☆☆☆
-*   [浅析 Redux-Saga 实现原理](https://juejin.im/post/59e083c8f265da43111f3a1f) ☆☆☆
-*   [Antd 源码解读](https://juejin.im/post/5a5b6d3c51882573473db9af) ☆☆☆
-*   [自己动手做一个 Vue](https://github.com/fastCreator/MVVM) ☆☆☆
-*   [vue-come-true](https://github.com/coderzzp/vue-come-true) ☆☆☆
-*   [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/) ☆☆☆
-*   [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension) ☆
-*   [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744) ☆☆☆
-*   ...
-
 ### 算法
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75 ☆☆☆
@@ -247,69 +340,6 @@
   - 环链表 ☆☆☆
   - 
 - ...
-
-### 主流框架
-- Angular
-  - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
-  - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/) ☆☆
-  - [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/) ☆☆
-- [Vue](https://cn.vuejs.org/)
-  - [Mint-UI](http://mint-ui.github.io/#!/zh-cn) ☆
-  - [Element.UI](http://element.eleme.io/#/zh-CN/guide/design) ☆
-  - [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
-  - [VUEX](https://vuex.vuejs.org/) ☆☆
-  - Axios ☆
-  - Vue-Router
-    - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
-  - Vue-Loader ☆☆
-- React
-  - create-react-app ☆☆
-  - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
-  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
-  - Redux ☆☆
-  - Diff 算法 ☆☆☆
-  - 虚拟 Dom ☆☆
-  - Redux-Saga ☆☆☆
-  - TakeLatest ☆☆☆
-  - Dva ☆☆
-  - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
-  - React-Router@4 ☆☆
-  - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
-  - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
-
-### web 服务器端
-- [Nodejs](https://nodejs.org/en/)
-  - 基础 web 框架
-    - [Express](http://www.expressjs.com.cn/) ☆☆
-    - [Koa](https://koajs.com/) ☆☆
-    - [hapijs](https://hapijs.com/) ☆☆
-    - [restify](http://restify.com/)
-    - [fastify](https://www.fastify.io/)
-    - [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
-    - [nextjs](https://zeit.co/blog/next) ☆☆  
-  - 高度集成 web 框架
-    - [egg](http://eggjs.org/) ☆☆☆
-    - [nest](https://nestjs.com/) 
-    - [thinkjs](https://thinkjs.org/)
-    - [loopback](https://loopback.io/)
-    - [sails](https://sailsjs.com/) ☆☆
-    - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
-    - Forever ☆☆
-    - nohup ☆☆
-    - Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
-    - [Stream](https://github.com/substack/stream-handbook) ☆☆
-    - [Buffer](https://nodejs.org/api/buffer.html) ☆☆
-    - [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html) ☆☆
-    - [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/) ☆☆☆
-    - [node debug](https://github.com/nswbmw/node-in-debugging) ☆☆
-    - 内存相关 ☆☆☆
-    - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
-- [deno](https://github.com/ry/deno) ☆☆
-- [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
-- [Nginx](https://github.com/nginx/nginx) ☆☆☆
-- 消息队列 ☆☆☆
-- [nodejs 和 结合dubbo服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761)
-- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs)
 
 ### 数据库
 - MySQL ☆☆☆
@@ -401,31 +431,8 @@
 - [JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
 - ...
 
-### 优化
-- 方式
-  - 精简、打包、优化 ☆
-  - 减少 HTTP 请求 ☆
-  - 缓存 ☆☆☆
-  - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/) ☆☆
-  - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/) ☆☆
-  - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html) ☆
-- 工具
-  - YSlow ☆
-  - Performance ☆☆
-- [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b0b7d74518825158e173a0c) ☆☆☆
-
 ### DOM
 - [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp) ☆☆
-
-### 缓存
-- [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
-- HTML 和 HTTP 头文件设置
-  - [Meta](http://laoono.com/2016-05/html-meta-cache.html) ☆☆☆
-  - Expires ☆☆☆
-  - Last-Modified / If-Modified-Since ☆☆☆
-  - Etag / If-None-Match ☆☆☆
-- Nginx 缓存 ☆☆☆
-- [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) ☆☆☆
 
 ### 跨域
 - [JSONP](https://www.zhihu.com/question/19966531) ☆☆
