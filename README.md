@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-07
+- 更新时间：2018-06-08
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
 
@@ -121,6 +121,7 @@
     - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
   - Vue-Loader ☆☆
 - React
+  - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - create-react-app ☆☆
   - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
   - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
@@ -133,7 +134,10 @@
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
   - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
-  - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
+  - Next.js ☆☆
+    - [Next.js 使用指南1－基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
+    - [Next.js 使用指南2－路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
+    - [Next.js 使用指南3－高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
 
 ### 优化
 - 初级 ☆
@@ -149,8 +153,9 @@
   - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
   - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
   - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
-  - [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
+  - [网站性能优化实战——从 12.67s 到 1.06s 的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
   - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
+  - [搜索引擎优化 SEO](https://juejin.im/post/5b163fab5188257d571f1d17?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
   - [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
   - 缓存
@@ -291,13 +296,12 @@
 - [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
 
 ### 模块化编程
-
-*   [CMD](https://github.com/seajs/seajs/issues/242) ☆
-    *   [SeaJS](http://yslove.net/seajs/) ☆
-*   [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) ☆
-    *   [Requirejs](http://requirejs.org/docs/optimization.html) ☆
-*   [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html) ☆
-*   [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
+- [CMD](https://github.com/seajs/seajs/issues/242) ☆
+  - [SeaJS](http://yslove.net/seajs/) ☆
+- [AMD](https://github.com/amdjs/amdjs-api/wiki/AMD) ☆
+  - [Requirejs](http://requirejs.org/docs/optimization.html) ☆
+- [JS 模块化编程之彻底弄懂 CommonJS 和 AMD/CMD！](https://www.cnblogs.com/chenguangliang/p/5856701.html) ☆
+- [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
 
 ### 算法
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
@@ -588,6 +592,8 @@
   >微博应对日访问量百亿级的缓存架构设
 - [前端重构方案](https://mp.weixin.qq.com/s/H9Dvm_5F8hdBrZynlNdlfw) ☆☆
   >规范、技术选型、性能优化、构建工具、开发效率
+- [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension)
+  >京东多端统一开发框架 - Taro
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
