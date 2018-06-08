@@ -133,7 +133,7 @@
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
   - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
-  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
+  - [UmiJS](http://jartto.wang/2018/05/24/taste-of-umi/) ☆☆
   - Next.js ☆☆
     - [Next.js 使用指南1－基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
     - [Next.js 使用指南2－路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
