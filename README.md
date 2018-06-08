@@ -122,18 +122,18 @@
   - Vue-Loader ☆☆
 - React
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
-  - create-react-app ☆☆
-  - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
-  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
-  - Redux ☆☆
-  - Diff 算法 ☆☆☆
   - 虚拟 Dom ☆☆
+  - Diff 算法 ☆☆☆
+  - create-react-app ☆☆
+  - Dva ☆☆
+  - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
+  - Redux ☆☆
   - Redux-Saga ☆☆☆
   - TakeLatest ☆☆☆
-  - Dva ☆☆
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
   - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
+  - [UmiJS](https://umijs.org/docs/zh-Hans/introduction.html) ☆☆
   - Next.js ☆☆
     - [Next.js 使用指南1－基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
     - [Next.js 使用指南2－路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
