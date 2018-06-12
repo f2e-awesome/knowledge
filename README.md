@@ -500,6 +500,7 @@
 - [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967) ☆☆☆
 - [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549) ☆☆☆
 - [Google V8](https://github.com/v8/v8) ☆☆☆
+- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q)
 
 ### Linux
 - ls/cd/rm/cat/chmod/chown/useradd/df/du/ps/top/head/tail ☆☆
@@ -598,9 +599,11 @@
   >微博应对日访问量百亿级的缓存架构设
 - [前端重构方案](https://mp.weixin.qq.com/s/H9Dvm_5F8hdBrZynlNdlfw) ☆☆
   >规范、技术选型、性能优化、构建工具、开发效率
-- [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension)
+- [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension) ☆☆
   >京东多端统一开发框架 - Taro
-- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
+- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) ☆☆
+- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
+  >引擎V8推出“并发标记”，可节省60%-70%的GC时间
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
