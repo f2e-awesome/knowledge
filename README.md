@@ -204,8 +204,9 @@
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
 - 消息队列 ☆☆☆
-- [nodejs 和 结合dubbo服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761)
-- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs)
+- [nodejs 结合 dubbo 服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761) ☆☆☆
+- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs) ☆☆
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ☆☆☆
 
 ### 源码学习
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719) ☆☆☆
@@ -235,13 +236,17 @@
   - [Sketch](http://www.sketchcn.com/sketch-chinese-user-manual.html) ☆
 
 ### 前端类库
-- [jQuery](http://api.jquery.com/) ☆
-- [zepto](http://www.zeptojs.cn/) ☆
-- [underscore](http://www.css88.com/doc/underscore/) ☆☆
-- [lodash](https://www.lodashjs.com/) ☆☆
-- [EasyUI](http://www.jeasyui.net/) ☆
-- [Bootstrap](http://www.bootcss.com/) ☆
-- [Meterial Design](https://material.io) ☆
+- JS 类库
+  - [jQuery](http://api.jquery.com/) ☆
+  - [zepto](http://www.zeptojs.cn/) ☆
+  - [underscore](http://www.css88.com/doc/underscore/) ☆☆
+  - [lodash](https://www.lodashjs.com/) ☆☆
+- UI 库
+  - [Bulma](https://bulma.io/)
+  - [EasyUI](http://www.jeasyui.net/) ☆
+  - [Bootstrap](http://www.bootcss.com/) ☆
+  - [Meterial Design](https://material.io) ☆☆
+  - [Wired Elements(手绘风格 UI 库)](https://juejin.im/entry/5b1dd2b2f265da6e0f70b7e1?utm_source=gold_browser_extension)
 
 ### 移动端
 - Native App
@@ -368,6 +373,7 @@
 - 中级 ☆☆
   - [30s Python](http://python.kriadmin.me/) 
   - [爬虫](https://github.com/facert/awesome-spider)
+    - [Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
   - Web 框架
     - Tornado 
     - Jinja2 
@@ -456,7 +462,6 @@
 - [JS 事件模型](https://segmentfault.com/a/1190000006934031) ☆☆
 
 ### 安全
-
 - [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/) ☆☆☆
 - [Web 安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d) ☆☆☆
 - [XSS 的原理分析与解剖](http://netsecurity.51cto.com/art/201408/448305_all.htm) ☆☆☆
@@ -595,6 +600,7 @@
   >规范、技术选型、性能优化、构建工具、开发效率
 - [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension)
   >京东多端统一开发框架 - Taro
+- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know)
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
