@@ -52,13 +52,13 @@ body { padding-top: 60px; }
 <div class='container'>
 <div class='tabbable tabs-left'>
 <ul class='nav nav-tabs'>
-<li class=''>
+<li class='active'>
 <a href='by_date.html'>Activity by date</a>
 </li>
 <li class=''>
 <a href='hour_of_day.html'>Hour of day</a>
 </li>
-<li class='active'>
+<li class=''>
 <a href='day_of_week.html'>Day of week</a>
 </li>
 <li class=''>
@@ -77,57 +77,25 @@ body { padding-top: 60px; }
 <div class='tab-content'>
 <div class='tab-pane active'>
 <div class='page-header pagination-centered'>
-<h1>Day of week</h1>
-<h3>luguizhou &lt;422386546@qq.com&gt;</h3>
+<h1>Activity by date</h1>
+<h3>jeyvie &lt;wmupub@gmail.com&gt;</h3>
 </div>
 </div>
-<table class='table table-bordered table-condensed'>
-<tr>
-<th>Day</th>
-<th>Sun</th>
-<th>Mon</th>
-<th>Tue</th>
-<th>Wed</th>
-<th>Thu</th>
-<th>Fri</th>
-<th>Sat</th>
-</tr>
-<tr>
-<th>Commits</th>
-<td>0</td>
-<td>9</td>
-<td>8</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<th>Percentage</th>
-<td>0.0</td>
-<td>47.4</td>
-<td>42.1</td>
-<td>5.3</td>
-<td>0.0</td>
-<td>0.0</td>
-<td>5.3</td>
-</tr>
-</table>
                 <script type="text/javascript">
         (function() {
 
           var onload = window.onload;
           window.onload = function(){
             if (typeof onload == "function") onload();
-                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": "Day" },"categories": [ "Sun","Mon","Tue","Wed","Thu","Fri","Sat" ] },"yAxis": { "title": { "text": "Commits" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.activity_by_wday","type": "column" },"subtitle": {  },"series": [{ "name": "Commits by day of week","data": [ 0,9,8,1,0,0,1 ] }] };
+                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null } },"yAxis": { "title": { "text": "Commits" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.activity_by_date" },"subtitle": {  },"series": [{ "name": "Commits by date","type": "column","data": [ [ 1527693203000,1 ],[ 1527724800000,0 ],[ 1527811200000,0 ],[ 1527897600000,0 ],[ 1527984000000,0 ],[ 1528070400000,0 ],[ 1528156800000,0 ],[ 1528275977000,1 ],[ 1528277695000,1 ],[ 1528277832000,1 ] ],"dataGrouping": { "units": [ [ "day",[ 1 ] ],[ "week",[ 1 ] ] ],"forced": true } }] };
         
-        window.chart_charts.activity_by_wday = new Highcharts.Chart(options);
+        window.chart_charts.activity_by_date = new Highcharts.StockChart(options);
 
           };
                 })()
         </script>
 
-<div id="charts.activity_by_wday"></div>
+<div id="charts.activity_by_date"></div>
 </div>
 </div>
 

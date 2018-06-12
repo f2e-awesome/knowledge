@@ -29,7 +29,7 @@ body { padding-top: 60px; }
 <li class=''>
 <a href='../../../general.html'>General</a>
 </li>
-<li class='active'>
+<li class=''>
 <a href='../../../activity/by_date.html'>Activity</a>
 </li>
 <li class='active'>
@@ -52,82 +52,43 @@ body { padding-top: 60px; }
 <div class='container'>
 <div class='tabbable tabs-left'>
 <ul class='nav nav-tabs'>
-<li class=''>
-<a href='by_date.html'>Activity by date</a>
-</li>
-<li class=''>
-<a href='hour_of_day.html'>Hour of day</a>
-</li>
 <li class='active'>
-<a href='day_of_week.html'>Day of week</a>
+<a href='commits_by_date.html'>Commits by date</a>
 </li>
 <li class=''>
-<a href='hour_of_week.html'>Hour of week</a>
+<a href='changed_lines_by_date.html'>Changed lines by date</a>
 </li>
 <li class=''>
-<a href='month_of_year.html'>Month of year</a>
+<a href='insertions_by_date.html'>Lines added by date</a>
 </li>
 <li class=''>
-<a href='year.html'>Year</a>
-</li>
-<li class=''>
-<a href='year_month.html'>Year and month</a>
+<a href='deletions_by_date.html'>Lines deleted by date</a>
 </li>
 </ul>
 <div class='tab-content'>
 <div class='tab-pane active'>
-<div class='page-header pagination-centered'>
-<h1>Day of week</h1>
-<h3>luguizhou &lt;422386546@qq.com&gt;</h3>
+<div class='page-header'>
+<h1 class='pagination-centered'>Commits by date</h1>
 </div>
-</div>
-<table class='table table-bordered table-condensed'>
-<tr>
-<th>Day</th>
-<th>Sun</th>
-<th>Mon</th>
-<th>Tue</th>
-<th>Wed</th>
-<th>Thu</th>
-<th>Fri</th>
-<th>Sat</th>
-</tr>
-<tr>
-<th>Commits</th>
-<td>0</td>
-<td>9</td>
-<td>8</td>
-<td>1</td>
-<td>0</td>
-<td>0</td>
-<td>1</td>
-</tr>
-<tr>
-<th>Percentage</th>
-<td>0.0</td>
-<td>47.4</td>
-<td>42.1</td>
-<td>5.3</td>
-<td>0.0</td>
-<td>0.0</td>
-<td>5.3</td>
-</tr>
-</table>
                 <script type="text/javascript">
         (function() {
 
           var onload = window.onload;
           window.onload = function(){
             if (typeof onload == "function") onload();
-                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": "Day" },"categories": [ "Sun","Mon","Tue","Wed","Thu","Fri","Sat" ] },"yAxis": { "title": { "text": "Commits" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.activity_by_wday","type": "column" },"subtitle": {  },"series": [{ "name": "Commits by day of week","data": [ 0,9,8,1,0,0,1 ] }] };
+                    var options = { "title": { "text": "" },"legend": { "enabled": true,"layout": "vertical","backgroundColor": "#FFFFFF","align": "left","verticalAlign": "top","x": 100,"y": 70,"floating": true,"shadow": true },"xAxis": { "title": { "text": null } },"yAxis": { "title": { "text": "Lines" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.commits_sum_by_author_by_date" },"subtitle": {  },"series": [{ "name": "jeyvie","type": "spline","data": [ [ 1527693203000,1 ],[ 1527724800000,1 ],[ 1527811200000,1 ],[ 1527897600000,1 ],[ 1527984000000,1 ],[ 1528070400000,1 ],[ 1528156800000,1 ],[ 1528275977000,2 ],[ 1528277695000,3 ],[ 1528277832000,4 ] ] }] };
         
-        window.chart_charts.activity_by_wday = new Highcharts.Chart(options);
+        window.chart_charts.commits_sum_by_author_by_date = new Highcharts.StockChart(options);
 
           };
                 })()
         </script>
 
-<div id="charts.activity_by_wday"></div>
+<div id="charts.commits_sum_by_author_by_date"></div>
+<small>
+<center>5 best authors shown</center>
+</small>
+</div>
 </div>
 </div>
 
