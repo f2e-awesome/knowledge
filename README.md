@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-12
+- 更新时间：2018-06-19
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
 
@@ -85,7 +85,9 @@
     - [Module](https://github.com/jeyvie/understanding-ES6/blob/master/docs/13.module.md)
     - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
 - 高级 ☆☆☆
-  - [TypeScript](https://www.tslang.cn)
+  - TypeScript
+    - [TypeScript 官网](https://www.tslang.cn)
+    - [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
   - You-Dont-Know-JS
     - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -129,6 +131,7 @@
   - Dva ☆☆
   - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
   - Redux ☆☆
+    - [深入理解 Redux 中间件](https://juejin.im/post/5b237569f265da59bf79f3e9?utm_source=gold_browser_extension) ☆☆☆
   - Redux-Saga ☆☆☆
   - TakeLatest ☆☆☆
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
