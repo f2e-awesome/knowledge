@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-19
+- 更新时间：2018-06-20
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
 
@@ -289,6 +289,7 @@
 
 ### Canvas
 - [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
+- [用 Canvas 画一个进度盘](https://juejin.im/post/5b25e3396fb9a00e7a3d5161?utm_source=gold_browser_extension)
 
 ### WebGL
 - [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
@@ -401,23 +402,34 @@
     - MxNet
 
 ### 设计模式
-- 单例模式 ☆
-- 简单工厂模式 ☆
-- 观察者模式 ☆
-- 适配器模式 ☆☆
-- 代理模式 ☆☆
-- 桥接模式
-- 外观模式
-- 访问者模式
-- 策略模式
-- 模版方法模式
-- 中介者模式
-- 迭代器模式
-- 备忘录模式
-- 职责链模式
-- 享元模式
-- 状态模式
-- [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/)
+- [JavaScript 设计模式](https://juejin.im/entry/5b2929b351882574bd7edddd?utm_source=gold_browser_extension) ☆
+- [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/) ☆☆
+- 创建型模式：该模式处理的是用于创建对象的各种机制，这种模式着眼于优化的或更可控的对象创建机制
+  - 工厂方法
+  - 抽象工厂
+  - 建造者
+  - 原型
+  - 单例
+- 结构型模式：该模式考虑的是对象的组成以及对象彼此之间的关系，其意图在于将系统变化对整个对象关系所造成的影响降低到最小
+  - 适配器
+  - 桥接
+  - 组合
+  - 装饰器
+  - 外观
+  - 享元
+  - 代理
+- 行为型模式：该模式关注的是对象之间的依赖关系以及通信
+  - 解释器
+  - 模板方法
+  - 责任链
+  - 命令
+  - 迭代器
+  - 中介者
+  - 备忘录
+  - 观察者
+  - 状态
+  - 策略
+  - 访问者
 
 ### 网络协议
 - TCP ☆☆☆
