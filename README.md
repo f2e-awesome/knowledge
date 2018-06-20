@@ -27,6 +27,7 @@
   - requestIdleCallback
 - 扩展
   - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
+  - [H5 页面滚动阻尼效果实现](https://juejin.im/post/5b24ffe3f265da59934b33f4?utm_source=gold_browser_extension)
 
 ### CSS
 - 初级 ☆
@@ -84,6 +85,7 @@
     - [Promise](https://github.com/jeyvie/understanding-ES6/blob/master/docs/11.Promise.md)
     - [Module](https://github.com/jeyvie/understanding-ES6/blob/master/docs/13.module.md)
     - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
+  - [JavaScript 引擎基础：Shapes 和 Inline Caches](https://juejin.im/entry/5b27a175e51d4558c23231dc?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
   - TypeScript
     - [TypeScript 官网](https://www.tslang.cn)
@@ -405,14 +407,12 @@
 - [JavaScript 设计模式](https://juejin.im/entry/5b2929b351882574bd7edddd?utm_source=gold_browser_extension) ☆
 - [常用的 Javascript 设计模式](http://blog.jobbole.com/29454/) ☆☆
 - 创建型模式
-  > 该模式处理的是用于创建对象的各种机制，这种模式着眼于优化的或更可控的对象创建机制
   - 工厂方法
   - 抽象工厂
   - 建造者
   - 原型
   - 单例
 - 结构型模式
-  > 该模式考虑的是对象的组成以及对象彼此之间的关系，其意图在于将系统变化对整个对象关系所造成的影响降低到最小
   - 适配器
   - 桥接
   - 组合
@@ -421,7 +421,6 @@
   - 享元
   - 代理
 - 行为型模式
-  > 该模式关注的是对象之间的依赖关系以及通信
   - 解释器
   - 模板方法
   - 责任链
