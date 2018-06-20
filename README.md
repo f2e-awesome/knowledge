@@ -111,6 +111,7 @@
 - 扩展
   - [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
   - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+  - [ES6 语法侦测](https://github.com/ruanyf/es-checker) ☆
 
 ### 主流框架
 - Angular
