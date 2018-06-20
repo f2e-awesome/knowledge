@@ -225,6 +225,7 @@
 - [Promise 的实现及解析](https://juejin.im/post/5ab466a35188257b1c7523d2) ☆☆☆
 - [浅析 Redux-Saga 实现原理](https://juejin.im/post/59e083c8f265da43111f3a1f) ☆☆☆
 - [Antd 源码解读](https://juejin.im/post/5a5b6d3c51882573473db9af) ☆☆☆
+- [Vue.js 源码解析](https://github.com/answershuto/learnVue) ☆☆☆
 - [自己动手做一个 Vue](https://github.com/fastCreator/MVVM) ☆☆☆
 - [vue-come-true](https://github.com/coderzzp/vue-come-true) ☆☆☆
 - [Vue.js 源码学习笔记](http://jiongks.name/blog/vue-code-review/) ☆☆☆
