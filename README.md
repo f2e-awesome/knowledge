@@ -118,11 +118,13 @@
   - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
   - [指令 Directive](http://jartto.wang/2014/04/28/angularjs-part-9/) ☆☆
   - [剖析 Angularjs 语法](http://jartto.wang/2018/02/01/analysis-of-angularjs/) ☆☆
+  - [build-your-own-angularjs](https://github.com/teropa/build-your-own-angularjs)
 - [Vue](https://cn.vuejs.org/)
   - [Mint-UI](http://mint-ui.github.io/#!/zh-cn) ☆
   - [Element.UI](http://element.eleme.io/#/zh-CN/guide/design) ☆
   - [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
   - [VUEX](https://vuex.vuejs.org/) ☆☆
+  - [Nuxtjs](https://www.sitepoint.com/nuxt-js-universal-vue-js/) ☆
   - Axios ☆
   - Vue-Router
     - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
