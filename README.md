@@ -278,6 +278,7 @@
   - 原理 ☆☆
 - [关于 Hbuilder](http://jartto.wang/2015/02/13/about-hbuilder/) ☆
 - [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/) ☆
+- [移动Web UI库（H5框架）有哪些](https://blog.csdn.net/u013778905/article/details/78632650) ☆
 
 ### PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/) ☆☆
