@@ -139,7 +139,7 @@
   - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
   - Redux ☆☆
     - [深入理解 Redux 中间件](https://juejin.im/post/5b237569f265da59bf79f3e9?utm_source=gold_browser_extension) ☆☆☆
-  - Redux-Saga ☆☆☆
+  - [Redux-Saga](https://github.com/superRaytin/redux-saga-in-chinese) ☆☆☆
   - TakeLatest ☆☆☆
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
