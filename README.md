@@ -135,10 +135,6 @@
   - Vue-Loader ☆☆
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/) ☆☆☆
 - React
-  - 脚手架
-    - Create React App
-    - Codesandbox
-    - Rekit
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - 虚拟 Dom ☆☆
   - Diff 算法 ☆☆☆
@@ -636,6 +632,7 @@
 - Webpack
   - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d) ☆☆☆
   - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0) ☆☆☆
+- Rollup
 - [Browserify](http://browserify.org/) ☆☆
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/) ☆☆
 - Babel
