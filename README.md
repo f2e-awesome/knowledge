@@ -197,14 +197,18 @@
     - [fastify](https://www.fastify.io/)
     - [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
     - [nextjs](https://zeit.co/blog/next) ☆☆  
+  - node中比较棘手的问题
+    - node内存泄漏排查
+    - node错误处理机制
+    - node.js cluster
+      - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
+      - Forever ☆☆
   - 高度集成 web 框架
     - [egg](http://eggjs.org/) ☆☆☆
     - [nest](https://nestjs.com/) 
     - [thinkjs](https://thinkjs.org/)
     - [loopback](https://loopback.io/)
     - [sails](https://sailsjs.com/) ☆☆
-    - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
-    - Forever ☆☆
     - nohup ☆☆
     - Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
     - [Stream](https://github.com/substack/stream-handbook) ☆☆
