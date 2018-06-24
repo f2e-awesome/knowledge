@@ -339,6 +339,15 @@
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
 
 ### 算法
+- 排序
+- 贪心算法
+- 动态规划
+- 搜索
+- 图论
+- 计算几何
+- 数学
+- 大数问题
+- 矩阵计算
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75 ☆☆☆
 - [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ) 密码: mmap ☆☆☆
@@ -579,6 +588,7 @@
 
 ### 测试
 - 单元测试
+  - Jest☆☆☆
   - [Jasmine](https://jasmine.github.io/) ☆☆☆
   - [mocha](https://segmentfault.com/a/1190000011362879) ☆☆☆
   - [chai](http://www.chaijs.com/api/assert/) ☆☆☆
