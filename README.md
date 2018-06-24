@@ -2,14 +2,16 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-23
+- 更新时间：2018-06-24
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
-### 开发工具 ☆
+
+### 开发工具
 - Sublime Text
-- Visual Studio
 - Atom
+- VS Code
 - WebStorm
+- Visual Studio
 
 ### HTML5
 - 初级 ☆
@@ -135,6 +137,10 @@
   - Vue-Loader ☆☆
   - [Vue.js 技术揭秘](https://ustbhuangyi.github.io/vue-analysis/) ☆☆☆
 - React
+  - 脚手架 ☆
+    - Create React App
+    - Codesandbox
+    - Rekit
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - 虚拟 Dom ☆☆
   - Diff 算法 ☆☆☆
@@ -172,8 +178,7 @@
   - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
   - [搜索引擎优化 SEO](https://juejin.im/post/5b163fab5188257d571f1d17?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
-  - [彻底弄懂 HTTP 
-  机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
+  - [彻底弄懂 HTTP 机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
   - 缓存
     - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
     - HTML 和 HTTP 头文件设置
