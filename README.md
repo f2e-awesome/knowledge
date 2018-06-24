@@ -172,7 +172,8 @@
   - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
   - [搜索引擎优化 SEO](https://juejin.im/post/5b163fab5188257d571f1d17?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
-  - [彻底弄懂 HTTP 缓存机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
+  - [彻底弄懂 HTTP 
+  机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
   - 缓存
     - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
     - HTML 和 HTTP 头文件设置
@@ -182,6 +183,9 @@
       - Etag / If-None-Match
     - Nginx 缓存
     - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
+    - Storage
+    - indexedDB
+    - Service Worker
 - 工具
   - [YSlow](http://yslow.org)
   - Performance
