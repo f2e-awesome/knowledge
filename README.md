@@ -58,6 +58,7 @@
     - Transform
     - Translate
   - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
+  - [移动端无缝滚动动画实现](https://juejin.im/post/5b2b4e3fe51d4558e15b97ed?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
   - CSS4
   - CSS3 动画原理
@@ -481,6 +482,7 @@
 - [HTTP 协议入门](http://jartto.wang/2016/08/04/Rudimentary-http-protocol/) ☆
 - [HTTP2](http://jartto.wang/2018/03/30/grasp-http2-0/) ☆☆☆
 - HTTPS ☆☆☆
+  - [一个故事讲完 HTTPS](https://mp.weixin.qq.com/s/StqqafHePlBkWAPQZg3NrA)
 - 计算机网络的 7 层协议 ☆☆☆
 
 ### 函数式编程
@@ -636,6 +638,7 @@
 - [Gulp](https://www.gulpjs.com.cn/) ☆☆
 - Webpack
   - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d) ☆☆☆
+    - [Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0?utm_source=gold_browser_extension)
   - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0) ☆☆☆
 - Rollup
 - [Browserify](http://browserify.org/) ☆☆
