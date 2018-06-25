@@ -542,6 +542,8 @@
 - [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/) ☆
 - [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/) ☆
 - [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/) ☆
+- [Git钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90)
+- [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0)
 
 ### 代码规范
 - [ESLint](https://eslint.org) ☆
