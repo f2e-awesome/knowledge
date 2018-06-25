@@ -307,6 +307,7 @@
 - [PWA（Progressive Web App）初探总结](https://blog.csdn.net/qq_19238139/article/details/77531191) ☆
 - [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
 - [React 同构应用 PWA 升级指南](https://github.com/happylindz/blog/issues/14?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆
+- [9 amazing PWA secrets](https://www.creativebloq.com/features/9-amazing-pwa-secrets) ☆☆☆
 
 ### WebAssembly
 - [WebAssembly，Web 的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685) ☆☆
