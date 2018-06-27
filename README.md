@@ -236,7 +236,7 @@
 - [deno](https://github.com/ry/deno) ☆☆
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
-- 消息队列 ☆☆☆
+- [消息队列mq总结](https://blog.csdn.net/HD243608836/article/details/80217591) ☆☆☆
 - [nodejs 结合 dubbo 服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761) ☆☆☆
 - [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs) ☆☆
 - [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ☆☆☆
