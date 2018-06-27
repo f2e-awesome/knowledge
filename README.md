@@ -240,6 +240,11 @@
 - [nodejs 结合 dubbo 服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761) ☆☆☆
 - [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs) ☆☆
 - [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ☆☆☆
+- [互联网架构为什么要做服务化？](http://www.open-open.com/lib/view/open1472132696878.html)☆☆
+- [什么是微服务](https://blog.csdn.net/wuxiaobingandbob/article/details/78642020?locationNum=1&fps=1)
+- [服务化架构的演进与实践](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
+- [服务化实战之 dubbo、dubbox、motan、thrift、grpc等RPC框架比较及选型](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
+
 
 ### 源码学习
 - [Lodash 源码分析（一）“Function” Methods](https://segmentfault.com/a/1190000010775719) ☆☆☆
