@@ -195,6 +195,7 @@
   - 服务端缓存
     - [缓存、队列（Memcached、redis、RabbitMQ）](https://www.cnblogs.com/suoning/archive/2016/08/31/5807247.html)
     - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
+    - [缓存淘汰算法--LRU算法](https://www.evernote.com/l/AUQTo7s_NytKk6mAlbTMIlpGo4NyfB1530A)
   
 - 工具
   - [YSlow](http://yslow.org)
