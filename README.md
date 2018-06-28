@@ -238,6 +238,8 @@
     - [node debug](https://github.com/nswbmw/node-in-debugging) ☆☆
     - 内存相关 ☆☆☆
     - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
+    - [node技术进阶与实践](https://www.evernote.com/l/AURoreJGCE5F8pV7a6YwRrDBJ-gOohmRdhI) ☆☆☆
+    - [大前端时代前端监控的最佳实践](https://www.evernote.com/l/AUQuMjXPG6RBfaeWb_Y17fVmILKyZmLwgow) ☆☆☆
 - [deno](https://github.com/ry/deno) ☆☆
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
