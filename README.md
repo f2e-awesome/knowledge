@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-25
+- 更新时间：2018-06-29
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[产品设计](#产品设计)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[动画](#动画)、[模块化编程](#模块化编程)、[源码学习](#源码学习)、[算法](#算法)、[数据结构](#数据结构)、[主流框架](#主流框架)、[Nodejs](#nodejs)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[优化](#优化)、[DOM](#dom)、[缓存](#缓存)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[打包构建](#打包构建)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[测试](#测试)、[部署](#部署)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)
 
 ### 开发工具
 - Sublime Text
@@ -202,7 +202,7 @@
   - Performance
   - [Google PageSpeed](https://developers.google.com/speed/pagespeed/)
 
-### Web服务器端
+### Web 服务器端
 - [Nodejs](https://nodejs.org/en/)
   - 基础 web 框架
     - [Express](http://www.expressjs.com.cn/) ☆
@@ -346,7 +346,7 @@
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/) ☆☆
 - [SVG 类库 snap.svg.js](http://snapsvg.io/) ☆☆
 
-### graphql
+### Graphql
 - [graphql](https://graphql.cn/)
 - [apollo](https://www.apollographql.com/)
 - [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
@@ -420,6 +420,7 @@
   - [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
 - Memcached ☆☆☆
   - [Memcached 教程](http://www.runoob.com/memcached/memcached-install.html)
+- [三种基本的存储引擎比较](https://mp.weixin.qq.com/s/Iemp-8dKPGXli6GtRnzFaw) ☆☆☆
 
 ### 包管理
 - npm ☆
@@ -432,6 +433,11 @@
 - 初级 ☆
   - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
   - [Python 官方文档](https://www.python.org/)
+  - Python 笔记
+    - [简单语法](http://jartto.wang/2018/06/24/learn-python-3/)
+    - [常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
+    - [Open 文件操作](http://jartto.wang/2018/05/19/learn-python-1/)
+    - ...
 - 中级 ☆☆
   - [30s Python](http://python.kriadmin.me/) 
   - [爬虫](https://github.com/facert/awesome-spider)
