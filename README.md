@@ -694,6 +694,8 @@
   >引擎V8推出“并发标记”，可节省60%-70%的GC时间
 - [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102)
   >谁说前端就不需要学习数据结构了？
+- [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf?utm_source=gold_browser_extension)
+  >前端监控一些新的视角以及最前沿的一些思考
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
