@@ -11,7 +11,6 @@
 - Atom
 - VS Code
 - WebStorm
-- Visual Studio
 
 ### HTML5
 - 初级 ☆
