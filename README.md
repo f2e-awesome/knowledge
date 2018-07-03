@@ -622,6 +622,7 @@
 - [Hadoop生态系统](https://blog.csdn.net/u010270403/article/details/51493191)
 - [Hbase](http://hbase.apache.org/)
 - [Hbase中文参考指南](http://abloz.com/hbase/book.html)
+- [HIVE和HBASE区别](https://www.cnblogs.com/justinzhang/p/4273470.html)
 
 ### 测试
 - 单元测试
