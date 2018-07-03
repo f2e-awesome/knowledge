@@ -80,6 +80,7 @@
   - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
   - [ES6 标准入门](http://www.waibo.wang/bible/es6/)
   - [ECMAScript 6 - 阮一峰](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
+  - [浏览器同源政策及其规避方法](http://www.138dish.cn/web/same-origin-policy.html)
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
