@@ -69,8 +69,8 @@
 
 ### JS
 - 初级 ☆
-  - 原型与原型链
-  - 作用域与作用域链
+  - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+  - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
   - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
   - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
@@ -699,7 +699,13 @@
   >前端监控一些新的视角以及最前沿的一些思考
 
 ### 前端组织
-- [齐舞团](https://75team.com/)
+- [360奇舞团](https://75team.com/)
+- [腾讯Web前端团队（Alloy Team）](http://www.alloyteam.com/)
+- [百度Web 前端研发部（FEX）](http://fex.baidu.com/)
+- [淘宝前端团队（FED）](http://taobaofed.org/)
+- [大搜车无线团队](http://f2e.souche.com/)
+- [京东凹凸实验室](https://aotu.io/index.html)
+- [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
