@@ -133,7 +133,7 @@
   - [VUE2](https://cn.vuejs.org/v2/guide/) ☆☆
   - [VUEX](https://vuex.vuejs.org/) ☆☆
   - [Nuxtjs](https://www.sitepoint.com/nuxt-js-universal-vue-js/) ☆
-  - Axios ☆
+  - [Axios](https://www.jianshu.com/p/df464b26ae58) ☆
   - Vue-Router
     - [Vue-Router 实现原理](https://juejin.im/post/5b10b46df265da6e2a08a724?utm_source=gold_browser_extension) ☆☆☆
   - Vue-Loader ☆☆
