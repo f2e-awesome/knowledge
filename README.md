@@ -189,8 +189,8 @@
     - Nginx 缓存
     - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
     - Storage
-    - indexedDB
-    - Service Worker
+    - [indexedDB](https://blog.csdn.net/inter_peng/article/details/49133081)
+    - [Service Worker](https://www.jianshu.com/p/62338c038c42)
   - 服务端缓存
     - [缓存、队列（Memcached、redis、RabbitMQ）](https://www.cnblogs.com/suoning/archive/2016/08/31/5807247.html)
     - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
