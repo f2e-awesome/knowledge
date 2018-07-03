@@ -118,6 +118,7 @@
   - [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
   - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
   - [ES6 语法侦测](https://github.com/ruanyf/es-checker) ☆
+  - [初探 performance – 监控网页与程序性能](https://www.cnblogs.com/zhuyang/p/4789020.html)
 
 ### 主流框架
 - Angular
