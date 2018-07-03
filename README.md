@@ -69,8 +69,8 @@
 
 ### JS
 - 初级 ☆
-  - 原型与原型链
-  - 作用域与作用域链
+  - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+  - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
   - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
   - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
