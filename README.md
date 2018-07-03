@@ -44,23 +44,23 @@
   - IconFont
 - 中级 ☆☆
   - [BFC](https://zhuanlan.zhihu.com/p/25321647)
-  - Flex
-  - Grid layout
-  - PostCSS
+  - [Flex](http://www.runoob.com/w3cnote/flex-grammar.html)
+  - [Grid layout](https://www.jianshu.com/p/441d60be7d8a)
+  - [PostCSS](https://blog.csdn.net/beverley__/article/details/72963369)
   - 预编译
-    - SASS
-    - LESS
-    - Stylus
+    - [SASS](http://sass.bootcss.com/docs/sass-reference/)
+    - [LESS](http://lesscss.cn/)
+    - [Stylus](http://stylus-lang.com/)
   - CSS3 动画   
     - [Animate CSS](https://daneden.github.io/animate.css/?)
     - [All Animation CSS3](http://all-animation.github.io/)
-    - Transform
-    - Translate
+    - [Transform](http://www.w3school.com.cn/cssref/pr_transform.asp)
+    - [Translate](http://www.w3school.com.cn/cssref/pr_transform.asp)
   - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
   - [移动端无缝滚动动画实现](https://juejin.im/post/5b2b4e3fe51d4558e15b97ed?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
-  - CSS4
-  - CSS3 动画原理
+  - [CSS4](https://www.jianshu.com/p/a37ed9487a32)
+  - [CSS3 动画原理](http://web.jobbole.com/83549/)
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
