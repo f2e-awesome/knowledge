@@ -604,6 +604,9 @@
 - grep ☆☆
 - sed ☆☆
 - awk ☆☆☆
+- [commander 将介绍如何利Javascript做为服务端脚本](http://blog.fens.me/nodejs-commander/)
+- chalk 命令行彩色输出
+- [chokidar node文件监控](https://www.npmjs.com/package/chokidar)
 
 ### Electron
 - [初探 Electron - 理论篇](http://jartto.wang/2018/01/03/first-exploration-electron/) ☆☆
