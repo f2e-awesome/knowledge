@@ -645,6 +645,9 @@
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
 - [Jenkins](https://jenkins.io) ☆☆☆
 
+### 监控
+  - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md)
+
 ### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
 - [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
@@ -705,8 +708,7 @@
   >引擎V8推出“并发标记”，可节省60%-70%的GC时间
 - [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102)
   >谁说前端就不需要学习数据结构了？
-- [GMTC 大前端时代前端监控的最佳实践](https://juejin.im/post/5b35921af265da598f1563cf?utm_source=gold_browser_extension)
-  >前端监控一些新的视角以及最前沿的一些思考
+
 
 ### 前端组织
 - [360奇舞团](https://75team.com/)
