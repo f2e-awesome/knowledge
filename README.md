@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-06-29
+- 更新时间：2018-07-07
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[前端组织](#前端组织)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)
 
 ### 开发工具
 - Sublime Text
@@ -146,7 +146,7 @@
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - 虚拟 Dom ☆☆
   - Diff 算法 ☆☆☆
-  - create-react-app ☆☆
+  - [react-app-rewired](https://github.com/timarney/react-app-rewired)
   - Dva ☆☆
   - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
   - Redux ☆☆
@@ -665,6 +665,8 @@
   - [百度](http://api.map.baidu.com/) 
   - [腾讯](http://lbs.qq.com/) 
   - [蜂鸟室内地图](https://www.fengmap.com/) 
+- 埋点统计 ☆☆
+  - [揭开JS无埋点技术的神秘面纱](https://mp.weixin.qq.com/s/pGP5Oohcban0P1GAzPlAgg)
 
 ### 前端工程化
 - [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184) ☆☆
@@ -706,9 +708,18 @@
 - [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) ☆☆
 - [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
   >引擎V8推出“并发标记”，可节省60%-70%的GC时间
-- [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102)
+- [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102) ☆☆
   >谁说前端就不需要学习数据结构了？
+- [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/) ☆
 
+### 面试
+- [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
+- [面试精选之http 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment) ☆☆
+    
+
+### ECMAScript标准
+- [ECMAScript 标准 最新版](http://www.ecma-international.org/publications/standards/Ecma-262.htm) ☆☆☆
+- [ECMAScript 标准 历史版本](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm) ☆☆☆
 
 ### 前端组织
 - [360奇舞团](https://75team.com/)
@@ -719,13 +730,6 @@
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
 
-### 面试
-- [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents)
-    
-
-### ECMAScript标准
-- [ECMAScript 标准 最新版](http://www.ecma-international.org/publications/standards/Ecma-262.htm) ☆☆☆
-- [ECMAScript 标准 历史版本](http://www.ecma-international.org/publications/standards/Ecma-262-arch.htm) ☆☆☆
 
 
 
