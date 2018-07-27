@@ -247,7 +247,6 @@
 - [deno](https://github.com/ry/deno) ☆☆
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
-- [消息队列mq总结](https://blog.csdn.net/HD243608836/article/details/80217591) ☆☆☆
 - [nodejs 结合 dubbo 服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761) ☆☆☆
 - [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs) ☆☆
 - [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ☆☆☆
@@ -712,6 +711,9 @@
   - [Kafka 入门](https://www.cnblogs.com/likehua/p/3999538.html)
 - MetaMQ
 - RocketMQ
+- [消息队列mq总结](https://blog.csdn.net/HD243608836/article/details/80217591) ☆☆
+- [缓存淘汰算法--LRU算法](https://www.evernote.com/shard/s324/sh/13a3bb3f-372b-4a93-a980-95b4cc225a46/a383727c1d79df40) ☆☆☆
+  >这个是各种消息队列的框架的核心算法，都是这个算法的变形
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
