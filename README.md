@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-07-09
+- 更新时间：2018-07-27
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[技术杂谈](#技术杂谈)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - Sublime Text
@@ -184,8 +184,10 @@
   - 缓存
     - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
     - HTML 和 HTTP 头文件设置
+      - [HTTP 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment)
       - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
       - Expires
+      - Cache-Control
       - Last-Modified / If-Modified-Since
       - Etag / If-None-Match
     - Nginx 缓存
@@ -346,6 +348,11 @@
 ### SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/) ☆☆
 - [SVG 类库 snap.svg.js](http://snapsvg.io/) ☆☆
+
+### Elasticsearch
+- [Elasticsearch 官网](https://www.elastic.co/products/elasticsearch)
+- [基于 Elasticsearch 实现搜索建议](https://juejin.im/post/5b5a64c7518825620f57e907)
+
 
 ### Graphql
 - [graphql](https://graphql.cn/)
@@ -669,7 +676,7 @@
   - [腾讯](http://lbs.qq.com/) 
   - [蜂鸟室内地图](https://www.fengmap.com/) 
 - 埋点统计 ☆☆
-  - [揭开JS无埋点技术的神秘面纱](https://mp.weixin.qq.com/s/pGP5Oohcban0P1GAzPlAgg)
+  - [揭开 JS 无埋点技术的神秘面纱](https://mp.weixin.qq.com/s/pGP5Oohcban0P1GAzPlAgg)
 
 ### 前端工程化
 - [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184) ☆☆
@@ -695,25 +702,15 @@
 - [ruff入门应用开发](https://www.imooc.com/learn/958) ☆☆☆
 - [要想成为一名物联网工程师，需要学习哪些知识？](https://www.zhihu.com/question/31381245)☆
 
-### 技术杂谈
-- [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) ☆☆☆ 
-  > 张云龙，全民直播CTO，也是个前端工程师
-- [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466) ☆☆☆
-  >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
-- [客户端高可用建设体系](https://juejin.im/post/5b10afc06fb9a01e39624d3d?utm_source=gold_browser_extension)
-  >2000万日订单背后：美团外卖客户端高可用建设体系
-- [缓存架构设计](https://mp.weixin.qq.com/s/YxGeisz0L9Ja2dwsiZz01w) ☆☆☆
-  >微博应对日访问量百亿级的缓存架构设
-- [前端重构方案](https://mp.weixin.qq.com/s/H9Dvm_5F8hdBrZynlNdlfw) ☆☆
-  >规范、技术选型、性能优化、构建工具、开发效率
-- [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension) ☆☆
-  >京东多端统一开发框架 - Taro
-- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) ☆☆
-- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
-  >引擎V8推出“并发标记”，可节省60%-70%的GC时间
-- [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102) ☆☆
-  >谁说前端就不需要学习数据结构了？
-- [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/) ☆
+### 消息队列
+- [消息队列常见的 5 个应用场景](https://juejin.im/entry/5b59ce60e51d45198469a003)
+- ActiveMQ
+- RabbitMQ
+- ZeroMQ
+- Kafka
+  - [Kafka 入门](https://www.cnblogs.com/likehua/p/3999538.html)
+- MetaMQ
+- RocketMQ
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
@@ -734,6 +731,27 @@
 - [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
 
 
+### 技术杂谈
+- [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) ☆☆☆ 
+  > 张云龙，全民直播CTO，也是个前端工程师
+- [秒杀系统优化思路](https://blog.csdn.net/csdn265/article/details/51461466) ☆☆☆
+  >尽量将请求拦截在系统上游（越上游越好）, 读多写少的常用多使用缓存（缓存抗读压力）
+- [客户端高可用建设体系](https://juejin.im/post/5b10afc06fb9a01e39624d3d?utm_source=gold_browser_extension)
+  >2000万日订单背后：美团外卖客户端高可用建设体系
+- [缓存架构设计](https://mp.weixin.qq.com/s/YxGeisz0L9Ja2dwsiZz01w) ☆☆☆
+  >微博应对日访问量百亿级的缓存架构设
+- [前端重构方案](https://mp.weixin.qq.com/s/H9Dvm_5F8hdBrZynlNdlfw) ☆☆
+  >规范、技术选型、性能优化、构建工具、开发效率
+- [Taro - 多端开发框架](https://juejin.im/entry/5b19155bf265da6e083be667?utm_source=gold_browser_extension) ☆☆
+  >京东多端统一开发框架 - Taro
+- [你可能不知道的前端知识点](https://github.com/justjavac/the-front-end-knowledge-you-may-not-know) ☆☆
+- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
+  >引擎V8推出“并发标记”，可节省60%-70%的GC时间
+- [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102) ☆☆
+  >谁说前端就不需要学习数据结构了？
+- [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/) ☆
+- [把前端监控做到极致](https://juejin.im/entry/5b3ed06d6fb9a04fe727e671?utm_source=gold_browser_extension) ☆☆
+  >从 采集、数据处理、分析、报警 4 个维度进一步阐述如何把前端监控做到极致
 
 
 
