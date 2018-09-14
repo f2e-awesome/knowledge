@@ -76,6 +76,7 @@
   - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
+    - [正则表达式真的很骚，可惜你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
   - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
   - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
