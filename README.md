@@ -42,6 +42,7 @@
   - 盒模型
   - box-sizing
   - IconFont
+  - [CSS 实现水平垂直居中的 10 种方式](https://juejin.im/post/5b9a4477f265da0ad82bf921?utm_source=gold_browser_extension)
 - 中级 ☆☆
   - [BFC](https://zhuanlan.zhihu.com/p/25321647)
   - [Flex](http://www.runoob.com/w3cnote/flex-grammar.html)
@@ -729,6 +730,7 @@
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
 - [面试精选之http 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment) ☆☆
+- [张一鸣：10年面试2000人，我发现混的好的人，全都有同一个特质](https://mp.weixin.qq.com/s/S9_H4JXslq2_8GxEXVgg3w) ☆
     
 
 ### ECMAScript标准
@@ -764,6 +766,7 @@
 - [JS 的数据结构](https://www.jianshu.com/p/5e0e8d183102) ☆☆
   >谁说前端就不需要学习数据结构了？
 - [简话开源协议](http://jartto.wang/2018/06/29/talk-about-license/) ☆
+  >了解开源协议，选择最合适的协议
 - [把前端监控做到极致](https://juejin.im/entry/5b3ed06d6fb9a04fe727e671?utm_source=gold_browser_extension) ☆☆
   >从 采集、数据处理、分析、报警 4 个维度进一步阐述如何把前端监控做到极致
 
