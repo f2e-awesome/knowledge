@@ -181,7 +181,6 @@
   - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
   - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
   - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
-  - [网站性能优化实战——从 12.67s 到 1.06s 的故事](https://juejin.im/post/5b0b7d74518825158e173a0c)
   - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
   - [搜索引擎优化 SEO](https://juejin.im/post/5b163fab5188257d571f1d17?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
@@ -205,7 +204,7 @@
     - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
     - [缓存淘汰算法--LRU算法](https://www.evernote.com/l/AUQTo7s_NytKk6mAlbTMIlpGo4NyfB1530A)
 - 扩展
-  - [首屏时间从12.67s到1.06s，我是如何做到的？](https://mp.weixin.qq.com/s/UgU7xrj3e13Jdao7ppWkyA) ☆
+  - [网站性能优化实战——从 12.67s 到 1.06s 的故事](https://juejin.im/post/5b0b7d74518825158e173a0c) ☆
 - 工具
   - [YSlow](http://yslow.org)
   - Performance
