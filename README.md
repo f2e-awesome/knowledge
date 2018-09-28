@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-09-14
+- 更新时间：2018-09-28
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[技术杂谈](#技术杂谈)
 
@@ -123,6 +123,7 @@
   - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
   - [ES6 语法侦测](https://github.com/ruanyf/es-checker) ☆
   - [初探 performance – 监控网页与程序性能](https://www.cnblogs.com/zhuyang/p/4789020.html)
+  - [新手引导动画的4种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0) ☆
 
 ### 主流框架
 - Angular
@@ -203,7 +204,8 @@
     - [缓存、队列（Memcached、redis、RabbitMQ）](https://www.cnblogs.com/suoning/archive/2016/08/31/5807247.html)
     - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
     - [缓存淘汰算法--LRU算法](https://www.evernote.com/l/AUQTo7s_NytKk6mAlbTMIlpGo4NyfB1530A)
-  
+- 扩展
+  - [首屏时间从12.67s到1.06s，我是如何做到的？](https://mp.weixin.qq.com/s/UgU7xrj3e13Jdao7ppWkyA) ☆
 - 工具
   - [YSlow](http://yslow.org)
   - Performance
@@ -770,6 +772,10 @@
   >了解开源协议，选择最合适的协议
 - [把前端监控做到极致](https://juejin.im/entry/5b3ed06d6fb9a04fe727e671?utm_source=gold_browser_extension) ☆☆
   >从 采集、数据处理、分析、报警 4 个维度进一步阐述如何把前端监控做到极致
+- [设计一个百万级的消息推送系统](https://juejin.im/post/5ba97ff95188255c9e02d3e3) ☆☆☆
+  >百万连接其实只是一个形容词，更多的是想表达如何来实现一个分布式的方案，可以灵活的水平拓展从而能支持更多的连接。
+
+
 
 
 
