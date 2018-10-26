@@ -4,7 +4,7 @@
 
 - 更新时间：2018-10-26
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -67,6 +67,7 @@
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
 - 扩展
   - [30s CSS](https://atomiks.github.io/30-seconds-of-css/) ☆
+  - [新手引导动画的 4 种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0)
 
 ### JS
 - 初级 ☆
@@ -536,6 +537,7 @@
 ### 函数式编程
 - [什么是函数式编程思维？](https://www.zhihu.com/question/28292740) ☆☆☆
 - [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/) ☆☆☆
+- [防抖和节流原理分析](https://juejin.im/post/5b7b88d46fb9a019e9767405)
 - 参数个数 Arity
 - 高阶组件 Higher-Order Functions (HOF)
 - 偏应用函数 Partial Application
@@ -571,6 +573,7 @@
 - [JS 事件模型](https://segmentfault.com/a/1190000006934031) ☆☆
 
 ### 安全
+- [如何防止 XSS 攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/) ☆☆☆
 - [Web 安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d) ☆☆☆
 - [XSS 的原理分析与解剖](http://netsecurity.51cto.com/art/201408/448305_all.htm) ☆☆☆
@@ -594,10 +597,11 @@
 - [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
 - [Git-flow](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
 
-### 代码规范
+### 前端规范
 - [ESLint](https://eslint.org) ☆
 - [JSHint](http://www.jslint.com) ☆
 - [styleLint](https://stylelint.io/) ☆
+- [EditorConfig](https://editorconfig.org/)
 
 ### Nginx
 - [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/) ☆☆☆
@@ -680,11 +684,13 @@
   - [私服推荐 Nexus](http://dockone.io/article/2168) ☆☆☆
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402) ☆☆☆
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
+  - [精简 Docker 镜像的五种通用方法](https://mp.weixin.qq.com/s/tMVK62zggVwaqfPsiYGaBg)
 - [Jenkins](https://jenkins.io) ☆☆☆
 
 ### 监控
-  - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md)
-  - [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension)
+  - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md) ☆☆
+  - [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension) ☆
+  - [前端性能监控系统](https://juejin.im/entry/5b78f88be51d4538a01e9f36) ☆☆☆
 
 ### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
