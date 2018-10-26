@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-09-28
+- 更新时间：2018-10-26
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[技术杂谈](#技术杂谈)
 
@@ -27,7 +27,7 @@
   - [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
 - 高级 ☆☆☆
   - Communication
-  - Web Worker
+  - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
   - requestAnimationFrame
   - requestIdleCallback
 - 扩展
@@ -147,6 +147,7 @@
     - Create React App
     - Codesandbox
     - Rekit
+  - [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) ☆☆
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - 虚拟 Dom ☆☆
   - Diff 算法 ☆☆☆
@@ -656,6 +657,7 @@
   - [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
   - [UI自动化测试](https://github.com/AirtestProject/Airtest) ☆☆☆
     >网易UI自动化测试框架，开源的，结合AI，自动更新测试用例、自我学习和需求沉淀。智能测试方向！！！！
+
 ### 部署
 - Docker
   - [Docker 构建统一的前端开发环境](https://juejin.im/post/5b127087e51d450686184183?utm_source=gold_browser_extension) ☆☆
@@ -721,6 +723,7 @@
 - RabbitMQ
 - ZeroMQ
 - Kafka
+  - [了解 Kafka](http://jartto.wang/2018/10/12/about-kafka/) ☆☆
   - [Kafka 入门](https://www.cnblogs.com/likehua/p/3999538.html) ☆☆
   - [Kafka的架构原理，你真的理解吗？](https://mp.weixin.qq.com/s/kzM19BcDzRk1PpEMadEluA) ☆☆☆
 - MetaMQ
