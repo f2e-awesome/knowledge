@@ -4,13 +4,13 @@
 
 - 更新时间：2018-10-26
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[代码规范](#代码规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
-- [Sublime Text](https://www.sublimetext.com/3)
-- [Atom](https://atom.io/)
-- [VS Code](https://code.visualstudio.com/Download/)
-- [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows)
+- [Sublime Text](https://www.sublimetext.com/3) ☆☆
+- [VS Code](https://code.visualstudio.com/Download/) ☆☆☆
+- [Atom](https://atom.io/) ☆☆
+- [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) ☆☆☆
 
 ### HTML5
 - 初级 ☆
@@ -373,7 +373,7 @@
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
 
 ### 算法
-- 排序
+- [算法练习](https://leetcode-cn.com/problemset/all/) ☆☆
 - 贪心算法
 - 动态规划
 - 搜索
@@ -382,6 +382,20 @@
 - 数学
 - 大数问题
 - 矩阵计算
+
+### 排序
+- 交换排序
+  - 冒泡排序
+  - 快速排序
+- 插入排序
+  - 直接插入排序
+  - 希尔排序
+- 选择排序
+  - 直接选择排序
+  - 堆排序
+  - 归并排序
+
+### 加密
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75 ☆☆☆
 - [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ) 密码: mmap ☆☆☆
@@ -632,15 +646,17 @@
 ### 抓包工具
 - [Fiddler](https://www.telerik.com/fiddler) ☆☆
 - [Charles](https://www.charlesproxy.com) ☆☆
-- [Postman](https://www.getpostman.com) ☆☆
 - [HttpWatch](http://www.oneapm.com/lp/bihttpwatch) ☆☆
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) ☆☆
+- 模拟请求
+  - [Postman](https://www.getpostman.com) ☆☆
 
 ### Hadoop生态
-- [Google三驾马车：GFS、MapReduce和Bigtable](https://www.cnblogs.com/maybe2030/p/4568541.html)
-- [Hadoop生态系统](https://blog.csdn.net/u010270403/article/details/51493191)
+- [Google 三驾马车：GFS、MapReduce 和 Bigtable](https://www.cnblogs.com/maybe2030/p/4568541.html)
+- [Hadoop 生态系统](https://blog.csdn.net/u010270403/article/details/51493191)
 - [Hbase](http://hbase.apache.org/)
-- [Hbase中文参考指南](http://abloz.com/hbase/book.html)
-- [HIVE和HBASE区别](https://www.cnblogs.com/justinzhang/p/4273470.html)
+- [Hbase 中文参考指南](http://abloz.com/hbase/book.html)
+- [HIVE 和 HBASE 区别](https://www.cnblogs.com/justinzhang/p/4273470.html)
 
 ### 测试
 - 单元测试
@@ -668,6 +684,7 @@
 
 ### 监控
   - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md)
+  - [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension)
 
 ### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
@@ -751,6 +768,16 @@
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
 
+
+### 学习网站
+- [Freecodecamp](https://www.freecodecamp.org/)
+- [CodePen](https://codepen.io/)
+- [算法练习](https://leetcode-cn.com/problemset/all/)
+- [Pluralsight](https://www.pluralsight.com/codeschool)
+- [Code School](https://www.codeschool.com/)
+- [慕课网](https://www.imooc.com/)
+- [妙味课堂](https://miaov.com/)
+- [百度传课](https://chuanke.baidu.com/course/_webapp_____.html)
 
 ### 技术杂谈
 - [一个程序员的成长之路 - 剖析别人，总结自己](https://mp.weixin.qq.com/s/zWPjfHiYxx0HH9lE99Yijw) ☆☆☆ 
