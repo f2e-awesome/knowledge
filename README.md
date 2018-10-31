@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-10-29
+- 更新时间：2018-10-31
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -20,11 +20,13 @@
 - 中级 ☆☆
   - 离线存储
   - 地理定位
-  - [WebSocket](https://github.com/Pines-Cheng/blog/issues/37)
   - [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
   - [HTML5 全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
   - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
   - [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
+  - [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
+  - [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
+  - [WebSocket](https://github.com/Pines-Cheng/blog/issues/37)
 - 高级 ☆☆☆
   - Communication
   - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
