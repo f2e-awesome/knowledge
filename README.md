@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-11-15
+- 更新时间：2018-11-16
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -19,11 +19,11 @@
   - Web Storage
 - 中级 ☆☆
   - 离线存储
-  - 地理定位
   - [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
   - [HTML5 全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
   - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
   - [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
+  - [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
   - [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
   - [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
   - [WebSocket](https://github.com/Pines-Cheng/blog/issues/37)
@@ -125,6 +125,7 @@
 - 扩展
   - [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
   - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+  - [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension#1-call-stack)
   - [ES6 语法侦测](https://github.com/ruanyf/es-checker) ☆
   - [初探 performance – 监控网页与程序性能](https://www.cnblogs.com/zhuyang/p/4789020.html)
   - [新手引导动画的4种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0) ☆
@@ -537,8 +538,9 @@
 - UDP ☆☆☆
 - [HTTP 协议入门](http://jartto.wang/2016/08/04/Rudimentary-http-protocol/) ☆
 - [HTTP2](http://jartto.wang/2018/03/30/grasp-http2-0/) ☆☆☆
-- HTTPS ☆☆☆
+- HTTPS ☆☆
   - [一个故事讲完 HTTPS](https://mp.weixin.qq.com/s/StqqafHePlBkWAPQZg3NrA)
+  - [图文还原 HTTPS 原理](https://mp.weixin.qq.com/s/3NKOCOeIUF2SGJnY7II9hA)
 - 计算机网络的 7 层协议 ☆☆☆
 
 ### 函数式编程
@@ -697,6 +699,7 @@
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402) ☆☆☆
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
   - [精简 Docker 镜像的五种通用方法](https://mp.weixin.qq.com/s/tMVK62zggVwaqfPsiYGaBg)
+- [什么是 Kubernetes ](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
 - [Jenkins](https://jenkins.io) ☆☆☆
 
 ### 监控
@@ -705,7 +708,8 @@
   - [前端性能监控系统](https://juejin.im/entry/5b78f88be51d4538a01e9f36) ☆☆
   - [前端代码异常监控实战](https://github.com/happylindz/blog/issues/5) ☆☆
   - [前端一站式异常捕获方案](https://jixianqianduan.com/frontend-weboptimize/2018/02/22/front-end-react-error-capture.html) ☆☆
-  - [前端错误收集](https://juejin.im/post/5be2b0f6e51d4523161b92f0)
+  - [前端错误收集](https://juejin.im/post/5be2b0f6e51d4523161b92f0) ☆☆
+  - [如何精确统计页面停留时长](https://techblog.toutiao.com/2018/06/05/ru-he-jing-que-tong-ji-ye-mian-ting-liu-shi-chang/) ☆
 
 ### 浏览器
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
