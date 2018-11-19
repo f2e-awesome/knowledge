@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-11-16
+- 更新时间：2018-11-19
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -76,7 +76,9 @@
   - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
   - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
   - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
-  - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
+  - 闭包
+    - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
+    - [深入浅出 Javascript 闭包](https://juejin.im/post/5beee511e51d453b8e543ed6)
   - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
     - [正则表达式真的很骚，可惜你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
@@ -601,7 +603,7 @@
 - [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/) ☆
 - [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/) ☆
 - [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/) ☆
-- [Git钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
+- [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
 - [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
 - [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
 - [Git-flow](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
@@ -613,6 +615,7 @@
 - [EditorConfig](https://editorconfig.org/)
 - [Airbnb JavaScript](https://github.com/airbnb/javascript?utm_source=gold_browser_extension) **
 - [项目规范化开发探索](https://www.notion.so/57b80f3f75b741e3a54546c20ae5e8e7) *
+- [看看这些被同事喷的 JS 代码风格你写过多少](https://juejin.im/post/5becf928f265da61380ec986) *
 
 ### Nginx
 - [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/) ☆☆
@@ -715,6 +718,7 @@
 - [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
 - [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
+- [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398) ☆☆
 
 ### 数据可视化
 - 图表 ☆☆
