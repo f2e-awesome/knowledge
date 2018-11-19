@@ -29,7 +29,9 @@
   - [WebSocket](https://github.com/Pines-Cheng/blog/issues/37)
 - 高级 ☆☆☆
   - Communication
-  - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
+  - Web Workder
+    - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
+    - [Web Workers + 5 cases](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
   - requestAnimationFrame
   - requestIdleCallback
 - 扩展
@@ -108,6 +110,7 @@
   - TypeScript
     - [TypeScript 官网](https://www.tslang.cn)
     - [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
+    - [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview)
   - You-Dont-Know-JS
     - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -207,6 +210,10 @@
     - Storage
     - [indexedDB](https://blog.csdn.net/inter_peng/article/details/49133081)
     - [Service Worker](https://www.jianshu.com/p/62338c038c42)
+    - [从性能优化的角度看缓存](https://github.com/amandakelake/blog/issues/43)
+    - [浏览器缓存机制：强缓存、协商缓存](https://github.com/amandakelake/blog/issues/41)
+    - [数据存储：cookie、Storage、indexedDB](https://github.com/amandakelake/blog/issues/13)
+    - [离线应用缓存：App Cache => Manifest](https://github.com/amandakelake/blog/issues/15)
   - 服务端缓存
     - [缓存、队列（Memcached、redis、RabbitMQ）](https://www.cnblogs.com/suoning/archive/2016/08/31/5807247.html)
     - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
@@ -634,7 +641,8 @@
 - [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967) ☆☆☆
 - [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549) ☆☆☆
 - [Google V8](https://github.com/v8/v8) ☆☆☆
-- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q)
+- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
+- [V8 引擎的 5 个优化技巧](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) ☆☆☆
 
 ### Linux
 - ls/cd/rm/cat/chmod/chown/useradd/df/du/ps/top/head/tail ☆☆
@@ -715,10 +723,13 @@
   - [如何精确统计页面停留时长](https://techblog.toutiao.com/2018/06/05/ru-he-jing-que-tong-ji-ye-mian-ting-liu-shi-chang/) ☆
 
 ### 浏览器
-- [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
-- [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
 - [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398) ☆☆
+- [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
+- [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
+- [渲染进程的内部工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part3) ☆☆☆
+- [Compositor 是如何来提高交互性能的？](https://developers.google.com/web/updates/2018/09/inside-browser-part4) ☆☆☆
+- [浏览器内核渲染：重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe)
 
 ### 数据可视化
 - 图表 ☆☆
@@ -741,7 +752,9 @@
 - [百度 fis](http://fis.baidu.com/fis3/docs/beginning/intro.html) ☆☆
 - [Scrat](http://scrat-team.github.io/#!/quick-start) ☆☆
 - [Grunt](http://www.gruntjs.net/) ☆☆
-- [Gulp](https://www.gulpjs.com.cn/) ☆☆
+- Gulp ☆☆
+  - [Gulp](https://www.gulpjs.com.cn/)
+  - [Gulp 4](https://fettblog.eu/gulp-4-parallel-and-series/)
 - Webpack
   - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d) ☆☆☆
     - [Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0?utm_source=gold_browser_extension)
@@ -754,6 +767,7 @@
 - [Browserify](http://browserify.org/) ☆☆
 - [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/) ☆☆
 - Babel
+  - [Babel 插件手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
   - [babel-runtime 使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
   - [babel-polyfill 使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
 - [什么是 Kubernetes？](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg)
