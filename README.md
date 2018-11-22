@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-11-19
+- 更新时间：2018-11-22
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -221,6 +221,7 @@
 - 扩展
   - [网站性能优化实战——从 12.67s 到 1.06s 的故事](https://juejin.im/post/5b0b7d74518825158e173a0c) ☆
   - [用 100 行代码提升 10 倍的性能](https://juejin.im/post/5bec223f5188250c102116b5) ☆☆
+  - [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4) ☆☆
 - 工具
   - [YSlow](http://yslow.org)
   - Performance
@@ -629,6 +630,7 @@
 - [Nginx 平滑的基于权重轮询算法分析](https://tenfy.cn/2018/11/12/smooth-weighted-round-robin/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
 - [Nginx 解决跨域问题](http://www.nginx.cn/4592.html) ☆
+- [关于负载均衡的一切](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w) ☆☆
 
 ### DNS
 - [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html) ☆☆☆
@@ -795,8 +797,10 @@
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
-- [面试精选之http 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment) ☆☆
+- [面试精选之 http 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment) ☆☆
 - [张一鸣：10年面试2000人，我发现混的好的人，全都有同一个特质](https://mp.weixin.qq.com/s/S9_H4JXslq2_8GxEXVgg3w) ☆
+- [2019 年前端面试都聊啥](https://juejin.im/post/5bf5610be51d452a1353b08d?utm_source=gold_browser_extension)
+- [BAT 面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
     
 
 ### ECMAScript标准
