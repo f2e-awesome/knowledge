@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-11-22
+- 更新时间：2018-12-03
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -614,7 +614,8 @@
 - [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
 - [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
 - [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
-- [Git-flow](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
+- [git-flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ☆☆
+  - [git flow 的使用](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
 
 ### 前端规范
 - [ESLint](https://eslint.org) ☆
@@ -799,8 +800,9 @@
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
 - [面试精选之 http 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment) ☆☆
 - [张一鸣：10年面试2000人，我发现混的好的人，全都有同一个特质](https://mp.weixin.qq.com/s/S9_H4JXslq2_8GxEXVgg3w) ☆
-- [2019 年前端面试都聊啥](https://juejin.im/post/5bf5610be51d452a1353b08d?utm_source=gold_browser_extension)
-- [BAT 面试总结](https://juejin.im/post/5befeb5051882511a8527dbe)
+- [2019 年前端面试都聊啥](https://juejin.im/post/5bf5610be51d452a1353b08d?utm_source=gold_browser_extension) ☆☆
+- [BAT 面试总结](https://juejin.im/post/5befeb5051882511a8527dbe) ☆☆
+- [JavaScript 深入之 bind 的模拟实现](https://juejin.im/post/59093b1fa0bb9f006517b906) ☆☆
     
 
 ### ECMAScript标准
