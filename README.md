@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-12-03
+- 更新时间：2018-12-04
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -123,6 +123,7 @@
     - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
     - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
     - [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md)
+    - [内存管理速成教程](https://mp.weixin.qq.com/s/sVcGRUZqILCVgfhzRyODTg)
     - [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md)
     - [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md)
     - [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md)
@@ -158,6 +159,7 @@
     - Codesandbox
     - Rekit
   - [30 seconds of React](https://github.com/30-seconds/30-seconds-of-react) ☆☆
+  - [How Does React Tell a Class from a Function?](https://overreacted.io/how-does-react-tell-a-class-from-a-function/) ☆☆
   - [Ant Design](http://jartto.wang/2016/12/14/together-to-learn-ant-design-of-react/) ☆☆
   - 虚拟 Dom ☆☆
   - Diff 算法 ☆☆☆
@@ -189,6 +191,7 @@
   - Keep-Alive
   - DNS
 - 中级 ☆☆
+  - [图像优化原理](https://mp.weixin.qq.com/s/7aK6D0InyJs-BXUcaormKA)
   - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
   - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
   - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
@@ -264,7 +267,6 @@
     - 内存相关 ☆☆☆
     - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
     - [node技术进阶与实践](https://www.evernote.com/l/AURoreJGCE5F8pV7a6YwRrDBJ-gOohmRdhI) ☆☆☆
-    - [大前端时代前端监控的最佳实践](https://www.evernote.com/l/AUQuMjXPG6RBfaeWb_Y17fVmILKyZmLwgow) ☆☆☆
 - [deno](https://github.com/ry/deno) ☆☆
 - [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
@@ -361,8 +363,9 @@
 - [Taro 多端统一开发框架](https://github.com/NervJS/taro)
 
 ### Canvas
+- [玩转「Canvas」](https://juejin.im/post/5bfba4d6e51d452fd80f0f0d) ☆
 - [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
-- [用 Canvas 画一个进度盘](https://juejin.im/post/5b25e3396fb9a00e7a3d5161?utm_source=gold_browser_extension)
+- [用 Canvas 画一个进度盘](https://juejin.im/post/5b25e3396fb9a00e7a3d5161?utm_source=gold_browser_extension) ☆☆
 
 ### WebGL
 - [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
@@ -464,6 +467,7 @@
 - MySQL ☆☆☆
 - Redis ☆☆☆
   - [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
+  - [读完这篇，你一定能真正理解 Redis 持久化](https://mp.weixin.qq.com/s/pIb--1AaJa-RARpdZaNBmA)
 - Memcached ☆☆☆
   - [Memcached 教程](http://www.runoob.com/memcached/memcached-install.html)
 - [三种基本的存储引擎比较](https://mp.weixin.qq.com/s/Iemp-8dKPGXli6GtRnzFaw) ☆☆☆
@@ -614,6 +618,7 @@
 - [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
 - [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
 - [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
+- [一个维护版本日志整洁的 Git 提交规范](https://juejin.im/post/5bf7b2e9e51d45213e57be92)
 - [git-flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ☆☆
   - [git flow 的使用](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
 
@@ -717,13 +722,17 @@
 - [Jenkins](https://jenkins.io) ☆☆☆
 
 ### 监控
-  - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md) ☆☆
-  - [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension) ☆
-  - [前端性能监控系统](https://juejin.im/entry/5b78f88be51d4538a01e9f36) ☆☆
-  - [前端代码异常监控实战](https://github.com/happylindz/blog/issues/5) ☆☆
-  - [前端一站式异常捕获方案](https://jixianqianduan.com/frontend-weboptimize/2018/02/22/front-end-react-error-capture.html) ☆☆
-  - [前端错误收集](https://juejin.im/post/5be2b0f6e51d4523161b92f0) ☆☆
-  - [如何精确统计页面停留时长](https://techblog.toutiao.com/2018/06/05/ru-he-jing-que-tong-ji-ye-mian-ting-liu-shi-chang/) ☆
+- [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md) ☆☆
+- [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension) ☆
+- [前端性能监控系统](https://juejin.im/entry/5b78f88be51d4538a01e9f36) ☆☆
+- [前端代码异常监控实战](https://github.com/happylindz/blog/issues/5) ☆☆
+- [前端一站式异常捕获方案](https://jixianqianduan.com/frontend-weboptimize/2018/02/22/front-end-react-error-capture.html) ☆☆
+- [前端错误收集](https://juejin.im/post/5be2b0f6e51d4523161b92f0) ☆☆
+- [如何精确统计页面停留时长](https://techblog.toutiao.com/2018/06/05/ru-he-jing-que-tong-ji-ye-mian-ting-liu-shi-chang/) ☆
+- [如何优雅处理前端异常？](http://jartto.wang/2018/11/20/js-exception-handling/) ☆
+- [解决 Script Error 的另类思路](https://juejin.im/post/5c00a405f265da610e7fd024) ☆☆
+- [大前端时代前端监控的最佳实践](https://www.evernote.com/l/AUQuMjXPG6RBfaeWb_Y17fVmILKyZmLwgow) ☆☆☆
+- [前端性能监控：window.performance](https://juejin.im/entry/58ba9cb5128fe100643da2cc)
 
 ### 浏览器
 - [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
@@ -795,6 +804,10 @@
 - [消息队列mq总结](https://blog.csdn.net/HD243608836/article/details/80217591) ☆☆
 - [缓存淘汰算法--LRU算法](https://www.evernote.com/shard/s324/sh/13a3bb3f-372b-4a93-a980-95b4cc225a46/a383727c1d79df40) ☆☆☆
   >这个是各种消息队列的框架的核心算法，都是这个算法的变形
+
+### 开发模式
+- [DevOps 简介](http://jartto.wang/2018/11/30/about-devops/) ☆
+- [猪八戒网的 DevOps 进化论](https://mp.weixin.qq.com/s/I7hRbZrw1QsS0UP4RZIHOw) ☆☆
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
