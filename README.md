@@ -349,6 +349,8 @@
 - [讲讲 PWA](https://segmentfault.com/a/1190000012353473)
 - [React 同构应用 PWA 升级指南](https://github.com/happylindz/blog/issues/14?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆
 - [9 amazing PWA secrets](https://www.creativebloq.com/features/9-amazing-pwa-secrets) ☆☆☆
+- [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) 打造 `PWA` 的资源集合
+- [pwa.rocks](https://pwa.rocks/) 一些优秀的 `PWA` 集合
 
 ### WebAssembly
 - [WebAssembly，Web 的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685) ☆☆
