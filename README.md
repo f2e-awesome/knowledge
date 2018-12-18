@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-12-04
+- 更新时间：2018-12-18
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -32,6 +32,7 @@
   - Web Workder
     - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
     - [Web Workers + 5 cases](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+    - [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
   - requestAnimationFrame
   - requestIdleCallback
 - 扩展
@@ -51,6 +52,7 @@
   - [BFC](https://zhuanlan.zhihu.com/p/25321647)
   - [Flex](http://www.runoob.com/w3cnote/flex-grammar.html)
   - [Grid layout](https://www.jianshu.com/p/441d60be7d8a)
+  - [Flexbox vs Grid：基本概念](https://www.w3cplus.com/css/flexbox-vs-grid-basic-concepts-and-related-attributes.html)
   - [PostCSS](https://blog.csdn.net/beverley__/article/details/72963369)
   - 预编译
     - [SASS](http://sass.bootcss.com/docs/sass-reference/)
@@ -85,6 +87,7 @@
   - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
     - [正则表达式真的很骚，可惜你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
   - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
+  - [Understanding ECMAScript 6](https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/chapter_1.html)
   - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
   - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
   - [ES6 标准入门](http://www.waibo.wang/bible/es6/)
@@ -93,6 +96,9 @@
 - 中级 ☆☆
   - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
   - 垃圾回收
+  - JS 内存
+    - [JS 内存管理](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+    - [内存管理速成教程](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
   - 堆和栈
   - 继承
   - [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
@@ -166,8 +172,9 @@
   - [react-app-rewired](https://github.com/timarney/react-app-rewired)
   - Dva ☆☆
   - [探路 Roadhog](http://jartto.wang/2017/04/25/gating-roadhog/) ☆☆
-  - Redux ☆☆
+  - Redux
     - [深入理解 Redux 中间件](https://juejin.im/post/5b237569f265da59bf79f3e9?utm_source=gold_browser_extension) ☆☆☆
+    - [Redux 中文文档](https://github.com/camsong/redux-in-chinese) ☆☆
   - [Redux-Saga](https://github.com/superRaytin/redux-saga-in-chinese) ☆☆☆
   - TakeLatest ☆☆☆
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
@@ -178,6 +185,7 @@
     - [Next.js 使用指南1－基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
     - [Next.js 使用指南2－路由与加载](http://jartto.wang/2018/06/01/nextjs-2/)
     - [Next.js 使用指南3－高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
+  - [Ts + React + Mobx 实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension#comment)
 
 ### 优化
 - 初级 ☆
@@ -212,6 +220,7 @@
     - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
     - Storage
     - [indexedDB](https://blog.csdn.net/inter_peng/article/details/49133081)
+    - [浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/)
     - [Service Worker](https://www.jianshu.com/p/62338c038c42)
     - [从性能优化的角度看缓存](https://github.com/amandakelake/blog/issues/43)
     - [浏览器缓存机制：强缓存、协商缓存](https://github.com/amandakelake/blog/issues/41)
@@ -398,6 +407,7 @@
 
 ### 算法
 - [算法练习](https://leetcode-cn.com/problemset/all/) ☆☆
+- [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ☆☆☆
 - 贪心算法
 - 动态规划
 - 搜索
