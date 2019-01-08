@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2018-12-28
+- 更新时间：2019-1-8
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -180,6 +180,9 @@
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
   - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
+  - React Hooks
+    - [30分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014) ☆☆
+    - [React Hooks-概览](https://juejin.im/post/5c31ccc8f265da6170074785?utm_source=gold_browser_extension) ☆☆
   - [UmiJS](http://jartto.wang/2018/05/24/taste-of-umi/) ☆☆
   - Next.js ☆☆
     - [Next.js 使用指南1－基本规则](http://jartto.wang/2018/05/27/nextjs-1/)
@@ -219,6 +222,7 @@
       - Etag / If-None-Match
     - Nginx 缓存
     - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
+    - [关键渲染路径](https://juejin.im/post/5c3333036fb9a049f1545d27)
     - Storage
     - [indexedDB](https://blog.csdn.net/inter_peng/article/details/49133081)
     - [浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/)
@@ -832,6 +836,7 @@
 - [2019 年前端面试都聊啥](https://juejin.im/post/5bf5610be51d452a1353b08d?utm_source=gold_browser_extension) ☆☆
 - [BAT 面试总结](https://juejin.im/post/5befeb5051882511a8527dbe) ☆☆
 - [JavaScript 深入之 bind 的模拟实现](https://juejin.im/post/59093b1fa0bb9f006517b906) ☆☆
+- [前端面试官的套路，你懂吗？](http://jartto.wang/2019/01/06/f2e-interview/) ☆☆
     
 
 ### ECMAScript标准
