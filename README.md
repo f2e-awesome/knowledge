@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-3-16
+- 更新时间：2019-4-2
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[架构](#架构)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -839,6 +839,7 @@
 - [如何画好架构图？](https://mp.weixin.qq.com/s/cqC6djHHjeFzCpFPlJGhxQ) ☆☆
 - [Node.js 微服务实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556001&idx=1&sn=601d58dc247d2f9c6f239ed8d950b540&chksm=80255f60b752d676860f98ae5523f018800ed91c24dd19afa1004a97a7bc114df02ca84498ca&xtrack=1&scene=0&subscene=131&clicktime=1552693183&ascene=7&devicetype=android-26&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQAmlx4AVpkeAMyZHgDamR4A3JkeAAAA&lang=zh_CN&pass_ticket=58OgcYwPpZPMoZMSeUS45Kh9d%2Fe0tCefEY4WSDl%2BzJM%3D&wx_header=1) ☆☆☆
 - [如何设计微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651014354&idx=2&sn=9a356f184842908ab5004bdcfef1caac&chksm=bdbebc818ac935977deb94e3f139ce12c17afc4613d5a2535ede91470d9637471c8317c53f4e&mpshare=1&scene=1&srcid=0315aRwo0BPnixJWFnXKlR80#rd) ☆☆☆
+- [各大互联网公司架构演进之路汇总](https://mp.weixin.qq.com/s/K531MIiOWIAvy4sFcbajrQ) ☆☆☆
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
