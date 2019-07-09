@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-07-03
+- 更新时间：2019-07-09
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[架构](#架构)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -19,6 +19,7 @@
   - Web Storage
   - [HTML5 MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
   - [HTML5 Tricks](https://www.html5tricks.com/category/html5-tutorials)
+  - [HTML5 教程手册](https://www.html.cn/doc/html5/draganddrop/)
 - 中级 ☆☆
   - 离线存储
   - [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
@@ -196,6 +197,11 @@
     - [Next.js 使用指南3－高级配置](http://jartto.wang/2018/06/08/nextjs-3/)
   - [Ts + React + Mobx 实现移动端浏览器控制台](https://juejin.im/post/5bf278295188252e89668ed2?utm_source=gold_browser_extension#comment)
   - [阿里飞冰组件库](https://alibaba.github.io/ice/) ☆☆
+  - 单测
+    - [React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [使用 Jest 和 Enzyme 测试 React 组件](https://mp.weixin.qq.com/s/isZLVenQrAUzA77O4TYVfQ)
+  - 应用
+    - [构建大型React应用程序的最佳实践](https://mp.weixin.qq.com/s/XspWR3e7Jm38Q-HJm2Ntvw)
 
 ### 优化
 - 初级 ☆
@@ -371,6 +377,8 @@
 - [移动端 Touchend 事件不触发解决方案](http://jartto.wang/2015/06/25/solutions-to-touchend-on-mobile/) ☆
 - [移动Web UI库（H5框架）有哪些](https://blog.csdn.net/u013778905/article/details/78632650) ☆
 - [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/) ☆☆
+- Flutter
+  - [Awesome-Flutter](https://github.com/fluttercnclub/awesome-fluttercn) ☆
 
 ### PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/) ☆☆
@@ -752,6 +760,9 @@
   - [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
   - [UI自动化测试](https://github.com/AirtestProject/Airtest) ☆☆☆
     >网易UI自动化测试框架，开源的，结合AI，自动更新测试用例、自我学习和需求沉淀。智能测试方向！！！！
+- 应用
+  - [React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+  - [使用 Jest 和 Enzyme 测试 React 组件](https://mp.weixin.qq.com/s/isZLVenQrAUzA77O4TYVfQ)
 
 ### 部署
 - Docker
@@ -826,7 +837,7 @@
   - [babel-runtime 使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
   - [babel-polyfill 使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
 - [什么是 Kubernetes？](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg)
-
+- [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1?utm_source=gold_browser_extension)
 
 ### 物联网
 - [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin) ☆☆☆
@@ -852,13 +863,19 @@
 - [DevOps 简介](http://jartto.wang/2018/11/30/about-devops/) ☆
 - [猪八戒网的 DevOps 进化论](https://mp.weixin.qq.com/s/I7hRbZrw1QsS0UP4RZIHOw) ☆☆
 
+### 微前端
+- [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40) ☆☆☆
+- [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
+
 ### 架构
+- [架构师成神路线图](https://mp.weixin.qq.com/s/X_F_8OfbBDHWcUTPY2THrA) ☆☆
 - [成为一名架构师得学习哪些知识？](https://mp.weixin.qq.com/s?__biz=MzUyNDkzNzczNQ==&mid=2247485986&idx=1&sn=a4fff71f0138861975865ecd97981c7c&chksm=fa24f54acd537c5c00cca8458698c801d9a7ca62e2feb1044a1424e3b8c8f9a51dd0540f7f13&token=93419027&lang=zh_CN#rd) ☆☆
 - [如何画好架构图？](https://mp.weixin.qq.com/s/cqC6djHHjeFzCpFPlJGhxQ) ☆☆
 - [Node.js 微服务实践](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651556001&idx=1&sn=601d58dc247d2f9c6f239ed8d950b540&chksm=80255f60b752d676860f98ae5523f018800ed91c24dd19afa1004a97a7bc114df02ca84498ca&xtrack=1&scene=0&subscene=131&clicktime=1552693183&ascene=7&devicetype=android-26&version=2700033b&nettype=cmnet&abtest_cookie=BAABAAoACwASABMABQAmlx4AVpkeAMyZHgDamR4A3JkeAAAA&lang=zh_CN&pass_ticket=58OgcYwPpZPMoZMSeUS45Kh9d%2Fe0tCefEY4WSDl%2BzJM%3D&wx_header=1) ☆☆☆
 - [如何设计微服务](https://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651014354&idx=2&sn=9a356f184842908ab5004bdcfef1caac&chksm=bdbebc818ac935977deb94e3f139ce12c17afc4613d5a2535ede91470d9637471c8317c53f4e&mpshare=1&scene=1&srcid=0315aRwo0BPnixJWFnXKlR80#rd) ☆☆☆
 - [各大互联网公司架构演进之路汇总](https://mp.weixin.qq.com/s/K531MIiOWIAvy4sFcbajrQ) ☆☆☆
 - [开发十年，我是如何成长为一名优秀的架构师](https://mp.weixin.qq.com/s/8o4OwgdGwv4g5vUVj-1vfw) ☆☆☆
+- [淘宝从几百到千万级并发的十四次架构演进之路](https://mp.weixin.qq.com/s/a1xUMOOfgCMzcngQ9xNCGw) ☆☆☆
 
 
 ### 面试
@@ -869,6 +886,8 @@
 - [BAT 面试总结](https://juejin.im/post/5befeb5051882511a8527dbe) ☆☆
 - [JavaScript 深入之 bind 的模拟实现](https://juejin.im/post/59093b1fa0bb9f006517b906) ☆☆
 - [前端面试官的套路，你懂吗？](http://jartto.wang/2019/01/06/f2e-interview/) ☆☆
+- [前端 100 问](https://juejin.im/post/5d23e750f265da1b855c7bbe)
+- [一个 TCP 连接上面能发多少个 HTTP 请求](https://www.toutiao.com/a6706021767074284043/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1561608618&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=20190627121018010027057145257B9C2&group_id=6706021767074284043)
     
 
 ### ECMAScript标准
