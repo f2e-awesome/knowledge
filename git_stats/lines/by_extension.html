@@ -70,7 +70,7 @@ body { padding-top: 60px; }
           var onload = window.onload;
           window.onload = function(){
             if (typeof onload == "function") onload();
-                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null },"categories": [ ".md",".html",".css",".js" ] },"yAxis": { "title": { "text": "Lines" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "lines_by_extension","type": "column" },"subtitle": {  },"series": [{ "name": "Lines by extension","data": [ 612,9781,6850,2963 ] }] };
+                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null },"categories": [ "",".md",".html",".css",".js" ] },"yAxis": { "title": { "text": "Lines" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "lines_by_extension","type": "column" },"subtitle": {  },"series": [{ "name": "Lines by extension","data": [ 3,954,11305,6850,2963 ] }] };
         
         window.chart_lines_by_extension = new Highcharts.Chart(options);
 

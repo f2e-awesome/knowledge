@@ -70,7 +70,7 @@ body { padding-top: 60px; }
           var onload = window.onload;
           window.onload = function(){
             if (typeof onload == "function") onload();
-                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null },"categories": [ "",".md",".html",".css",".png",".js",".jpg" ] },"yAxis": { "title": { "text": "Files" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "files_by_extension","type": "column" },"subtitle": {  },"series": [{ "name": "Files by extension","data": [ 1,1,74,4,2,6,1 ] }] };
+                    var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null },"categories": [ "",".md",".pdf",".html",".css",".png",".js",".jpeg",".jpg" ] },"yAxis": { "title": { "text": "Files" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "files_by_extension","type": "column" },"subtitle": {  },"series": [{ "name": "Files by extension","data": [ 2,1,2,85,4,2,6,2,1 ] }] };
         
         window.chart_files_by_extension = new Highcharts.Chart(options);
 
