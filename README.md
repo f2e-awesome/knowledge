@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-07-09
+- 更新时间：2019-07-17
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -75,6 +75,7 @@
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
   - [CSS Modules 使用详解](https://blog.csdn.net/xiangzhihong8/article/details/53195926)
+  - [Web 技巧 - 动画](https://juejin.im/post/5d2b49f3f265da1bcb4f5bab) ☆☆
 - 扩展
   - [30s CSS](https://atomiks.github.io/30-seconds-of-css/) ☆
   - [新手引导动画的 4 种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0)
@@ -187,6 +188,7 @@
   - [React 16 新特性](https://baijiahao.baidu.com/s?id=1582848543674223747&wfr=spider&for=pc) ☆☆
   - React-Router@4 ☆☆
   - [React 性能优化](http://www.css88.com/react/docs/optimizing-performance.html) ☆☆☆
+  - [21 项优化 React App 性能的技术](https://mp.weixin.qq.com/s/PSYm43GkIR9tZVWpAEWrNA)
   - React Hooks
     - [30分钟精通 React Hooks](https://juejin.im/post/5be3ea136fb9a049f9121014) ☆☆
     - [React Hooks-概览](https://juejin.im/post/5c31ccc8f265da6170074785?utm_source=gold_browser_extension) ☆☆
@@ -888,6 +890,7 @@
 - [前端面试官的套路，你懂吗？](http://jartto.wang/2019/01/06/f2e-interview/) ☆☆
 - [前端 100 问](https://juejin.im/post/5d23e750f265da1b855c7bbe)
 - [一个 TCP 连接上面能发多少个 HTTP 请求](https://www.toutiao.com/a6706021767074284043/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1561608618&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=20190627121018010027057145257B9C2&group_id=6706021767074284043)
+- [彻底弄懂前端路由](https://juejin.im/post/5d2d19ccf265da1b7f29b05f?utm_source=gold_browser_extension)
     
 
 ### ECMAScript标准
