@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-08-15
+- 更新时间：2019-09-28
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -124,6 +124,7 @@
     - [TypeScript 官网](https://www.tslang.cn)
     - [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
     - [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview)
+    - [TypeScript 完全手册](https://zhuanlan.zhihu.com/p/83689446?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   - You-Dont-Know-JS
     - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -455,6 +456,7 @@
 - 数学
 - 大数问题
 - 矩阵计算
+- [十大经典排序算法动画](https://mp.weixin.qq.com/s/giubE_Jo1NhIqTteeOmj7g)
 
 ### 排序
 - 交换排序
@@ -839,8 +841,9 @@
   - [Babel 插件手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
   - [babel-runtime 使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
   - [babel-polyfill 使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
-- [什么是 Kubernetes？](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg)
-- [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1?utm_source=gold_browser_extension)
+- [什么是 Kubernetes？](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
+- [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1?utm_source=gold_browser_extension) ☆☆☆
+- [前端工程实践之可视化搭建系统](https://www.zoo.team/article/luban-one?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆
 
 ### 物联网
 - [ruff](https://baike.baidu.com/item/ruff/19726288?fr=aladdin) ☆☆☆
@@ -879,7 +882,13 @@
 - [各大互联网公司架构演进之路汇总](https://mp.weixin.qq.com/s/K531MIiOWIAvy4sFcbajrQ) ☆☆☆
 - [开发十年，我是如何成长为一名优秀的架构师](https://mp.weixin.qq.com/s/8o4OwgdGwv4g5vUVj-1vfw) ☆☆☆
 - [淘宝从几百到千万级并发的十四次架构演进之路](https://mp.weixin.qq.com/s/a1xUMOOfgCMzcngQ9xNCGw) ☆☆☆
+- [设计图都不会画，还想做”架构师“？](https://maimai.cn/article/detail?fid=1063405301&efid=yh3ExpigfgCbJagBxj6dXw) ☆☆
 
+
+### AI
+- [机器学习模型一览：监督型、半监督型和无监督型](https://mp.weixin.qq.com/s/NQpB_jTl43ft7O02_EXHkw) ☆☆☆
+- [如何在 1 秒内做到大数据精准去重？](https://mp.weixin.qq.com/s/XzVT6K3B3XfgnmTVSrchiA) ☆☆☆
+- [大数据学习资源(Awesome Big Data)](https://mp.weixin.qq.com/s/wnvIADv7GXa6fFjpnzjzXQ) ☆☆☆
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
