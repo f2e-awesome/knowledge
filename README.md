@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-09-28
+- 更新时间：2019-10-25
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -261,6 +261,9 @@
   - [百度APP-Android H5首屏优化实践](https://mp.weixin.qq.com/s/AqQgDB-0dUp2ScLkqxbLZg) ☆☆☆
   - [VasSonic，让你的 H5 页面首屏秒开](https://my.oschina.net/u/3447988/blog/1512025) ☆☆☆
   - [Lazy Loading Video Based on Connection Speed](https://medium.com/dailyjs/lazy-loading-video-based-on-connection-speed-e2de086f9095) ☆☆☆
+  - [WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html) ☆☆ 
+  - [移动 H5 首屏秒开优化方案探讨](http://blog.cnbang.net/tech/3477/) ☆☆
+  - [手机QQ Hybrid 的架构如何优化演进](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA) ☆☆☆
 - 工具
   - [YSlow](http://yslow.org)
   - Performance
