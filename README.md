@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2019-11-15
+- 更新时间：2020-01-01
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -125,6 +125,7 @@
     - [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
     - [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview)
     - [TypeScript 完全手册](https://zhuanlan.zhihu.com/p/83689446?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [如何用 Decorator 装饰你的 Typescript？](https://mp.weixin.qq.com/s/0JTvJJNX4zwE3-Kl6dMvrA)
   - You-Dont-Know-JS
     - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
     - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
@@ -342,6 +343,9 @@
 - [高效阅读 Github 源代码](https://juejin.im/entry/5ae731f6f265da0b7e0c0ccb?utm_source=gold_browser_extension) ☆
 - [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744) ☆☆☆
 
+### 必学原理
+- [AST 与前端工程化实战](https://mp.weixin.qq.com/s/frZq6DBjK7TYV3hiqSUj3w) ☆☆
+
 ### 前端类库
 - JS 类库
   - [jQuery](http://api.jquery.com/) ☆
@@ -389,6 +393,8 @@
 - [H5 移动调试全攻略](http://jartto.wang/2018/11/01/mobile-debug/) ☆☆
 - Flutter
   - [Awesome-Flutter](https://github.com/fluttercnclub/awesome-fluttercn) ☆
+  - [闲鱼Flutter互动引擎系列](https://mp.weixin.qq.com/s/oa-XUzWhhsz37Mj-Y6WkzA) ☆☆
+  - [深入了解 Flutter 的高性能图形渲染](https://mp.weixin.qq.com/s/RNhdYtoQ8RQcjIXJReGZWA) ☆☆☆
 
 ### PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/) ☆☆
@@ -697,6 +703,7 @@
 - [Nginx](https://github.com/nginx/nginx) ☆☆☆
 - [Nginx 解决跨域问题](http://www.nginx.cn/4592.html) ☆
 - [关于负载均衡的一切](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w) ☆☆
+- [负载均衡的算法](https://mp.weixin.qq.com/s/fkYnkT6PW0I2MS2d2Nh1jg) ☆☆
 
 ### DNS
 - [DNS 缓存中毒](https://www.toutiao.com/a6652593929738781195/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1548950293&app=news_article&utm_source=weixin&iid=59860639007&utm_medium=toutiao_ios&group_id=6652593929738781195)
@@ -878,8 +885,14 @@
 - [猪八戒网的 DevOps 进化论](https://mp.weixin.qq.com/s/I7hRbZrw1QsS0UP4RZIHOw) ☆☆
 
 ### 微前端
+- [了解什么是微前端](https://mp.weixin.qq.com/s/kZ3GMg0vXQwof8SX8u2EuA) ☆
+- [为什么大公司一定要使用微服务？](https://mp.weixin.qq.com/s/-lxNpu89A9uN_a8f2MiKMw) ☆
 - [微前端如何落地？](https://juejin.im/post/5d1d8d426fb9a07efe2dda40) ☆☆☆
-- [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html)
+- [用微前端的方式搭建类单页应用](https://tech.meituan.com/2018/09/06/fe-tiny-spa.html) ☆☆
+- [Bifrost微前端框架及其在美团闪购中的实践](https://mp.weixin.qq.com/s/GgVo5KyZPlEsEeICcPyuLA) ☆☆
+- [张克军：微前端架构体系](https://mp.weixin.qq.com/s/OEfRPKuPmBKvJdD_zMgFuQ) ☆☆☆
+
+
 
 ### 架构
 - [前端架构师入门技能图谱](https://mp.weixin.qq.com/s/fYC1VHibhOoxBpm8NShGWQ) ☆
@@ -899,6 +912,7 @@
 - [机器学习模型一览：监督型、半监督型和无监督型](https://mp.weixin.qq.com/s/NQpB_jTl43ft7O02_EXHkw) ☆☆☆
 - [如何在 1 秒内做到大数据精准去重？](https://mp.weixin.qq.com/s/XzVT6K3B3XfgnmTVSrchiA) ☆☆☆
 - [大数据学习资源(Awesome Big Data)](https://mp.weixin.qq.com/s/wnvIADv7GXa6fFjpnzjzXQ) ☆☆☆
+- [Tensorflow.js生态](https://mp.weixin.qq.com/s/LQ8mpNc5_8pU0y9LWfQXjw) ☆☆
 
 ### 面试
 - [30s 面试](https://github.com/fejes713/30-seconds-of-interviews#table-of-contents) ☆
