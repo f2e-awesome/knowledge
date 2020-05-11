@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2020-03-31
+- 更新时间：2020-05-11
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[Serverless](#Serverless)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -14,8 +14,8 @@
 
 ### HTML5
 - 初级 ☆
-  - 语义化
-  - Audio 和 Video
+  - [语义化](https://www.jianshu.com/p/b226910034f2)
+  - [Audio 和 Video](https://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp)
   - Web Storage
   - [HTML5 MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
   - [HTML5 Tricks](https://www.html5tricks.com/category/html5-tutorials)
@@ -325,8 +325,13 @@
 - [服务化架构的演进与实践](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
 - [服务化实战之 dubbo、dubbox、motan、thrift、grpc等RPC框架比较及选型](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
 - [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ☆☆☆
-- [Serverless 掀起新的前端技术变革](https://github.com/nodejh/nodejh.github.io/issues/49) ☆☆☆
 - [技术栈：为什么 Node 是前端团队的核心技术栈](https://mp.weixin.qq.com/s/dA6M1t957G-nZ-Ir80L1kA) ☆☆☆
+
+### Serverless
+- [Serverless 入门](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451046912&idx=1&sn=fc7f97c007e325f553e158fee703178f&chksm=87c41b10b0b39206bcc9cff2332fb2e5003ebd1b50d12ccd72585ffc256e98cac7ea878f064c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587861292401&sharer_shareid=93284882dc8dd6a2672e2f228c47df4e#rd) ☆☆
+- [Serverless 掀起新的前端技术变革](https://github.com/nodejh/nodejh.github.io/issues/49) ☆☆☆
+- [当 SSR 遇上 Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) ☆☆
+
 
 
 ### 源码学习
@@ -795,6 +800,7 @@
   - [精简 Docker 镜像的五种通用方法](https://mp.weixin.qq.com/s/tMVK62zggVwaqfPsiYGaBg)
 - [什么是 Kubernetes ](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
 - [Jenkins](https://jenkins.io) ☆☆☆
+- [前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) ☆☆☆
 
 ### 监控
 - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md) ☆☆
@@ -943,6 +949,7 @@
 - [京东凹凸实验室](https://aotu.io/index.html)
 - [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
 - [前端精读周刊](https://github.com/dt-fe/weekly)
+- [淘系前端团队](https://tophub.today/n/x9ozQE6eXb)
 
 
 ### 学习网站
