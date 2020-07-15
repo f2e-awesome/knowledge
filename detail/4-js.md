@@ -1,0 +1,70 @@
+### JS
+- 初级 ☆
+  - [JS 标准参考教程](https://www.kancloud.cn/kancloud/javascript-standards-reference/46466)
+  - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
+  - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
+  - [Event Loop](https://juejin.im/post/59e85eebf265da430d571f89)
+  - 闭包
+    - [反思闭包](http://jartto.wang/2017/12/18/reflective-closure/)
+    - [深入浅出 Javascript 闭包](https://juejin.im/post/5beee511e51d453b8e543ed6)
+  - [call 和 apply](http://jartto.wang/2016/06/28/appreciation-of-the-call-and-apply/)
+  - [正则表达式](http://jartto.wang/2016/07/03/js-regular-expression/)
+    - [正则表达式真的很骚，可惜你不会写](https://juejin.im/post/5b96a8e2e51d450e6a2de115)
+  - [XHR or Fetch API ?](http://jartto.wang/2017/01/17/xhr-or-fetch-api/)
+  - [Understanding ECMAScript 6](https://oshotokill.gitbooks.io/understandinges6-simplified-chinese/content/chapter_1.html)
+  - [为什么要有 ES6](https://github.com/jeyvie/thoughts/blob/master/docs/why_es6.md)
+  - [introduction to ES6 by example](http://coenraets.org/present/es6/#0)
+  - [ES6 标准入门](http://www.waibo.wang/bible/es6/)
+  - [ECMAScript 6 - 阮一峰](http://javascript.ruanyifeng.com/advanced/ecmascript6.html#)
+  - [浏览器同源政策及其规避方法](http://www.138dish.cn/web/same-origin-policy.html)
+- 中级 ☆☆
+  - [JS 模板引擎](http://jartto.wang/2016/09/15/grasp-a-js-template-engine/)
+  - [前端路由跳转基本原理](https://juejin.im/post/5c52da9ee51d45221f242804?utm_source=gold_browser_extension)
+  - 垃圾回收
+  - JS 内存
+    - [JS 内存管理](https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec)
+    - [内存管理速成教程](https://hacks.mozilla.org/2017/06/a-crash-course-in-memory-management/)
+  - 堆和栈
+  - 继承
+  - [掌握 JS Stack Trace](http://jartto.wang/2017/12/09/grasp-js-stack-trace/)
+  - [ES6](http://es6.ruanyifeng.com)
+    - [Generator](https://github.com/jeyvie/understanding-ES6/blob/master/docs/8.1_iterator_generator_base.md)
+      - [ES6-Generator 函数](https://juejin.im/post/5b1751d551882513756f0bdc)
+    - [Promise](https://github.com/jeyvie/understanding-ES6/blob/master/docs/11.Promise.md)
+      - [How do Promises work under the hood?](https://blog.safia.rocks/post/170154422915/how-do-promises-work-under-the-hood)
+      - [JavaScript Promise迷你书](http://liubin.org/promises-book/)
+    - [Module](https://github.com/jeyvie/understanding-ES6/blob/master/docs/13.module.md)
+    - [Class](https://github.com/jeyvie/understanding-ES6/blob/master/docs/9.class.md)
+  - [JavaScript 引擎基础：Shapes 和 Inline Caches](https://juejin.im/entry/5b27a175e51d4558c23231dc?utm_source=gold_browser_extension)
+  - [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension)
+- 高级 ☆☆☆
+  - TypeScript
+    - [TypeScript 官网](https://www.tslang.cn)
+    - [深入 TypeScript 的类型系统](https://zhuanlan.zhihu.com/p/38081852)
+    - [TypeScript 总体架构](https://github.com/Microsoft/TypeScript/wiki/Architectural-Overview)
+    - [TypeScript 完全手册](https://zhuanlan.zhihu.com/p/83689446?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+    - [如何用 Decorator 装饰你的 Typescript？](https://mp.weixin.qq.com/s/0JTvJJNX4zwE3-Kl6dMvrA)
+  - You-Dont-Know-JS
+    - [Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going)
+    - [Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures)
+    - [this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes)
+    - [Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar)
+    - [Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance)
+    - [ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond)
+  - [exploring ES6](http://exploringjs.com/es6/)
+  - JavaScript 如何工作
+    - [对引擎、运行时、调用堆栈的概述](https://juejin.im/post/5a05b4576fb9a04519690d42)
+    - [在 V8 引擎里 5 个优化代码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code.md)
+    - [内存管理 + 处理常见的4种内存泄漏](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks.md)
+    - [内存管理速成教程](https://mp.weixin.qq.com/s/sVcGRUZqILCVgfhzRyODTg)
+    - [事件循环和异步编程的崛起 + 5个如何更好的使用 async/await 编码的技巧](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-event-loop-and-the-rise-of-async-programming-5-ways-to-better-coding-with.md)
+    - [深入剖析 WebSockets 和拥有 SSE 技术 的 HTTP/2，以及如何在二者中做出正确的选择](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path.md)
+    - [对比 WebAssembly + 为什么在某些场景下它比 JavaScript 更合适](https://github.com/xitu/gold-miner/blob/master/TODO1/how-javascript-works-a-comparison-with-webassembly-why-in-certain-cases-its-better-to-use-it.md)
+    - [Web Worker 的内部构造以及 5 种你应当使用它的场景](https://github.com/xitu/gold-miner/blob/master/TODO/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them.md)
+- 扩展
+  - [何谓 JS 挖矿](http://jartto.wang/2017/11/08/js-dig-ore/) ☆
+  - [30S JS](https://github.com/Chalarangelo/30-seconds-of-code) ☆☆
+  - [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts?utm_source=gold_browser_extension#1-call-stack)
+  - [ES6 语法侦测](https://github.com/ruanyf/es-checker) ☆
+  - [初探 performance – 监控网页与程序性能](https://www.cnblogs.com/zhuyang/p/4789020.html)
+  - [新手引导动画的4种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0) ☆

@@ -1,0 +1,29 @@
+### HTML5
+- 初级 ☆
+  - [语义化](https://www.jianshu.com/p/b226910034f2)
+  - [Audio 和 Video](https://www.w3school.com.cn/tags/html_ref_audio_video_dom.asp)
+  - Web Storage
+  - [HTML5 MDN](https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML5)
+  - [HTML5 Tricks](https://www.html5tricks.com/category/html5-tutorials)
+  - [HTML5 教程手册](https://www.html.cn/doc/html5/draganddrop/)
+- 中级 ☆☆
+  - 离线存储
+  - [HTML5 摄像头](http://jartto.wang/2017/11/28/h5-user-media/)
+  - [HTML5 全屏](http://jartto.wang/2017/06/25/h5-fullscreen-api/)
+  - [HTML5 拖放实现](http://jartto.wang/2017/10/23/html5-drag/)
+  - [HTML5 全屏滑动组件](http://kele527.github.io/iSlider/)
+  - [HTML5 之地理定位（Geolocation）](http://jartto.wang/2018/11/16/html5-geolocation/)
+  - [HTML5 之消息通知（Web Notification）](http://jartto.wang/2018/10/30/html5-notification/)
+  - [HTML5 之音频合成（SpeechSynthesis）](http://jartto.wang/2018/10/31/h5-SpeechSynthesis/)
+  - [WebSocket](https://github.com/Pines-Cheng/blog/issues/37)
+- 高级 ☆☆☆
+  - Communication
+  - Web Workder
+    - [Web Worker](https://juejin.im/entry/5bcec53f6fb9a05cda77a347?utm_source=gold_browser_extension)
+    - [Web Workers + 5 cases](https://blog.sessionstack.com/how-javascript-works-the-building-blocks-of-web-workers-5-cases-when-you-should-use-them-a547c0757f6a)
+    - [Speedy Introduction to Web Workers](https://auth0.com/blog/speedy-introduction-to-web-workers/)
+  - requestAnimationFrame
+  - requestIdleCallback
+- 扩展
+  - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
+  - [H5 页面滚动阻尼效果实现](https://juejin.im/post/5b24ffe3f265da59934b33f4?utm_source=gold_browser_extension)

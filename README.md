@@ -2,9 +2,9 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2020-05-11
+- 更新时间：2020-07-16
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
-- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[Serverless](#Serverless)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[部署](#部署)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
+- 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[Serverless](#Serverless)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[容器化](#容器化)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
@@ -331,6 +331,7 @@
 - [Serverless 入门](https://mp.weixin.qq.com/s?__biz=MzA4ODUzNTE2Nw==&mid=2451046912&idx=1&sn=fc7f97c007e325f553e158fee703178f&chksm=87c41b10b0b39206bcc9cff2332fb2e5003ebd1b50d12ccd72585ffc256e98cac7ea878f064c&mpshare=1&scene=1&srcid=&sharer_sharetime=1587861292401&sharer_shareid=93284882dc8dd6a2672e2f228c47df4e#rd) ☆☆
 - [Serverless 掀起新的前端技术变革](https://github.com/nodejh/nodejh.github.io/issues/49) ☆☆☆
 - [当 SSR 遇上 Serverless，轻松实现页面瞬开](https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker) ☆☆
+- [阿里自研开源框架 Midway Serverless](https://mp.weixin.qq.com/s/5l4xLdTefz8G8EbZNbon0Q) ☆☆☆
 
 
 
@@ -352,7 +353,9 @@
 - [从头实现一个 koa 框架](https://zhuanlan.zhihu.com/p/35040744) ☆☆☆
 
 ### 必学原理
+- [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/) ☆☆
 - [AST 与前端工程化实战](https://mp.weixin.qq.com/s/frZq6DBjK7TYV3hiqSUj3w) ☆☆
+- [编译原理：从 0 写一个 js 解释器](https://zhuanlan.zhihu.com/p/137509746?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆
 
 ### 前端类库
 - JS 类库
@@ -459,6 +462,7 @@
 - [AMD 和 CMD 的区别有哪些？](https://www.zhihu.com/question/20351507) ☆
 
 ### 算法
+- [前端数据结构与算法入门](https://mp.weixin.qq.com/s/UgLUXLJ6bSnQ2ZIZnTqLUg) ☆
 - [算法练习](https://leetcode-cn.com/problemset/all/) ☆☆
 - [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md) ☆☆☆
 - 算法入门 ☆☆
@@ -518,6 +522,8 @@
   - MD5 ☆☆☆
   - HAVAL ☆☆☆
   - SHA ☆☆☆
+- 综合实践
+  - [OAuth2.0 的四种授权方式](https://mp.weixin.qq.com/s/YaZvBvFx2Ccmw4C2287uog) ☆☆
 
 ### 数据结构
 - 分类
@@ -683,6 +689,7 @@
 - 点击劫持 ☆☆
 - Session 劫持 ☆☆
 - 短信接口攻击 ☆☆
+- CC 
 
 ### Git
 - [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/) ☆
@@ -728,6 +735,7 @@
 - [Google V8](https://github.com/v8/v8) ☆☆☆
 - [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
 - [V8 引擎的 5 个优化技巧](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) ☆☆☆
+
 
 ### Linux
 - ls/cd/rm/cat/chmod/chown/useradd/df/du/ps/top/head/tail ☆☆
@@ -791,14 +799,18 @@
   - [React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   - [使用 Jest 和 Enzyme 测试 React 组件](https://mp.weixin.qq.com/s/isZLVenQrAUzA77O4TYVfQ)
 
-### 部署
+### 容器化
 - Docker
+  - [Docker 边学边用](http://jartto.wang/2020/07/04/learn-docker/) ☆☆
   - [Docker 构建统一的前端开发环境](https://juejin.im/post/5b127087e51d450686184183?utm_source=gold_browser_extension) ☆☆
   - [私服推荐 Nexus](http://dockone.io/article/2168) ☆☆☆
   - [大型企业级推荐 harbor](https://blog.csdn.net/mideagroup/article/details/52053402) ☆☆☆
   - [Docker 底层技术](https://www.jianshu.com/p/7a1ce51a0eba?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆☆
   - [精简 Docker 镜像的五种通用方法](https://mp.weixin.qq.com/s/tMVK62zggVwaqfPsiYGaBg)
-- [什么是 Kubernetes ](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
+- K8s
+  - [什么是 Kubernetes ](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
+  - [Kubernetes 架构简介](https://mp.weixin.qq.com/s/WUntex914F98gDo-bnchLA) ☆☆
+  - [一文了解 Kubernetes](http://jartto.wang/2020/07/15/start-k8s/) ☆☆☆
 - [Jenkins](https://jenkins.io) ☆☆☆
 - [前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) ☆☆☆
 
@@ -824,6 +836,7 @@
 - [Compositor 是如何来提高交互性能的？](https://developers.google.com/web/updates/2018/09/inside-browser-part4) ☆☆☆
 - [浏览器内核渲染：重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe)
 - [Chrome Devtools](https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c) ☆☆☆
+- [Chrome插件(扩展)开发全攻略](https://mp.weixin.qq.com/s/waUg3hx5HsRkyiitJdHudg) ☆
 
 ### 数据可视化
 - 图表 ☆☆
@@ -915,6 +928,9 @@
 - [淘宝从几百到千万级并发的十四次架构演进之路](https://mp.weixin.qq.com/s/a1xUMOOfgCMzcngQ9xNCGw) ☆☆☆
 - [设计图都不会画，还想做架构师？](https://maimai.cn/article/detail?fid=1063405301&efid=yh3ExpigfgCbJagBxj6dXw) ☆☆
 - [12306的技术架构](https://mp.weixin.qq.com/s/Ty49SAs0hxpy_fbwPHBflA) ☆☆☆
+- [一文读懂架构整洁之道](https://mp.weixin.qq.com/s/XAm1MO4RQYtkj3ay-2jT7A) ☆☆☆
+- [如何推动基础架构项目落地](https://zhuanlan.zhihu.com/p/148209120?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆
+
 
 
 ### AI
@@ -988,6 +1004,8 @@
   >百万连接其实只是一个形容词，更多的是想表达如何来实现一个分布式的方案，可以灵活的水平拓展从而能支持更多的连接。
 - [蚂蚁金服核心技术：百亿特征实时推荐算法揭秘](https://mp.weixin.qq.com/s/6h9MeBs89hTtWsYSZ4pZ5g)
   >文章提出一整套创新算法与架构，通过对TensorFlow底层的弹性改造，解决了在线学习的弹性特征伸缩和稳定性问题，并以GroupLasso和特征在线频次过滤等自研算法优化了模型稀疏性
+- [前端登录，这一篇就够了](https://mp.weixin.qq.com/s?__biz=MzIxNTQ2NDExNA==&mid=100000675&idx=1&sn=0cae464adcc549b239c28199f675e6d1&chksm=1796a27e20e12b68815429681d016430fccda916c573941d9e37d9366987295ccce6394db5c7#rd)
+  >文章列举了常见的登录方式，清晰易懂：Cookie + Session 登录、Token 登录、SSO 单点登录、OAuth 第三方登录
 
 
 
