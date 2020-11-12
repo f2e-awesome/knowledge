@@ -2,7 +2,7 @@
 
 ![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
 
-- 更新时间：2020-07-16
+- 更新时间：2020-11-12
 - 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级。
 - 标签体系：[开发工具](#开发工具)、[HMTL5](#html5)、[CSS](#css)、[JS](#js)、[主流框架](#主流框架)、[优化](#优化)、[Web服务器端](#web-服务器端)、[Serverless](#Serverless)、[源码学习](#源码学习)、[必学原理](#必学原理)、[前端类库](#前端类库)、[移动端](#移动端)、[PWA](#pwa)、[WebAssembly](#webassembly)、[小程序](#小程序)、[Canvas](#canvas)、[WebGL](#webgl)、[SVG](#svg)、[Graphql](#graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[排序](#排序)、[加密](#加密)、[数据结构](#数据结构)、[数据库](#数据库)、[包管理](#包管理)、[Python](#python)、[设计模式](#设计模式)、[网络协议](#网络协议)、[函数式编程](#函数式编程)、[DOM](#dom)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[Git](#git)、[前端规范](#前端规范)、[Nginx](#nginx)、[DNS](#dns)、[CDN](#cdn)、[V8 引擎](#v8-引擎)、[Linux](#linux)、[Electron](#electron)、[抓包工具](#抓包工具)、[Hadoop](#Hadoop)、[测试](#测试)、[容器化](#容器化)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[开发模式](#开发模式)、[微前端](#微前端)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[ECMAScript标准](#ecmascript标准)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)
 
@@ -70,7 +70,6 @@
   - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
   - [移动端无缝滚动动画实现](https://juejin.im/post/5b2b4e3fe51d4558e15b97ed?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
-  - [CSS4](https://www.jianshu.com/p/a37ed9487a32)
   - [CSS3 动画原理](http://web.jobbole.com/83549/)
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
@@ -82,6 +81,7 @@
 
 ### JS
 - 初级 ☆
+  - [JavaScript ES12 新特性抢先体验](https://mp.weixin.qq.com/s/T2IkxRp_PXkhk8T_ciLvjw) ☆
   - [JS 标准参考教程](https://www.kancloud.cn/kancloud/javascript-standards-reference/46466)
   - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
   - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
@@ -711,6 +711,7 @@
 - [Airbnb JavaScript](https://github.com/airbnb/javascript?utm_source=gold_browser_extension) **
 - [项目规范化开发探索](https://www.notion.so/57b80f3f75b741e3a54546c20ae5e8e7) *
 - [看看这些被同事喷的 JS 代码风格你写过多少](https://juejin.im/post/5becf928f265da61380ec986) *
+- [谷歌工程实践 - Code Review 标准](https://jimmysong.io/eng-practices/docs/review/reviewer/standard/) **
 
 ### Nginx
 - [Nginx](http://jartto.wang/2017/04/15/nginx-exception-handling/) ☆☆

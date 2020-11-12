@@ -25,7 +25,6 @@
   - [如何检测页面滚动并执行动画](http://jartto.wang/2016/08/18/detect-page-scroll-and-execute-animation/)
   - [移动端无缝滚动动画实现](https://juejin.im/post/5b2b4e3fe51d4558e15b97ed?utm_source=gold_browser_extension)
 - 高级 ☆☆☆
-  - [CSS4](https://www.jianshu.com/p/a37ed9487a32)
   - [CSS3 动画原理](http://web.jobbole.com/83549/)
   - [探究 CSS 解析原理](http://jartto.wang/2017/11/13/Exploring-the-principle-of-CSS-parsing/) 
   - [详谈层合成（composite）](http://jartto.wang/2017/09/29/expand-on-performance-composite/)
