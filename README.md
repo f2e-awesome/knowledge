@@ -916,6 +916,7 @@
 - [Bifrost微前端框架及其在美团闪购中的实践](https://mp.weixin.qq.com/s/GgVo5KyZPlEsEeICcPyuLA) ☆☆
 - [张克军：微前端架构体系](https://mp.weixin.qq.com/s/OEfRPKuPmBKvJdD_zMgFuQ) ☆☆☆
 - [EMP for Vue&React 互相远程调用](https://mp.weixin.qq.com/s/KKZYzzTFBVD-rJeWr3Z7cg) ☆☆
+- [字节跳动是如何落地微前端的](https://juejin.cn/post/7016900744695513125?utm_source=gold_browser_extension)☆☆☆
 
 ### LowCode
 - [国内低代码平台](https://github.com/taowen/awesome-lowcode) ☆☆☆
