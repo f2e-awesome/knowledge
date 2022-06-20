@@ -84,14 +84,12 @@ body { padding-top: 60px; }
                 <script type="text/javascript">
         (function() {
 
-          var onload = window.onload;
-          window.onload = function(){
-            if (typeof onload == "function") onload();
+          window.addEventListener('load', function() {
                     var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": null } },"yAxis": { "title": { "text": "Commits" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.activity_by_date" },"subtitle": {  },"series": [{ "name": "Commits by date","type": "column","data": [ [ 1530589929000,1 ],[ 1530595799000,1 ],[ 1530611784000,1 ],[ 1530662400000,0 ],[ 1530748800000,0 ],[ 1530835200000,0 ],[ 1530921600000,0 ],[ 1531008000000,0 ],[ 1531130172000,1 ] ],"dataGrouping": { "units": [ [ "day",[ 1 ] ],[ "week",[ 1 ] ] ],"forced": true } }] };
         
         window.chart_charts.activity_by_date = new Highcharts.StockChart(options);
 
-          };
+          });
                 })()
         </script>
 

@@ -4,3 +4,4 @@
 
 ### 注意
 - 文件合并异步完成，每次顺序并不相同
+- 统计信息需要安装 “gem install git_stats”，运行“git_stats generate”即可

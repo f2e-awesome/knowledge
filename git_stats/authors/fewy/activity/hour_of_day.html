@@ -167,14 +167,12 @@ body { padding-top: 60px; }
                 <script type="text/javascript">
         (function() {
 
-          var onload = window.onload;
-          window.onload = function(){
-            if (typeof onload == "function") onload();
+          window.addEventListener('load', function() {
                     var options = { "title": { "text": "" },"legend": { "enabled": false },"xAxis": { "title": { "text": "Hour" },"categories": "0..23" },"yAxis": { "title": { "text": "Commits" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.activity_by_hour","type": "column" },"subtitle": {  },"series": [{ "name": "Commits by hour","data": [ 0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,2,0,0,0,0,0,0 ] }] };
         
         window.chart_charts.activity_by_hour = new Highcharts.Chart(options);
 
-          };
+          });
                 })()
         </script>
 

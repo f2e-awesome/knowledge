@@ -1,10 +1,15 @@
-> 更新时间：2022-06-20 16:23:43（脚本自动生成，勿手动修改，详见：info.md)
+> 更新时间：2022-06-20 16:46:44（脚本自动生成，勿手动修改，详见：info.md)
+# F2E-Awesome [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) [![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers) [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork) [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
+
+![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
+
+- 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级
+- 标签体系：[开发工具](#开发工具)、[前端类库](#前端类库)、[移动端](#移动端)、[必学原理](#必学原理)、[PWA](#PWA)、[WebAssembly](#WebAssembly)、[小程序](#小程序)、[Canvas](#Canvas)、[WebGL](#WebGL)、[SVG](#SVG)、[HTML5](#HTML5)、[Elasticsearch](#Elasticsearch)、[Graphql](#Graphql)、[模块化编程](#模块化编程)、[算法](#算法)、[加密](#加密)、[数据结构](#数据结构)、[包管理](#包管理)、[Python](#Python)、[数据库](#数据库)、[设计模式](#设计模式)、[网络协议](#网络协议)、[CSS](#CSS)、[DOM](#DOM)、[函数式编程](#函数式编程)、[跨域](#跨域)、[事件模型](#事件模型)、[安全](#安全)、[前端规范](#前端规范)、[Nginx](#Nginx)、[Git](#Git)、[CDN](#CDN)、[JS](#JS)、[Linux](#Linux)、[Electron](#Electron)、[抓包工具](#抓包工具)、[测试](#测试)、[容器化](#容器化)、[DNS](#DNS)、[监控](#监控)、[数据可视化](#数据可视化)、[浏览器](#浏览器)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[V8](#V8)、[DevOps](#DevOps)、[微前端](#微前端)、[LowCode](#LowCode)、[主流框架](#主流框架)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[前端组织](#前端组织)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)、[优化](#优化)、[Serverless](#Serverless)、[源码学习](#源码学习)、[Web](#Web)
 ### 开发工具
 - [Sublime Text](https://www.sublimetext.com/3) ☆☆
 - [VS Code](https://code.visualstudio.com/Download/) ☆☆☆
 - [Atom](https://atom.io/) ☆☆
 - [WebStorm](https://www.jetbrains.com/webstorm/download/#section=windows) ☆☆☆
-- 标签体系：[开发工具](#开发工具)、[前端类库](#前端类库)、[必学原理](#必学原理)、[移动端](#移动端)、[PWA](#PWA)、[小程序](#小程序)、[WebAssembly](#WebAssembly)、[WebGL](#WebGL)、[Canvas](#Canvas)、[SVG](#SVG)、[Elasticsearch](#Elasticsearch)、[Graphql](#Graphql)、[HTML5](#HTML5)、[模块化编程](#模块化编程)、[算法](#算法)、[数据结构](#数据结构)、[数据库](#数据库)、[加密](#加密)、[包管理](#包管理)、[设计模式](#设计模式)、[网络协议](#网络协议)、[CSS](#CSS)、[Python](#Python)、[函数式编程](#函数式编程)、[跨域](#跨域)、[DOM](#DOM)、[安全](#安全)、[Git](#Git)、[前端规范](#前端规范)、[Nginx](#Nginx)、[DNS](#DNS)、[CDN](#CDN)、[事件模型](#事件模型)、[V8](#V8)、[JS](#JS)、[Linux](#Linux)、[Electron](#Electron)、[测试](#测试)、[抓包工具](#抓包工具)、[容器化](#容器化)、[监控](#监控)、[浏览器](#浏览器)、[数据可视化](#数据可视化)、[前端工程化](#前端工程化)、[物联网](#物联网)、[消息队列](#消息队列)、[DevOps](#DevOps)、[微前端](#微前端)、[主流框架](#主流框架)、[LowCode](#LowCode)、[架构](#架构)、[AI](#AI)、[面试](#面试)、[学习网站](#学习网站)、[技术杂谈](#技术杂谈)、[前端组织](#前端组织)、[优化](#优化)、[Serverless](#Serverless)、[源码学习](#源码学习)、[Web](#Web)
 ### 前端类库
 - JS 类库
   - [jQuery](http://api.jquery.com/) ☆
@@ -30,10 +35,6 @@
 - 原型工具
   - Axure ☆
   - [Sketch](http://www.sketchcn.com/sketch-chinese-user-manual.html) ☆
-### 必学原理
-- [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/) ☆☆
-- [AST 与前端工程化实战](https://mp.weixin.qq.com/s/frZq6DBjK7TYV3hiqSUj3w) ☆☆
-- [编译原理：从 0 写一个 js 解释器](https://zhuanlan.zhihu.com/p/137509746?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆
 ### 移动端
 - Native App
   - [React Native](https://facebook.github.io/react-native/) ☆☆
@@ -57,11 +58,10 @@
   - [Awesome-Flutter](https://github.com/fluttercnclub/awesome-fluttercn) ☆
   - [闲鱼Flutter互动引擎系列](https://mp.weixin.qq.com/s/oa-XUzWhhsz37Mj-Y6WkzA) ☆☆
   - [深入了解 Flutter 的高性能图形渲染](https://mp.weixin.qq.com/s/RNhdYtoQ8RQcjIXJReGZWA) ☆☆☆
-# F2E-Awesome [![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) [![GitHub stars](https://img.shields.io/github/stars/f2e-awesome/knowledge.svg?style=flat&label=Star)](https://github.com/f2e-awesome/knowledge/stargazers) [![GitHub forks](https://img.shields.io/github/forks/f2e-awesome/knowledge.svg?style=flat&label=Fork)](https://github.com/f2e-awesome/knowledge/fork) [![GitHub watchers](https://img.shields.io/github/watchers/f2e-awesome/knowledge.svg?style=flat&label=Watch)](https://github.com/f2e-awesome/knowledge/watchers)
-
-![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)
-
-- 难度等级：☆ 为初级，☆☆ 为中级，☆☆☆ 为高级
+### 必学原理
+- [AST 抽象语法树](http://jartto.wang/2018/11/17/about-ast/) ☆☆
+- [AST 与前端工程化实战](https://mp.weixin.qq.com/s/frZq6DBjK7TYV3hiqSUj3w) ☆☆
+- [编译原理：从 0 写一个 js 解释器](https://zhuanlan.zhihu.com/p/137509746?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆
 ### PWA
 - [官网](https://developers.google.com/web/progressive-web-apps/) ☆☆
 - [第一本 PWA 中文书](https://juejin.im/entry/5a1c394a5188255851326da5) ☆☆
@@ -71,36 +71,29 @@
 - [9 amazing PWA secrets](https://www.creativebloq.com/features/9-amazing-pwa-secrets) ☆☆☆
 - [awesome-progressive-web-apps](https://github.com/TalAter/awesome-progressive-web-apps) 打造 `PWA` 的资源集合
 - [pwa.rocks](https://pwa.rocks/) 一些优秀的 `PWA` 集合
-### 小程序
-- [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/) ☆☆
-- [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/) ☆☆
-- [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/) ☆☆
-- [Taro 多端统一开发框架](https://github.com/NervJS/taro)
 ### WebAssembly
 - [WebAssembly，Web 的新时代](http://blog.csdn.net/zhangzq86/article/details/61195685) ☆☆
 - [来谈谈 WebAssembly 是个啥？为何说它会影响每一个 Web 开发者？](http://blog.csdn.net/wulixiaoxiao1/article/details/60581397) ☆
 - [WebAssembly 系列（四）WebAssembly 工作原理](https://segmentfault.com/a/1190000008686643) ☆☆☆
 - [如何评论浏览器最新的 WebAssembly 字节码技术？](https://www.zhihu.com/question/31415286) ☆☆
-### WebGL
-- [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
-- [WebGL的实际使用](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/) ☆☆
-- [WebGL 3D版俄罗斯方块](http://www.cnblogs.com/xhload3d/p/9098386.html)  ☆☆☆
-
+### 小程序
+- [快速上手小程序](http://jartto.wang/2018/01/25/quick-start-mini-programs/) ☆☆
+- [细数小程序的坑](http://jartto.wang/2018/02/08/count-pit-of-mini-programs/) ☆☆
+- [小程序开发 Tips](http://jartto.wang/2018/03/06/tips-of-mini-programs/) ☆☆
+- [Taro 多端统一开发框架](https://github.com/NervJS/taro)
 ### Canvas
 - [玩转「Canvas」](https://juejin.im/post/5bfba4d6e51d452fd80f0f0d) ☆
 - [Canvas 实现单机版贪吃蛇](https://juejin.im/post/5b115c54f265da6e65165aef?utm_source=gold_browser_extension) ☆☆☆
 - [用 Canvas 画一个进度盘](https://juejin.im/post/5b25e3396fb9a00e7a3d5161?utm_source=gold_browser_extension) ☆☆
 
+### WebGL
+- [WebGL技术储备](http://taobaofed.org/blog/2015/12/21/webgl-handbook/) ☆☆
+- [WebGL的实际使用](http://taobaofed.org/blog/2018/05/07/optimizing-page-performance-with-shader/) ☆☆
+- [WebGL 3D版俄罗斯方块](http://www.cnblogs.com/xhload3d/p/9098386.html)  ☆☆☆
+
 ### SVG
 - [走进 SVG ](http://jartto.wang/2016/09/10/step-in-svg/) ☆☆
 - [SVG 类库 snap.svg.js](http://snapsvg.io/) ☆☆
-### Elasticsearch
-- [Elasticsearch 官网](https://www.elastic.co/products/elasticsearch)
-- [基于 Elasticsearch 实现搜索建议](https://juejin.im/post/5b5a64c7518825620f57e907)
-### Graphql
-- [graphql](https://graphql.cn/)
-- [apollo](https://www.apollographql.com/)
-- [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
 ### HTML5
 - 初级 ☆
   - [语义化](https://www.jianshu.com/p/b226910034f2)
@@ -131,6 +124,13 @@
   - [HTML5 API 大盘点](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/) ☆☆
   - [H5 页面滚动阻尼效果实现](https://juejin.im/post/5b24ffe3f265da59934b33f4?utm_source=gold_browser_extension)
 
+### Elasticsearch
+- [Elasticsearch 官网](https://www.elastic.co/products/elasticsearch)
+- [基于 Elasticsearch 实现搜索建议](https://juejin.im/post/5b5a64c7518825620f57e907)
+### Graphql
+- [graphql](https://graphql.cn/)
+- [apollo](https://www.apollographql.com/)
+- [apollo-blog](https://dev-blog.apollodata.com/) 需要翻墙
 ### 模块化编程
 - [CMD](https://github.com/seajs/seajs/issues/242) ☆
   - [SeaJS](http://yslove.net/seajs/) ☆
@@ -160,30 +160,6 @@
 - 矩阵计算
 - [十大经典排序算法动画](https://mp.weixin.qq.com/s/giubE_Jo1NhIqTteeOmj7g)
 
-### 数据结构
-- 分类
-  - 数组
-  - 栈
-  - 队列
-  - 链表
-  - 树 
-    - 二叉树
-  - 图
-  - 堆
-  - 散列表
-  - 链表
-    - 单向链表
-    - 双向链表
-    - 环链表
-- [Data Structures for Beginners](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) ☆☆
-### 数据库
-- MySQL ☆☆☆
-- Redis ☆☆☆
-  - [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
-  - [读完这篇，你一定能真正理解 Redis 持久化](https://mp.weixin.qq.com/s/pIb--1AaJa-RARpdZaNBmA)
-- Memcached ☆☆☆
-  - [Memcached 教程](http://www.runoob.com/memcached/memcached-install.html)
-- [三种基本的存储引擎比较](https://mp.weixin.qq.com/s/Iemp-8dKPGXli6GtRnzFaw) ☆☆☆
 ### 加密
 - [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
 - [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75 ☆☆☆
@@ -213,12 +189,71 @@
   - SHA ☆☆☆
 - 综合实践
   - [OAuth2.0 的四种授权方式](https://mp.weixin.qq.com/s/YaZvBvFx2Ccmw4C2287uog) ☆☆
+### 数据结构
+- 分类
+  - 数组
+  - 栈
+  - 队列
+  - 链表
+  - 树 
+    - 二叉树
+  - 图
+  - 堆
+  - 散列表
+  - 链表
+    - 单向链表
+    - 双向链表
+    - 环链表
+- [Data Structures for Beginners](https://adrianmejia.com/blog/2018/04/28/data-structures-time-complexity-for-beginners-arrays-hashmaps-linked-lists-stacks-queues-tutorial/) ☆☆
 ### 包管理
 - npm ☆
 - cnpm ☆
 - yarn ☆
 - homebrew ☆
 - bower ☆
+### Python
+- 初级 ☆
+  - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
+  - [Python 官方文档](https://www.python.org/)
+  - Python 笔记
+    - [简单语法](http://jartto.wang/2018/06/24/learn-python-3/)
+    - [常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
+    - [Open 文件操作](http://jartto.wang/2018/05/19/learn-python-1/)
+    - ...
+- 中级 ☆☆
+  - [30s Python](http://python.kriadmin.me/) 
+  - [爬虫](https://github.com/facert/awesome-spider)
+    - [Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+  - Web 框架
+    - Tornado 
+    - Jinja2 
+    - Flask 
+    - Django 
+- 高级 ☆☆☆
+  - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
+  - 分布式
+      - Celery
+  - 移动端
+      - Kivy
+  - 数据分析
+      - Pandas
+  - 可视化
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - Bokeh
+  - 机器学习
+    - Tensorflow
+    - PyTorch
+    - MxNet
+### 数据库
+- MySQL ☆☆☆
+- Redis ☆☆☆
+  - [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
+  - [读完这篇，你一定能真正理解 Redis 持久化](https://mp.weixin.qq.com/s/pIb--1AaJa-RARpdZaNBmA)
+- Memcached ☆☆☆
+  - [Memcached 教程](http://www.runoob.com/memcached/memcached-install.html)
+- [三种基本的存储引擎比较](https://mp.weixin.qq.com/s/Iemp-8dKPGXli6GtRnzFaw) ☆☆☆
 ### 设计模式
 - [菜鸟-设计模式](http://www.runoob.com/design-pattern/design-pattern-tutorial.html) ☆☆
 - [JavaScript 设计模式](https://juejin.im/entry/5b2929b351882574bd7edddd?utm_source=gold_browser_extension) ☆
@@ -296,41 +331,9 @@
   - [30s CSS](https://atomiks.github.io/30-seconds-of-css/) ☆
   - [新手引导动画的 4 种实现方式](https://juejin.im/post/5bac9bd0e51d450e516296d0)
 
-### Python
-- 初级 ☆
-  - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
-  - [Python 官方文档](https://www.python.org/)
-  - Python 笔记
-    - [简单语法](http://jartto.wang/2018/06/24/learn-python-3/)
-    - [常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
-    - [Open 文件操作](http://jartto.wang/2018/05/19/learn-python-1/)
-    - ...
-- 中级 ☆☆
-  - [30s Python](http://python.kriadmin.me/) 
-  - [爬虫](https://github.com/facert/awesome-spider)
-    - [Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
-  - Web 框架
-    - Tornado 
-    - Jinja2 
-    - Flask 
-    - Django 
-- 高级 ☆☆☆
-  - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
-  - 分布式
-      - Celery
-  - 移动端
-      - Kivy
-  - 数据分析
-      - Pandas
-  - 可视化
-    - Matplotlib
-    - Seaborn
-    - Plotly
-    - Bokeh
-  - 机器学习
-    - Tensorflow
-    - PyTorch
-    - MxNet
+### DOM
+- [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp) ☆☆
+
 ### 函数式编程
 - [什么是函数式编程思维？](https://www.zhihu.com/question/28292740) ☆☆☆
 - [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/) ☆☆☆
@@ -356,9 +359,13 @@
 - [JSONP](https://www.zhihu.com/question/19966531) ☆☆
 - [CORS](http://jartto.wang/2016/06/27/solutions-to-CORS/) ☆☆
 - [Nginx](http://www.nginx.cn/4592.html) ☆☆
-### DOM
-- [JavaScript HTML DOM](http://www.w3school.com.cn/js/js_htmldom.asp) ☆☆
-
+### 事件模型
+- 观察者模式 ☆☆
+- DOM0 级模型 ☆☆
+- IE 事件模型 ☆☆
+- DOM2 级模型 ☆☆
+- JQuery Event 模型 ☆☆
+- [JS 事件模型](https://segmentfault.com/a/1190000006934031) ☆☆
 ### 安全
 - [如何防止 XSS 攻击？](https://juejin.im/post/5bad9140e51d450e935c6d64)
 - [Web 安全之 XSS 和 CSRF](http://jartto.wang/2017/12/15/xss-and-csrf/) ☆☆☆
@@ -374,17 +381,6 @@
 - Session 劫持 ☆☆
 - 短信接口攻击 ☆☆
 - CC 
-### Git
-- [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/) ☆
-- [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/) ☆
-- [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/) ☆
-- [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/) ☆
-- [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
-- [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
-- [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
-- [一个维护版本日志整洁的 Git 提交规范](https://juejin.im/post/5bf7b2e9e51d45213e57be92)
-- [git-flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ☆☆
-  - [git flow 的使用](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
 ### 前端规范
 - [ESLint](https://eslint.org) ☆
 - [JSHint](http://www.jslint.com) ☆
@@ -402,27 +398,20 @@
 - [关于负载均衡的一切](https://mp.weixin.qq.com/s/xvozZjmn-CvmQMAEAyDc3w) ☆☆
 - [负载均衡的算法](https://mp.weixin.qq.com/s/fkYnkT6PW0I2MS2d2Nh1jg) ☆☆
 - [几种常用负载均衡架构](https://developer.51cto.com/art/201904/595761.htm) ☆☆
-### DNS
-- [DNS 缓存中毒](https://www.toutiao.com/a6652593929738781195/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1548950293&app=news_article&utm_source=weixin&iid=59860639007&utm_medium=toutiao_ios&group_id=6652593929738781195)
-- [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html) ☆☆☆
-- [浏览器输入网址后台是如何运作的](http://www.chinaz.com/web/2013/0228/293980.shtml) ☆☆
+### Git
+- [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/) ☆
+- [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/) ☆
+- [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/) ☆
+- [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/) ☆
+- [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
+- [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
+- [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
+- [一个维护版本日志整洁的 Git 提交规范](https://juejin.im/post/5bf7b2e9e51d45213e57be92)
+- [git-flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ☆☆
+  - [git flow 的使用](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆
 ### CDN
 - [什么是 CDN？](https://www.zhihu.com/question/37353035) ☆☆
 - [CDN 带来这些性能优化](https://juejin.im/post/5d1385b25188253dc975b577?utm_source=gold_browser_extension) ☆☆☆
-
-### 事件模型
-- 观察者模式 ☆☆
-- DOM0 级模型 ☆☆
-- IE 事件模型 ☆☆
-- DOM2 级模型 ☆☆
-- JQuery Event 模型 ☆☆
-- [JS 事件模型](https://segmentfault.com/a/1190000006934031) ☆☆
-### V8 引擎
-- [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967) ☆☆☆
-- [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549) ☆☆☆
-- [Google V8](https://github.com/v8/v8) ☆☆☆
-- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
-- [V8 引擎的 5 个优化技巧](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) ☆☆☆
 
 ### JS
 - 初级 ☆
@@ -522,6 +511,13 @@
 - [初探 Electron - 升华篇](http://jartto.wang/2018/01/04/first-exploration-electron-2/) ☆☆
 - [初探 Electron - 实践篇 1](http://jartto.wang/2018/01/14/first-exploration-electron-3/) ☆☆
 - [初探 Electron - 实践篇 2](http://jartto.wang/2018/01/21/first-exploration-electron-4/) ☆☆
+### 抓包工具
+- [Fiddler](https://www.telerik.com/fiddler) ☆☆
+- [Charles](https://www.charlesproxy.com) ☆☆
+- [HttpWatch](http://www.oneapm.com/lp/bihttpwatch) ☆☆
+- [spy-debugger](https://github.com/wuchangming/spy-debugger) ☆☆
+- 模拟请求
+  - [Postman](https://www.getpostman.com) ☆☆
 ### 测试
 - 单元测试
   - Jest ☆☆☆
@@ -540,13 +536,6 @@
 - 应用
   - [React单元测试策略及落地](https://insights.thoughtworks.cn/react-strategies-for-unit-testing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
   - [使用 Jest 和 Enzyme 测试 React 组件](https://mp.weixin.qq.com/s/isZLVenQrAUzA77O4TYVfQ)
-### 抓包工具
-- [Fiddler](https://www.telerik.com/fiddler) ☆☆
-- [Charles](https://www.charlesproxy.com) ☆☆
-- [HttpWatch](http://www.oneapm.com/lp/bihttpwatch) ☆☆
-- [spy-debugger](https://github.com/wuchangming/spy-debugger) ☆☆
-- 模拟请求
-  - [Postman](https://www.getpostman.com) ☆☆
 ### 容器化
 - Docker
   - [Docker 边学边用](http://jartto.wang/2020/07/04/learn-docker/) ☆☆
@@ -561,6 +550,10 @@
   - [一文了解 Kubernetes](http://jartto.wang/2020/07/15/start-k8s/) ☆☆☆
 - [Jenkins](https://jenkins.io) ☆☆☆
 - [前端AB实验设计思路与实现原理](https://fed.taobao.org/blog/taofed/do71ct/frontend-ab-test) ☆☆☆
+### DNS
+- [DNS 缓存中毒](https://www.toutiao.com/a6652593929738781195/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1548950293&app=news_article&utm_source=weixin&iid=59860639007&utm_medium=toutiao_ios&group_id=6652593929738781195)
+- [例解 DNS 递归/迭代名称解析原理](http://blog.chinaunix.net/uid-10659021-id-3903144.html) ☆☆☆
+- [浏览器输入网址后台是如何运作的](http://www.chinaz.com/web/2013/0228/293980.shtml) ☆☆
 ### 监控
 - [APM](https://github.com/f2e-awesome/monitoring/blob/master/README.md) ☆☆
 - [前端错误日志收集方案](https://juejin.im/post/5bd2dbc7f265da0af16183f8?utm_source=gold_browser_extension) ☆
@@ -573,16 +566,6 @@
 - [解决 Script Error 的另类思路](https://juejin.im/post/5c00a405f265da610e7fd024) ☆☆
 - [大前端时代前端监控的最佳实践](https://www.evernote.com/l/AUQuMjXPG6RBfaeWb_Y17fVmILKyZmLwgow) ☆☆☆
 - [前端性能监控：window.performance](https://juejin.im/entry/58ba9cb5128fe100643da2cc)
-### 浏览器
-- [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
-- [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398) ☆☆
-- [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
-- [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
-- [渲染进程的内部工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part3) ☆☆☆
-- [Compositor 是如何来提高交互性能的？](https://developers.google.com/web/updates/2018/09/inside-browser-part4) ☆☆☆
-- [浏览器内核渲染：重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe)
-- [Chrome Devtools](https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c) ☆☆☆
-- [Chrome插件(扩展)开发全攻略](https://mp.weixin.qq.com/s/waUg3hx5HsRkyiitJdHudg) ☆
 ### 数据可视化
 - 图表 ☆☆
   - [echarts](http://echarts.baidu.com/option.html#xAxis) 
@@ -597,6 +580,16 @@
   - [蜂鸟室内地图](https://www.fengmap.com/) 
 - 埋点统计 ☆☆
   - [揭开 JS 无埋点技术的神秘面纱](https://mp.weixin.qq.com/s/pGP5Oohcban0P1GAzPlAgg)
+### 浏览器
+- [再谈 IE 浏览器兼容问题](http://jartto.wang/2016/12/06/talk-about-ie-compatible-over-again/) ☆☆
+- [图解浏览器的基本工作原理](https://zhuanlan.zhihu.com/p/47407398) ☆☆
+- [what-happens-when](https://github.com/alex/what-happens-when)(输入 URL 后浏览器发生了什么) ☆☆
+- [浏览器工作原理](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) ☆☆☆
+- [渲染进程的内部工作原理](https://developers.google.com/web/updates/2018/09/inside-browser-part3) ☆☆☆
+- [Compositor 是如何来提高交互性能的？](https://developers.google.com/web/updates/2018/09/inside-browser-part4) ☆☆☆
+- [浏览器内核渲染：重建引擎](https://juejin.im/post/5bbaa7da6fb9a05d3761aafe)
+- [Chrome Devtools](https://medium.com/@tomsu/devtools-tips-day-1-the-console-dollars-3aa0d93e923c) ☆☆☆
+- [Chrome插件(扩展)开发全攻略](https://mp.weixin.qq.com/s/waUg3hx5HsRkyiitJdHudg) ☆
 ### 前端工程化
 - [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184) ☆☆
 - [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东 ☆☆☆
@@ -644,6 +637,13 @@
 - [消息队列mq总结](https://blog.csdn.net/HD243608836/article/details/80217591) ☆☆
 - [缓存淘汰算法--LRU算法](https://www.evernote.com/shard/s324/sh/13a3bb3f-372b-4a93-a980-95b4cc225a46/a383727c1d79df40) ☆☆☆
   >这个是各种消息队列的框架的核心算法，都是这个算法的变形
+### V8 引擎
+- [Google V8 引擎运用了哪些优秀的算法？](https://www.zhihu.com/question/22498967) ☆☆☆
+- [V8 引擎详解](https://blog.csdn.net/swimming_in_it_/article/details/78869549) ☆☆☆
+- [Google V8](https://github.com/v8/v8) ☆☆☆
+- [V8 并发标记](https://mp.weixin.qq.com/s/pv_4YRo6KjLiVxLViZTr2Q) ☆☆☆
+- [V8 引擎的 5 个优化技巧](https://blog.sessionstack.com/how-javascript-works-inside-the-v8-engine-5-tips-on-how-to-write-optimized-code-ac089e62b12e) ☆☆☆
+
 ### DevOps
 - [DevOps 简介](http://jartto.wang/2018/11/30/about-devops/) ☆
 - [猪八戒网的 DevOps 进化论](https://mp.weixin.qq.com/s/I7hRbZrw1QsS0UP4RZIHOw) ☆☆
@@ -656,6 +656,8 @@
 - [张克军：微前端架构体系](https://mp.weixin.qq.com/s/OEfRPKuPmBKvJdD_zMgFuQ) ☆☆☆
 - [EMP for Vue&React 互相远程调用](https://mp.weixin.qq.com/s/KKZYzzTFBVD-rJeWr3Z7cg) ☆☆
 - [字节跳动是如何落地微前端的](https://juejin.cn/post/7016900744695513125?utm_source=gold_browser_extension)☆☆☆
+### LowCode
+- [国内低代码平台](https://github.com/taowen/awesome-lowcode) ☆☆☆
 ### 主流框架
 - Angular
   - [依赖注入](http://jartto.wang/2014/04/24/angularjs-part-7/) ☆
@@ -713,8 +715,6 @@
   - 应用
     - [构建大型React应用程序的最佳实践](https://mp.weixin.qq.com/s/XspWR3e7Jm38Q-HJm2Ntvw)
 
-### LowCode
-- [国内低代码平台](https://github.com/taowen/awesome-lowcode) ☆☆☆
 ### 架构
 - [前端架构师入门技能图谱](https://mp.weixin.qq.com/s/fYC1VHibhOoxBpm8NShGWQ) ☆
 - [架构师成神路线图](https://mp.weixin.qq.com/s/X_F_8OfbBDHWcUTPY2THrA) ☆☆
@@ -746,6 +746,16 @@
 - [前端 100 问](https://juejin.im/post/5d23e750f265da1b855c7bbe)
 - [一个 TCP 连接上面能发多少个 HTTP 请求](https://www.toutiao.com/a6706021767074284043/?tt_from=weixin&utm_campaign=client_share&wxshare_count=1&timestamp=1561608618&app=news_article&utm_source=weixin&utm_medium=toutiao_ios&req_id=20190627121018010027057145257B9C2&group_id=6706021767074284043)
 - [彻底弄懂前端路由](https://juejin.im/post/5d2d19ccf265da1b7f29b05f?utm_source=gold_browser_extension)
+### 前端组织
+- [360奇舞团](https://75team.com/)
+- [腾讯Web前端团队（Alloy Team）](http://www.alloyteam.com/)
+- [百度Web 前端研发部（FEX）](http://fex.baidu.com/)
+- [淘宝前端团队（FED）](http://taobaofed.org/)
+- [大搜车无线团队](http://f2e.souche.com/)
+- [京东凹凸实验室](https://aotu.io/index.html)
+- [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
+- [前端精读周刊](https://github.com/dt-fe/weekly)
+- [淘系前端团队](https://tophub.today/n/x9ozQE6eXb)
 ### 学习网站
 - [Freecodecamp](https://www.freecodecamp.org/)
 - [CodePen](https://codepen.io/)
@@ -785,16 +795,6 @@
   >文章列举了常见的登录方式，清晰易懂：Cookie + Session 登录、Token 登录、SSO 单点登录、OAuth 第三方登录
 
 
-### 前端组织
-- [360奇舞团](https://75team.com/)
-- [腾讯Web前端团队（Alloy Team）](http://www.alloyteam.com/)
-- [百度Web 前端研发部（FEX）](http://fex.baidu.com/)
-- [淘宝前端团队（FED）](http://taobaofed.org/)
-- [大搜车无线团队](http://f2e.souche.com/)
-- [京东凹凸实验室](https://aotu.io/index.html)
-- [蚂蚁金服·数据体验技术团队](https://juejin.im/user/59659aff5188250cf956e6dd/posts)
-- [前端精读周刊](https://github.com/dt-fe/weekly)
-- [淘系前端团队](https://tophub.today/n/x9ozQE6eXb)
 ### 优化
 - 初级 ☆
   - 图片资源

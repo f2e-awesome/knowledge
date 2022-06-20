@@ -73,14 +73,12 @@ body { padding-top: 60px; }
                 <script type="text/javascript">
         (function() {
 
-          var onload = window.onload;
-          window.onload = function(){
-            if (typeof onload == "function") onload();
+          window.addEventListener('load', function() {
                     var options = { "title": { "text": "" },"legend": { "enabled": true,"layout": "vertical","backgroundColor": "#FFFFFF","align": "left","verticalAlign": "top","x": 100,"y": 70,"floating": true,"shadow": true },"xAxis": { "title": { "text": null } },"yAxis": { "title": { "text": "Lines" },"labels": {  } },"tooltip": { "enabled": true },"credits": { "enabled": false },"plotOptions": { "areaspline": {  } },"chart": { "defaultSeriesType": "line","renderTo": "charts.changed_lines_by_author_by_date" },"subtitle": {  },"series": [{ "name": "FEWY","type": "spline","data": [ [ 1530589929000,4 ],[ 1530595799000,12 ],[ 1530611784000,23 ],[ 1530662400000,23 ],[ 1530748800000,23 ],[ 1530835200000,23 ],[ 1530921600000,23 ],[ 1531008000000,23 ],[ 1531130172000,31 ] ] }] };
         
         window.chart_charts.changed_lines_by_author_by_date = new Highcharts.StockChart(options);
 
-          };
+          });
                 })()
         </script>
 
