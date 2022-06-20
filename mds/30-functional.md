@@ -1,0 +1,21 @@
+### 函数式编程
+- [什么是函数式编程思维？](https://www.zhihu.com/question/28292740) ☆☆☆
+- [我眼中的 JavaScript 函数式编程](http://taobaofed.org/blog/2017/03/16/javascript-functional-programing/) ☆☆☆
+- [防抖和节流原理分析](https://juejin.im/post/5b7b88d46fb9a019e9767405)
+- 参数个数 Arity
+- 高阶组件 Higher-Order Functions (HOF)
+- 偏应用函数 Partial Application
+- 柯里化 Currying
+- 闭包 Closure
+- 自动柯里化 Auto Currying
+- 函数合成 Function Composition
+- Continuation
+- 纯函数 Purity
+- 副作用 Side effects
+- 幂等 Idempotent
+- Point-Free Style
+- 断言 Predicate
+- 约定 Contracts
+- 范畴 Category
+- [JavaScript 函数式编程术语大全](http://www.css88.com/archives/7833)
+- ...

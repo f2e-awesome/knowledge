@@ -1,0 +1,29 @@
+### 加密
+- [初探加密算法](http://jartto.wang/2017/12/03/exploration-the-encryption/) ☆☆☆
+- [算法分析](https://pan.baidu.com/s/1bYfdZx3o5vL6MRyCit8P8w) 密码: as75 ☆☆☆
+- [程序员实用算法](https://pan.baidu.com/s/1O3iGlPfW-REEW6yRTKw9oQ) 密码: mmap ☆☆☆
+- 对称加密
+  - DES ☆☆☆
+  - 3DES ☆☆☆
+  - TDEA ☆☆☆
+  - Blowfish ☆☆☆
+  - RC2 ☆☆☆
+  - RC4 ☆☆☆
+  - RC5 ☆☆☆
+  - IDEA ☆☆☆
+  - SKIPJACK ☆☆☆
+  - AES ☆☆☆
+- 非对称加密
+  -  RSA ☆☆☆
+  -  ECC（移动设备用） ☆☆☆
+  -  Diffie-Hellman ☆☆☆
+  -  El Gamal ☆☆☆
+  -  DSA（数字签名用） ☆☆☆
+- Hash 加密
+  - MD2 ☆☆☆
+  - MD4 ☆☆☆
+  - MD5 ☆☆☆
+  - HAVAL ☆☆☆
+  - SHA ☆☆☆
+- 综合实践
+  - [OAuth2.0 的四种授权方式](https://mp.weixin.qq.com/s/YaZvBvFx2Ccmw4C2287uog) ☆☆

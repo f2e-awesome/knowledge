@@ -1,0 +1,49 @@
+### Web 服务器端
+- [Nodejs](https://nodejs.org/en/)
+  - 基础 web 框架
+    - [Express](http://www.expressjs.com.cn/) ☆
+    - [Koa](https://koajs.com/)
+      - [阮一峰 Koa 入门教程](http://www.ruanyifeng.com/blog/2017/08/koa.html) ☆
+      - [kick-off-koa](https://github.com/koajs/kick-off-koa) ☆
+      - [koajs examples](https://github.com/koajs/examples) ☆☆
+      - [koa workshop](https://github.com/koajs/workshop) ☆☆
+    - [hapijs](https://hapijs.com/) ☆☆
+    - [restify](http://restify.com/)
+    - [fastify](https://www.fastify.io/)
+    - [thinkjs](https://thinkjs.org/zh-cn/doc/2.2/module.html)
+    - [nextjs](https://zeit.co/blog/next) ☆☆  
+  - node中比较棘手的问题
+    - node内存泄漏排查
+    - node错误处理机制
+    - node.js cluster
+      - [PM2 初体验](http://jartto.wang/2016/06/27/first-experience-of-pm2/) ☆
+      - Forever ☆☆
+  - 高度集成 web 框架
+    - [egg](http://eggjs.org/) ☆☆☆
+    - [nest](https://nestjs.com/) 
+    - [thinkjs](https://thinkjs.org/)
+    - [loopback](https://loopback.io/)
+    - [sails](https://sailsjs.com/) ☆☆
+    - nohup ☆☆
+    - Nodejs 事件循环机制: 结合[libuv](http://docs.libuv.org/en/v1.x/design.html)和 nodejs 官网的[blog](https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/)
+    - [剖析 nodejs 的事件循环](https://juejin.im/post/5af1413ef265da0b851cce80?utm_source=gold_browser_extension)
+    - [Stream](https://github.com/substack/stream-handbook) ☆☆
+    - [Buffer](https://nodejs.org/api/buffer.html) ☆☆
+    - [多进程](https://nodejs.org/dist/latest-v8.x/docs/api/cluster.html) ☆☆
+    - [eleme node-interview](https://elemefe.github.io/node-interview/#/sections/zh-cn/) ☆☆☆
+    - [node debug](https://github.com/nswbmw/node-in-debugging) ☆☆
+    - 内存相关 ☆☆☆
+    - [js snapshot 相关](http://hello2dj.com/2018/03/05/heapdump%E8%A7%A3%E6%9E%90/) ☆☆☆
+    - [node技术进阶与实践](https://www.evernote.com/l/AURoreJGCE5F8pV7a6YwRrDBJ-gOohmRdhI) ☆☆☆
+- [deno](https://github.com/ry/deno) ☆☆
+- [nexus 搭建 npm 私服](https://www.jianshu.com/p/9085f47726a2) ☆☆☆
+- [Nginx](https://github.com/nginx/nginx) ☆☆☆
+- [nodejs 结合 dubbo 服务 node-zookeeper-dubbo](https://segmentfault.com/a/1190000013145761) ☆☆☆
+- [thrifty -> nodejs实例](http://thrift.apache.org/tutorial/nodejs) ☆☆
+- [nodejs-learning-guide](https://github.com/chyingp/nodejs-learning-guide) ☆☆☆
+- [互联网架构为什么要做服务化？](http://www.open-open.com/lib/view/open1472132696878.html)☆☆
+- [什么是微服务](https://blog.csdn.net/wuxiaobingandbob/article/details/78642020?locationNum=1&fps=1)
+- [服务化架构的演进与实践](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
+- [服务化实战之 dubbo、dubbox、motan、thrift、grpc等RPC框架比较及选型](https://blog.csdn.net/liubenlong007/article/details/54692241)☆☆
+- [Nodejs 最佳实践](https://github.com/i0natan/nodebestpractices?utm_source=gold_browser_extension) ☆☆☆
+- [技术栈：为什么 Node 是前端团队的核心技术栈](https://mp.weixin.qq.com/s/dA6M1t957G-nZ-Ir80L1kA) ☆☆☆

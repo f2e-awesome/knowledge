@@ -1,0 +1,11 @@
+### Git
+- [Git 学习资源汇总](http://jartto.wang/2015/09/08/summarize-the-git/) ☆
+- [Git 常规操作](http://jartto.wang/2017/12/01/git-common-operate/) ☆
+- [如何配置 Git 对应多个 Repository](http://jartto.wang/2017/12/19/one-git-for-more-repository/) ☆
+- [Git 实践系列一：初探](http://jartto.wang/2015/09/07/git-part-1/) ☆
+- [Git 钩子的作用](https://git-scm.com/book/zh/v2/%E8%87%AA%E5%AE%9A%E4%B9%89-Git-Git-%E9%92%A9%E5%AD%90) ☆☆
+- [Git pre-push hook](https://www.jianshu.com/p/7a10d4db97c0) ☆☆
+- [你可能会忽略的 Git 提交规范](http://jartto.wang/2018/07/08/git-commit/) ☆
+- [一个维护版本日志整洁的 Git 提交规范](https://juejin.im/post/5bf7b2e9e51d45213e57be92)
+- [git-flow](https://www.git-tower.com/learn/git/ebook/cn/command-line/advanced-topics/git-flow) ☆☆
+  - [git flow 的使用](https://www.cnblogs.com/lcngu/p/5770288.html) ☆☆

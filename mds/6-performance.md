@@ -1,0 +1,68 @@
+### 优化
+- 初级 ☆
+  - 图片资源
+    - [WebP 在项目中的实践](https://www.jianshu.com/p/73ca9e8b986a)
+  - 代码合并
+  - 压缩
+  - 混淆
+  - Css sprits
+  - 减少 HTTP 请求
+  - Gzip
+    - [GZIP 的压缩原理与日常应用](https://juejin.im/post/5b793126f265da43351d5125) ☆☆☆
+  - Keep-Alive
+  - DNS
+- 中级 ☆☆
+  - [图像优化原理](https://mp.weixin.qq.com/s/7aK6D0InyJs-BXUcaormKA)
+  - [高性能网站建设的 14 个原则](http://www.cnblogs.com/mdyang/archive/2011/07/12/high-performance-web-sites.html)
+  - [Web 优化之 Request](http://jartto.wang/2018/02/09/optimise-for-web-request/)
+  - [如何优化高德地图（AMap）Marker 动画](http://jartto.wang/2017/08/28/how-to-optimize-marker-of-AMap/)
+  - [Web前端优化及工具集锦](https://www.csdn.net/article/2013-09-23/2817020-web-performance-optimization)
+  - [搜索引擎优化 SEO](https://juejin.im/post/5b163fab5188257d571f1d17?utm_source=gold_browser_extension)
+- 高级 ☆☆☆
+  - [彻底弄懂 HTTP 机制及原理](https://www.cnblogs.com/chenqf/p/6386163.html) 
+  - 缓存
+    - [HTML5 离线存储](http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/)
+    - HTML 和 HTTP 头文件设置
+      - [HTTP 缓存](https://juejin.im/post/5b3c87386fb9a04f9a5cb037#comment)
+      - [Meta](http://laoono.com/2016-05/html-meta-cache.html)
+      - Expires
+      - Cache-Control
+      - Last-Modified / If-Modified-Since
+      - Etag / If-None-Match
+    - Nginx 缓存
+    - [关键路径渲染优化](https://juejin.im/entry/5b16a05fe51d4506b01106d9)
+    - [关键渲染路径](https://juejin.im/post/5c3333036fb9a049f1545d27)
+    - [前端性能优化——关键渲染路径](https://segmentfault.com/a/1190000013767948) 👍
+    - Storage
+    - [indexedDB](https://blog.csdn.net/inter_peng/article/details/49133081)
+    - [浏览器存储之争](http://jartto.wang/2018/12/02/indexeddb/)
+    - [Service Worker](https://www.jianshu.com/p/62338c038c42)
+    - [从性能优化的角度看缓存](https://github.com/amandakelake/blog/issues/43)
+    - [聊一聊浏览器缓存机制](http://jartto.wang/2019/02/14/web-cache/)
+    - [浏览器缓存机制：强缓存、协商缓存](https://github.com/amandakelake/blog/issues/41)
+    - [数据存储：cookie、Storage、indexedDB](https://github.com/amandakelake/blog/issues/13)
+    - [离线应用缓存：App Cache => Manifest](https://github.com/amandakelake/blog/issues/15)
+  - 服务端缓存
+    - [缓存、队列（Memcached、redis、RabbitMQ）](https://www.cnblogs.com/suoning/archive/2016/08/31/5807247.html)
+    - [缓存技术的详解](https://blog.csdn.net/qq_26517369/article/details/78330694)
+    - [缓存淘汰算法--LRU算法](https://www.evernote.com/l/AUQTo7s_NytKk6mAlbTMIlpGo4NyfB1530A)
+- 扩展
+  - [网站性能优化实战——从 12.67s 到 1.06s 的故事](https://juejin.im/post/5b0b7d74518825158e173a0c) ☆
+  - [用 100 行代码提升 10 倍的性能](https://juejin.im/post/5bec223f5188250c102116b5) ☆☆
+  - [美团网页首帧优化实践](https://juejin.im/post/5bee7dd4e51d451f5b54cbb4) ☆☆
+  - [前端性能提升秘笈！](http://rdc.hundsun.com/portal/article/942.html) ☆☆
+  - [网站优化实战](http://jartto.wang/2019/02/16/web-optimization/) ☆☆☆
+  - [百度APP-Android H5首屏优化实践](https://mp.weixin.qq.com/s/AqQgDB-0dUp2ScLkqxbLZg) ☆☆☆
+  - [VasSonic，让你的 H5 页面首屏秒开](https://my.oschina.net/u/3447988/blog/1512025) ☆☆☆
+  - [Lazy Loading Video Based on Connection Speed](https://medium.com/dailyjs/lazy-loading-video-based-on-connection-speed-e2de086f9095) ☆☆☆
+  - [WebView性能、体验分析与优化](https://tech.meituan.com/2017/06/09/webviewperf.html) ☆☆ 
+  - [移动 H5 首屏秒开优化方案探讨](http://blog.cnbang.net/tech/3477/) ☆☆
+  - [手机QQ Hybrid 的架构如何优化演进](https://mp.weixin.qq.com/s/evzDnTsHrAr2b9jcevwBzA) ☆☆☆
+  - [高性能渲染十万条数据(虚拟列表)](https://juejin.im/post/5db684ddf265da4d495c40e5?utm_source=gold_browser_extension) ☆☆
+  - [网站性能指标 - FMP](http://jartto.wang/2020/03/15/about-web-fmp/) ☆☆
+  - [聚焦 Web 性能指标 TTI](http://jartto.wang/2020/03/29/web-tti/) ☆☆
+- 工具
+  - [YSlow](http://yslow.org)
+  - Performance
+  - [Google PageSpeed](https://developers.google.com/speed/pagespeed/)
+  - LightHouse

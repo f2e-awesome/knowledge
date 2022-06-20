@@ -1,0 +1,23 @@
+{
+  "name": "knowledge",
+  "version": "1.0.0",
+  "description": "![Tags](https://github.com/f2e-awesome/knowledge/blob/master/img/tags.jpg)",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "node ./scripts/content.js && node ./scripts/title.js && node ./scripts/merge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f2e-awesome/knowledge.git"
+  },
+  "author": "Jartto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f2e-awesome/knowledge/issues"
+  },
+  "homepage": "https://github.com/f2e-awesome/knowledge#readme"
+}

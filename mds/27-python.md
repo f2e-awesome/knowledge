@@ -1,0 +1,35 @@
+### Python
+- 初级 ☆
+  - [Python 入门指南](http://www.runoob.com/manual/pythontutorial/docs/html/)
+  - [Python 官方文档](https://www.python.org/)
+  - Python 笔记
+    - [简单语法](http://jartto.wang/2018/06/24/learn-python-3/)
+    - [常用操作](http://jartto.wang/2018/06/12/learn-python-2/)
+    - [Open 文件操作](http://jartto.wang/2018/05/19/learn-python-1/)
+    - ...
+- 中级 ☆☆
+  - [30s Python](http://python.kriadmin.me/) 
+  - [爬虫](https://github.com/facert/awesome-spider)
+    - [Scrapy](http://scrapy-chs.readthedocs.io/zh_CN/0.24/intro/overview.html)
+  - Web 框架
+    - Tornado 
+    - Jinja2 
+    - Flask 
+    - Django 
+- 高级 ☆☆☆
+  - [Cook Book](http://python3-cookbook.readthedocs.io/zh_CN/latest/)
+  - 分布式
+      - Celery
+  - 移动端
+      - Kivy
+  - 数据分析
+      - Pandas
+  - 可视化
+    - Matplotlib
+    - Seaborn
+    - Plotly
+    - Bokeh
+  - 机器学习
+    - Tensorflow
+    - PyTorch
+    - MxNet

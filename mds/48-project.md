@@ -1,0 +1,28 @@
+### 前端工程化
+- [Web 研发模式演变](https://github.com/lifesinger/blog/issues/184) ☆☆
+- [我们是如何做好前端工程化和静态资源管理](https://aotu.io/notes/2016/07/19/A-little-exploration-of-front-end-engineering/index.html) 京东 ☆☆☆
+- [百度 fis](http://fis.baidu.com/fis3/docs/beginning/intro.html) ☆☆
+- [Scrat](http://scrat-team.github.io/#!/quick-start) ☆☆
+- [Grunt](http://www.gruntjs.net/) ☆☆
+- Gulp ☆☆
+  - [Gulp](https://www.gulpjs.com.cn/)
+  - [Gulp 4](https://fettblog.eu/gulp-4-parallel-and-series/)
+- Webpack
+  - [Webpack 4](https://juejin.im/post/5af8fa806fb9a07ac162876d) ☆☆☆
+    - [Webpack 4 配置最佳实践](https://juejin.im/post/5b304f1f51882574c72f19b0?utm_source=gold_browser_extension)
+  - [如何十倍提高你的 webpack 构建效率](https://blog.csdn.net/u011413061/article/details/51872412?from=timeline&isappinstalled=0) ☆☆☆
+  - webpack 性能优化
+    - [减小前端资源大小](https://github.com/yued-fe/y-translation/blob/master/en/Web-Performance-Optimization-with-webpack/Introduction.md) ☆☆
+    - [利用好持久化缓存](https://github.com/yued-fe/y-translation/blob/master/en/Web-Performance-Optimization-with-webpack/Make-Use-of-Long-term-Caching.md) ☆☆☆
+    - [监控和分析应用](https://github.com/yued-fe/y-translation/blob/master/en/Web-Performance-Optimization-with-webpack/Monitor-and-analyze-the-app.md) ☆☆☆
+- Rollup
+- [Browserify](http://browserify.org/) ☆☆
+- [Parcel](http://jartto.wang/2017/12/11/chattered-about-parcel/) ☆☆
+- Babel
+  - [Babel 插件手册](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/zh-Hans/plugin-handbook.md)
+  - [babel-runtime 使用与性能优化](https://juejin.im/entry/5b108f4c6fb9a01e5868ba3d?utm_source=gold_browser_extension)
+  - [babel-polyfill 使用与性能优化](https://juejin.im/entry/5b108f866fb9a01e49293627?utm_source=gold_browser_extension)
+- [什么是 Kubernetes？](https://mp.weixin.qq.com/s/NqBb4FG5cVkoUkqQu7XOlg) ☆☆
+- [有赞前端质量保障体系](https://juejin.im/post/5d24096ee51d454d1d6285a1?utm_source=gold_browser_extension) ☆☆☆
+- [前端工程实践之可视化搭建系统](https://www.zoo.team/article/luban-one?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) ☆☆
+- [前端项目代码质量保障秘藉](https://mp.weixin.qq.com/s/djEyX7zxl51PcYcmP0zfyQ) ☆

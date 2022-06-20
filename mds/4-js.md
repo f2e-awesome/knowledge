@@ -1,5 +1,6 @@
 ### JS
 - 初级 ☆
+  - [JavaScript ES12 新特性抢先体验](https://mp.weixin.qq.com/s/T2IkxRp_PXkhk8T_ciLvjw) ☆
   - [JS 标准参考教程](https://www.kancloud.cn/kancloud/javascript-standards-reference/46466)
   - [原型与原型链](https://github.com/mqyqingfeng/Blog/issues/2)
   - [作用域](https://github.com/mqyqingfeng/Blog/issues/3)与[作用域链](https://github.com/mqyqingfeng/Blog/issues/6)
