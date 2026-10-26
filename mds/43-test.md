@@ -8,6 +8,7 @@
 - 软件测试
   - [你了解软件测试吗？](http://jartto.wang/2017/11/02/grasp-testing/) ☆☆
 - 自动化测试
+  - [agent-qa](https://vostride.com) - 用自然语言测试 Web、Android 和 iOS 应用，结合持久化记忆与经过验证的自我改进，支持 CLI 和 MCP 工作流。
   - [selenium_webdriver](https://www.yiibai.com/selenium/selenium_webdriver.html) ☆☆
   - [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
   - [Appium移动自动化测试](https://www.cnblogs.com/fnng/p/4540731.html) ☆☆
